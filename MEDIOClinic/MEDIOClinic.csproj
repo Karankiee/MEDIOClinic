@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\Generated\**" />
+    <Content Remove="Models\Generated\**" />
+    <EmbeddedResource Remove="Models\Generated\**" />
+    <None Remove="Models\Generated\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Models\Generated\Home.cs" />
+    <Compile Include="Models\Generated\MedicalCenter.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="kentico.xperience.aspnetcore.webapp" Version="13.0.31" />
+    <PackageReference Include="Kentico.Xperience.Libraries" Version="13.0.91" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\css\" />
+  </ItemGroup>
+
+</Project>
+

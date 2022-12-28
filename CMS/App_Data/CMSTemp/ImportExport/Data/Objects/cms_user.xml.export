@@ -1,0 +1,2737 @@
+﻿<cms_user version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>285</TaskID>
+      <TaskTitle>Delete User 'Abigail Woodwarth'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;66&lt;/UserID&gt;
+  &lt;UserName&gt;Abi&lt;/UserName&gt;
+  &lt;FirstName&gt;Abigail&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Woodwarth&lt;/LastName&gt;
+  &lt;FullName&gt;Abigail Woodwarth&lt;/FullName&gt;
+  &lt;Email&gt;abigail.woodwarth@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-US&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:38.987055+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;1a49b7f7-7a0a-440e-b5bd-da405891c5e2&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T17:03:09.8533578+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserHasAllowedCultures&gt;false&lt;/UserHasAllowedCultures&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:34.4043319+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>66</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>286</TaskID>
+      <TaskTitle>Delete User 'CMS Community Administrator'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;74&lt;/UserID&gt;
+  &lt;UserName&gt;cmscommunityadministrator&lt;/UserName&gt;
+  &lt;FirstName&gt;Community Administrator&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;CMS Community Administrator&lt;/FullName&gt;
+  &lt;Email /&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-US&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.5221085+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;0e3fec12-7169-4823-ab7e-f6c9a5c08b64&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:44.8665691+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;true&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.1896497+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>74</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>287</TaskID>
+      <TaskTitle>Delete User 'David Silver'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;84&lt;/UserID&gt;
+  &lt;UserName&gt;David&lt;/UserName&gt;
+  &lt;FirstName&gt;David&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Silver&lt;/LastName&gt;
+  &lt;FullName&gt;David Silver&lt;/FullName&gt;
+  &lt;Email&gt;david.silver@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-us&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.7511314+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;3bc291e3-abb5-4d8d-93c4-8d24eac06121&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:44.9315904+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility&gt;&amp;lt;forms&amp;gt;&amp;lt;form name="cms.user.editprofile"&amp;gt;&amp;lt;field column="Email" visibility="friends" /&amp;gt;&amp;lt;/form&amp;gt;&amp;lt;form name="cms.user.editprofilecommunity"&amp;gt;&amp;lt;field column="Email" visibility="authenticated" /&amp;gt;&amp;lt;/form&amp;gt;&amp;lt;/forms&amp;gt;&lt;/UserVisibility&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.3136346+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>84</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>288</TaskID>
+      <TaskTitle>Delete User 'Ratan Gupta'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;86&lt;/UserID&gt;
+  &lt;UserName&gt;Guru&lt;/UserName&gt;
+  &lt;FirstName&gt;Ratan&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Gupta&lt;/LastName&gt;
+  &lt;FullName&gt;Ratan Gupta&lt;/FullName&gt;
+  &lt;Email&gt;ratan.gupta@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.7991362+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;911b1ae5-8a82-4f91-bccb-34102f83be7b&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:44.9712136+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.411459+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>86</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>289</TaskID>
+      <TaskTitle>Delete User 'Jane Oakley'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;90&lt;/UserID&gt;
+  &lt;UserName&gt;Jenny&lt;/UserName&gt;
+  &lt;FirstName&gt;Jane&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Oakley&lt;/LastName&gt;
+  &lt;FullName&gt;Jane Oakley&lt;/FullName&gt;
+  &lt;Email&gt;jane.oakley@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.8841447+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;98cda5e4-3e83-4251-9d87-2837930c8a1d&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.0184291+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.5167869+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>90</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>290</TaskID>
+      <TaskTitle>Delete User 'James Culligan'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;92&lt;/UserID&gt;
+  &lt;UserName&gt;Jimbo&lt;/UserName&gt;
+  &lt;FirstName&gt;James&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Culligan&lt;/LastName&gt;
+  &lt;FullName&gt;James Culligan&lt;/FullName&gt;
+  &lt;Email&gt;james.culligan@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.9301493+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;2c46f209-afa2-4e31-a886-44540ad36610&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.0564359+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.6277738+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>92</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>291</TaskID>
+      <TaskTitle>Delete User 'Joshua O'Neil'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;93&lt;/UserID&gt;
+  &lt;UserName&gt;Josh&lt;/UserName&gt;
+  &lt;FirstName&gt;Joshua&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;O'Neil&lt;/LastName&gt;
+  &lt;FullName&gt;Joshua O'Neil&lt;/FullName&gt;
+  &lt;Email&gt;joshua.oneil@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.9591522+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;c68e978b-aa7e-41b5-a7c0-b2950e24a5a1&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.085794+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.7330396+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>93</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>292</TaskID>
+      <TaskTitle>Delete User 'Kelly Taylor'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;95&lt;/UserID&gt;
+  &lt;UserName&gt;Kelly&lt;/UserName&gt;
+  &lt;FirstName&gt;Kelly&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Taylor&lt;/LastName&gt;
+  &lt;FullName&gt;Kelly Taylor&lt;/FullName&gt;
+  &lt;Email&gt;kelly.taylor@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.0081571+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;1997b993-e787-493f-be74-4b80f1bee1a3&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T17:03:10.2701562+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.8469634+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>95</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>293</TaskID>
+      <TaskTitle>Delete User 'Mia Lee'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;101&lt;/UserID&gt;
+  &lt;UserName&gt;Mia&lt;/UserName&gt;
+  &lt;FirstName&gt;Mia&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Lee&lt;/LastName&gt;
+  &lt;FullName&gt;Mia Lee&lt;/FullName&gt;
+  &lt;Email&gt;mia.lee@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.1501713+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;7e20f45f-6987-46bb-b262-368f1207ef59&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.1752609+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:35.9594293+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>101</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>294</TaskID>
+      <TaskTitle>Delete User 'Nicole Dubois'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;103&lt;/UserID&gt;
+  &lt;UserName&gt;Nikky&lt;/UserName&gt;
+  &lt;FirstName&gt;Nicole&lt;/FirstName&gt;
+  &lt;MiddleName&gt;Claire&lt;/MiddleName&gt;
+  &lt;LastName&gt;Dubois&lt;/LastName&gt;
+  &lt;FullName&gt;Nicole Dubois&lt;/FullName&gt;
+  &lt;Email&gt;nicole.dubois@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.1931756+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;de260420-5e73-4648-8750-409f9cd2bae2&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.215797+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:36.061868+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>103</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>295</TaskID>
+      <TaskTitle>Delete User 'Wayne Pronger'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;107&lt;/UserID&gt;
+  &lt;UserName&gt;Pogo&lt;/UserName&gt;
+  &lt;FirstName&gt;Wayne&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Pronger&lt;/LastName&gt;
+  &lt;FullName&gt;Wayne Pronger&lt;/FullName&gt;
+  &lt;Email&gt;wayne.pronger@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.2951858+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;84062f32-69c9-4d98-9ccb-7249eb787bcd&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.2653325+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:36.1703716+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>107</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>296</TaskID>
+      <TaskTitle>Delete User 'Jack Stevenson'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;115&lt;/UserID&gt;
+  &lt;UserName&gt;Steevie&lt;/UserName&gt;
+  &lt;FirstName&gt;Jack&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Stevenson&lt;/LastName&gt;
+  &lt;FullName&gt;Jack Stevenson&lt;/FullName&gt;
+  &lt;Email&gt;jack.stevenson@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.5682131+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;1211124c-f2f9-49ea-b281-478c89af91d3&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.3361284+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:36.3019802+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>115</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>297</TaskID>
+      <TaskTitle>Delete User 'Iman Teshome'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;118&lt;/UserID&gt;
+  &lt;UserName&gt;Tessie&lt;/UserName&gt;
+  &lt;FirstName&gt;Iman&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Teshome&lt;/LastName&gt;
+  &lt;FullName&gt;Iman Teshome&lt;/FullName&gt;
+  &lt;Email&gt;iman.teshome@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.6512214+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;f619a037-7677-4742-81fb-219739dd38cf&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.3769029+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:36.4089821+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>118</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>298</TaskID>
+      <TaskTitle>Delete User 'Noel Turpin'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;119&lt;/UserID&gt;
+  &lt;UserName&gt;Turbo&lt;/UserName&gt;
+  &lt;FirstName&gt;Noel&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Turpin&lt;/LastName&gt;
+  &lt;FullName&gt;Noel Turpin&lt;/FullName&gt;
+  &lt;Email&gt;noel.turpin@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.6762239+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;cae08085-23f3-457b-aa0c-5d296f2069d9&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2018-11-27T16:57:45.4146095+01:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserVisibility /&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserActivityPoints&gt;0&lt;/UserActivityPoints&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;WindowsLiveID /&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserFacebookID /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLinkedInID /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserAvatarType&gt;avatar&lt;/UserAvatarType&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:36.5006961+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>119</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1395</TaskID>
+      <TaskTitle>Delete User 'Amanda Lewis'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;67&lt;/UserID&gt;
+  &lt;UserName&gt;AmandaL&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Amanda Lewis&lt;/FullName&gt;
+  &lt;Email&gt;amandal@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.3360899+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;01a83214-56be-4047-b603-c87b3e272635&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:30.7662983+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:44.1461908+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>67</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1396</TaskID>
+      <TaskTitle>Delete User 'Andrew Jones'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;68&lt;/UserID&gt;
+  &lt;UserName&gt;Andy&lt;/UserName&gt;
+  &lt;FirstName&gt;Andrew&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Jones&lt;/LastName&gt;
+  &lt;FullName&gt;Andrew Jones&lt;/FullName&gt;
+  &lt;Email&gt;andy@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode&gt;en-US&lt;/PreferredCultureCode&gt;
+  &lt;PreferredUICultureCode&gt;en-us&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA2SALT&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.3660929+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;646cd67b-6380-462c-be47-d68449445465&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:30.8673515+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserHasAllowedCultures&gt;false&lt;/UserHasAllowedCultures&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:44.7371326+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>68</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1397</TaskID>
+      <TaskTitle>Delete User 'Angela Williams'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;69&lt;/UserID&gt;
+  &lt;UserName&gt;AngelaW&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Angela Williams&lt;/FullName&gt;
+  &lt;Email&gt;angelaw@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.3930956+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;b4b403fa-fd8f-498c-b9bf-f0c6c37b6f2e&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:30.9202061+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:44.8510549+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>69</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1398</TaskID>
+      <TaskTitle>Delete User 'Ben Ramsey'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;70&lt;/UserID&gt;
+  &lt;UserName&gt;BenR&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Ben Ramsey&lt;/FullName&gt;
+  &lt;Email&gt;benr@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.4190982+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;9990fb91-2b97-4dee-83ba-72f26d9a30aa&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:30.9620925+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:44.9756436+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>70</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1399</TaskID>
+      <TaskTitle>Delete User 'Brad Summers'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;71&lt;/UserID&gt;
+  &lt;UserName&gt;BradS&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Brad Summers&lt;/FullName&gt;
+  &lt;Email&gt;brads@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.4501013+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;c26648d2-8eb2-4329-90c9-b72c2aa8cc2e&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.0185984+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.0803913+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>71</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1400</TaskID>
+      <TaskTitle>Delete User 'Cheryl Cox'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;72&lt;/UserID&gt;
+  &lt;UserName&gt;CherylC&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Cheryl Cox&lt;/FullName&gt;
+  &lt;Email&gt;cherylc@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.4751038+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;f330aad1-35fa-401b-bc47-8f12d3eae442&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.0648397+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.2206704+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>72</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1401</TaskID>
+      <TaskTitle>Delete User 'Claire'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;73&lt;/UserID&gt;
+  &lt;UserName&gt;Claire&lt;/UserName&gt;
+  &lt;FirstName&gt;Claire&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Claire&lt;/FullName&gt;
+  &lt;Email&gt;storemanager@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-US&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.4961059+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;99b5c22e-5dd0-43cb-a9b3-3d4cce0f4749&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.1038636+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.3334286+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>73</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1402</TaskID>
+      <TaskTitle>Delete User 'CMS Designer'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;75&lt;/UserID&gt;
+  &lt;UserName&gt;cmsdesigner&lt;/UserName&gt;
+  &lt;FirstName&gt;Designer&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;CMS Designer&lt;/FullName&gt;
+  &lt;Email /&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-us&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.5461109+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;75e874fb-1283-44c9-b26f-0a01f9b670da&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.1528478+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;true&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.4514506+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>75</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1403</TaskID>
+      <TaskTitle>Delete User 'CMS Desk Administrator'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;76&lt;/UserID&gt;
+  &lt;UserName&gt;cmsdeskadministrator&lt;/UserName&gt;
+  &lt;FirstName&gt;Desk Administrator&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;CMS Desk Administrator&lt;/FullName&gt;
+  &lt;Email /&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.567113+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;6b8a9011-6686-42aa-ba4a-689bf3235a25&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.1956783+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;true&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.5643363+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>76</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1404</TaskID>
+      <TaskTitle>Delete User 'CMS Editor'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;77&lt;/UserID&gt;
+  &lt;UserName&gt;cmseditor&lt;/UserName&gt;
+  &lt;FirstName&gt;Editor&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;CMS Editor&lt;/FullName&gt;
+  &lt;Email /&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.5891152+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;62568ae5-88f9-4746-acc7-e0a5d8862a0b&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.2570257+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;true&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.6872723+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>77</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1405</TaskID>
+      <TaskTitle>Delete User 'Marketing Manager'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;78&lt;/UserID&gt;
+  &lt;UserName&gt;cmsmarketingmanager&lt;/UserName&gt;
+  &lt;FirstName&gt;Marketing Manager&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Marketing Manager&lt;/FullName&gt;
+  &lt;Email /&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.6121175+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;8be167a7-90bf-4156-8f6b-4414e4cb240d&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.3124086+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;true&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.8031397+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>78</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1406</TaskID>
+      <TaskTitle>Delete User 'CMS Reader'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;79&lt;/UserID&gt;
+  &lt;UserName&gt;cmsreader&lt;/UserName&gt;
+  &lt;FirstName&gt;Reader&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;CMS Reader&lt;/FullName&gt;
+  &lt;Email /&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-us&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.6301193+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;ac2eea87-80ef-4730-ac17-b7a8fcbcffd5&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.3494086+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;true&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:45.9147552+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>79</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1407</TaskID>
+      <TaskTitle>Delete User 'Colin Douglas'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;80&lt;/UserID&gt;
+  &lt;UserName&gt;ColinD&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Colin Douglas&lt;/FullName&gt;
+  &lt;Email&gt;colind@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.6501213+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;e0c3b55c-4bbd-47f5-b2a6-452624a79a22&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.3924586+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.0251265+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>80</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1408</TaskID>
+      <TaskTitle>Delete User 'Craig Jordan'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;81&lt;/UserID&gt;
+  &lt;UserName&gt;CraigJ&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Craig Jordan&lt;/FullName&gt;
+  &lt;Email&gt;craigj@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.6711234+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;099dfe89-cd3d-4495-8afd-e0ada4e4824d&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.4357438+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.1335529+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>81</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1409</TaskID>
+      <TaskTitle>Delete User 'Cynthia Smith'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;82&lt;/UserID&gt;
+  &lt;UserName&gt;CynthiaS&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Cynthia Smith&lt;/FullName&gt;
+  &lt;Email&gt;cynthias@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.6981261+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;561693eb-b364-4d8e-bfb8-a6016ba72168&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.4875329+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.2527491+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>82</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1410</TaskID>
+      <TaskTitle>Delete User 'Daniel Hansen'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;83&lt;/UserID&gt;
+  &lt;UserName&gt;DanielH&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Daniel Hansen&lt;/FullName&gt;
+  &lt;Email&gt;danielh@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.7251288+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;bd2941d6-2efb-4c53-8554-ceab1745c97d&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.5288838+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.3584701+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>83</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1411</TaskID>
+      <TaskTitle>Delete User 'Sample Gold Partner'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;85&lt;/UserID&gt;
+  &lt;UserName&gt;gold&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Sample Gold Partner&lt;/FullName&gt;
+  &lt;Email&gt;gold@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-us&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA2SALT&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.7761339+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;fe5a0e5f-be54-4971-b0be-8c75fd3b3f46&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.5556045+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.4634507+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>85</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1412</TaskID>
+      <TaskTitle>Delete User 'Hector Erwin'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;87&lt;/UserID&gt;
+  &lt;UserName&gt;HectorE&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Hector Erwin&lt;/FullName&gt;
+  &lt;Email&gt;hectore@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.8221385+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;db69421f-2866-4490-91d7-ef0278ba6b8a&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.6003388+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.5753238+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>87</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1413</TaskID>
+      <TaskTitle>Delete User 'Jeff Wallace'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;88&lt;/UserID&gt;
+  &lt;UserName&gt;JeffW&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Jeff Wallace&lt;/FullName&gt;
+  &lt;Email&gt;jeffw@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.8431406+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;e7c758cc-b908-4a20-a853-dca7e62a6c86&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.6528328+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.6976768+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>88</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1414</TaskID>
+      <TaskTitle>Delete User 'Jennifer Wilson'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;89&lt;/UserID&gt;
+  &lt;UserName&gt;JenniferW&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Jennifer Wilson&lt;/FullName&gt;
+  &lt;Email&gt;jenniferw@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.8621425+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;7ef8e72b-f11c-4a57-9718-3c96b89fe33f&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.6974266+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.8254857+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>89</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1415</TaskID>
+      <TaskTitle>Delete User 'Jerome Webber'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;91&lt;/UserID&gt;
+  &lt;UserName&gt;JeromeW&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Jerome Webber&lt;/FullName&gt;
+  &lt;Email&gt;jeromew@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.9081471+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;77e77096-98f0-4472-ad90-f98a3164bcdb&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.7358838+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:46.9418568+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>91</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1416</TaskID>
+      <TaskTitle>Delete User 'Justin Fletcher'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;94&lt;/UserID&gt;
+  &lt;UserName&gt;JustinF&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Justin Fletcher&lt;/FullName&gt;
+  &lt;Email&gt;justinf@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:39.9861549+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;d05ece46-e0c3-4d7c-a812-e6ed3e7b358d&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.7806559+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:47.0546233+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>94</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1417</TaskID>
+      <TaskTitle>Delete User 'Laura Willson'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;96&lt;/UserID&gt;
+  &lt;UserName&gt;laura&lt;/UserName&gt;
+  &lt;FirstName&gt;Laura&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Willson&lt;/LastName&gt;
+  &lt;FullName&gt;Laura Willson&lt;/FullName&gt;
+  &lt;Email&gt;laura@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode&gt;en-US&lt;/PreferredUICultureCode&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA2SALT&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.0311594+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;d659ba9b-175d-44e4-8031-77a4808d79bc&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.8162818+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;1&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:47.2145213+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>96</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1418</TaskID>
+      <TaskTitle>Delete User 'Laura Grenfell'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;97&lt;/UserID&gt;
+  &lt;UserName&gt;LauraG&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Laura Grenfell&lt;/FullName&gt;
+  &lt;Email&gt;laurag@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.0531616+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;ba6fcec2-cdaf-4d2d-97bb-98f309f9e648&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.8687208+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:47.3646849+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>97</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1419</TaskID>
+      <TaskTitle>Delete User 'Lisa Moore'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;98&lt;/UserID&gt;
+  &lt;UserName&gt;LisaM&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Lisa Moore&lt;/FullName&gt;
+  &lt;Email&gt;lisam@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.077164+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;c9a0a193-1255-4e57-b1fe-712edd770ff1&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.9098614+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:47.5163014+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>98</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1420</TaskID>
+      <TaskTitle>Delete User 'Luke Hillman'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;99&lt;/UserID&gt;
+  &lt;UserName&gt;LukeH&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Luke Hillman&lt;/FullName&gt;
+  &lt;Email&gt;lukeh@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.1041667+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;4094735f-6603-4d86-a8d4-1f635f3d96a0&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:31.9595275+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:47.6712054+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>99</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1421</TaskID>
+      <TaskTitle>Delete User 'Mary Stanton'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;100&lt;/UserID&gt;
+  &lt;UserName&gt;MaryS&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Mary Stanton&lt;/FullName&gt;
+  &lt;Email&gt;marys@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.1261689+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;b44ed59b-fd0a-4de4-9494-8d3fb655f00e&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.00733+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:47.8435601+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>100</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1422</TaskID>
+      <TaskTitle>Delete User 'Michelle Powell'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;102&lt;/UserID&gt;
+  &lt;UserName&gt;MichelleP&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Michelle Powell&lt;/FullName&gt;
+  &lt;Email&gt;michellep@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.1731736+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;c34dd2f9-bdc2-44ee-a2ea-762a37519d1e&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.059149+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:47.9844316+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>102</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1423</TaskID>
+      <TaskTitle>Delete User 'Oscar Hudgins'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;104&lt;/UserID&gt;
+  &lt;UserName&gt;OscarH&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Oscar Hudgins&lt;/FullName&gt;
+  &lt;Email&gt;oscarh@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.2181781+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;592a3d9a-0812-43c2-a506-b0e78f1736cf&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.1014417+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:48.1241093+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>104</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1424</TaskID>
+      <TaskTitle>Delete User 'Patricia Taylor'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;105&lt;/UserID&gt;
+  &lt;UserName&gt;PatriciaT&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Patricia Taylor&lt;/FullName&gt;
+  &lt;Email&gt;patriciat@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.2481811+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;e3b4d566-6497-4876-a401-0d0d9c470b39&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.1391258+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:48.2798454+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>105</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1425</TaskID>
+      <TaskTitle>Delete User 'Phillip Sharp'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;106&lt;/UserID&gt;
+  &lt;UserName&gt;PhilipS&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Phillip Sharp&lt;/FullName&gt;
+  &lt;Email&gt;phillips@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.2721835+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;316113e0-8674-4d45-a922-441b3088597f&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.182789+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:48.4334735+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>106</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1426</TaskID>
+      <TaskTitle>Delete User 'Rachel Vaughn'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;108&lt;/UserID&gt;
+  &lt;UserName&gt;RachelV&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Rachel Vaughn&lt;/FullName&gt;
+  &lt;Email&gt;rachelv@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.3441907+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;d06c99a9-97a2-4a45-9217-8be795537e02&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.2283379+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:48.5532235+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>108</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1427</TaskID>
+      <TaskTitle>Delete User 'Ruth Baker'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;109&lt;/UserID&gt;
+  &lt;UserName&gt;RuthB&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Ruth Baker&lt;/FullName&gt;
+  &lt;Email&gt;ruthb@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.3691932+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;bfe0d677-4ba1-423f-93c2-5b120af86f5c&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.2687481+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:48.6598405+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>109</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1428</TaskID>
+      <TaskTitle>Delete User 'Sean Gaines'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;110&lt;/UserID&gt;
+  &lt;UserName&gt;SeanG&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Sean Gaines&lt;/FullName&gt;
+  &lt;Email&gt;seang@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.4111974+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;2ac5f554-ad44-4311-a967-f6aac8caf979&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.3243324+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:48.8034561+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>110</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1429</TaskID>
+      <TaskTitle>Delete User 'Sharon Evans'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;111&lt;/UserID&gt;
+  &lt;UserName&gt;SharonE&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Sharon Evans&lt;/FullName&gt;
+  &lt;Email&gt;sharone@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.4452008+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;783af20c-60be-4e7f-b661-dd28e3fa79c9&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.3662289+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:48.9474305+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>111</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1430</TaskID>
+      <TaskTitle>Delete User 'Shirley Scott'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;112&lt;/UserID&gt;
+  &lt;UserName&gt;ShirleyS&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Shirley Scott&lt;/FullName&gt;
+  &lt;Email&gt;shirleys@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.4642027+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;356564bd-dbd8-4d8b-9f85-b4eed50038ae&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.4071933+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:49.0670712+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>112</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1431</TaskID>
+      <TaskTitle>Delete User 'Sample Silver Partner'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;113&lt;/UserID&gt;
+  &lt;UserName&gt;silver&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Sample Silver Partner&lt;/FullName&gt;
+  &lt;Email&gt;silver@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.5042067+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;a0f61464-0859-4230-a27a-af02eae09e26&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.4369375+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:49.172816+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>113</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1432</TaskID>
+      <TaskTitle>Delete User 'Simon Lovell'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;114&lt;/UserID&gt;
+  &lt;UserName&gt;SimonL&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Simon Lovell&lt;/FullName&gt;
+  &lt;Email&gt;simonl@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.5452108+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;b3a1f7ac-5259-48fe-9157-ceff67b478bc&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.4785816+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:49.2856269+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>114</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1433</TaskID>
+      <TaskTitle>Delete User 'Susan Campbell'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;116&lt;/UserID&gt;
+  &lt;UserName&gt;SusanC&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Susan Campbell&lt;/FullName&gt;
+  &lt;Email&gt;susanc@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.5932156+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;c22cca87-949f-46d7-af46-638f53e9d525&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.5186976+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:49.4172442+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>116</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1434</TaskID>
+      <TaskTitle>Delete User 'Terrence Chandler'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;117&lt;/UserID&gt;
+  &lt;UserName&gt;TerrenceC&lt;/UserName&gt;
+  &lt;FirstName /&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName /&gt;
+  &lt;FullName&gt;Terrence Chandler&lt;/FullName&gt;
+  &lt;Email&gt;terrencec@localhost.local&lt;/Email&gt;
+  &lt;UserPassword /&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;true&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;SHA1&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2017-01-10T21:46:40.6182181+01:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;ac00e752-675a-464d-8db3-c3b67f1a9e1f&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-03-29T08:33:32.5600809+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:49.5290617+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>117</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>2252</TaskID>
+      <TaskTitle>Delete User 'Jakub Škůrek'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;118&lt;/UserID&gt;
+  &lt;UserName&gt;diablo&lt;/UserName&gt;
+  &lt;FirstName&gt;Jakub&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Škůrek&lt;/LastName&gt;
+  &lt;FullName&gt;Jakub Škůrek&lt;/FullName&gt;
+  &lt;Email&gt;sdsdf@gmail.com&lt;/Email&gt;
+  &lt;UserPassword&gt;ABAnAAD3LvSaKHeFcAWibaMbuW+2D1EuFZggE0neimrflJkFa/SyYHY=&lt;/UserPassword&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;false&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;PBKDF2&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2020-05-21T15:35:37.6725246+02:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;ae299a82-5c57-431b-9ea6-240ede600776&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-05-29T10:22:57.5203213+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserSecurityStamp&gt;c738e4c5-147c-456a-a61f-4ae526104dec&lt;/UserSecurityStamp&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-05-29T10:23:19.9704934+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>118</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>2253</TaskID>
+      <TaskTitle>Delete User 'Jakub Škůrek'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_User&gt;
+  &lt;UserID&gt;119&lt;/UserID&gt;
+  &lt;UserName&gt;lobos&lt;/UserName&gt;
+  &lt;FirstName&gt;Jakub&lt;/FirstName&gt;
+  &lt;MiddleName /&gt;
+  &lt;LastName&gt;Škůrek&lt;/LastName&gt;
+  &lt;FullName&gt;Jakub Škůrek&lt;/FullName&gt;
+  &lt;Email&gt;skurekjwqeweqweakub@gmail.com&lt;/Email&gt;
+  &lt;UserPassword&gt;ABAnAADyaJb+XiJdwD/byt1lyp5KqoHnnh692GJJXak4rIjM3742O40=&lt;/UserPassword&gt;
+  &lt;PreferredCultureCode /&gt;
+  &lt;PreferredUICultureCode /&gt;
+  &lt;UserEnabled&gt;false&lt;/UserEnabled&gt;
+  &lt;UserIsExternal&gt;false&lt;/UserIsExternal&gt;
+  &lt;UserPasswordFormat&gt;PBKDF2&lt;/UserPasswordFormat&gt;
+  &lt;UserCreated&gt;2020-05-21T15:35:37.7265285+02:00&lt;/UserCreated&gt;
+  &lt;UserStartingAliasPath /&gt;
+  &lt;UserGUID&gt;4c5ec121-2fbf-494b-81ed-8c1ed65daa08&lt;/UserGUID&gt;
+  &lt;UserLastModified&gt;2020-05-29T10:22:57.6053234+02:00&lt;/UserLastModified&gt;
+  &lt;UserLastLogonInfo /&gt;
+  &lt;UserIsHidden&gt;false&lt;/UserIsHidden&gt;
+  &lt;UserIsDomain&gt;false&lt;/UserIsDomain&gt;
+  &lt;UserMFRequired&gt;false&lt;/UserMFRequired&gt;
+  &lt;UserPrivilegeLevel&gt;0&lt;/UserPrivilegeLevel&gt;
+  &lt;UserSecurityStamp&gt;bdcc85a4-e5ae-4b4c-9a84-58f3835be4a2&lt;/UserSecurityStamp&gt;
+  &lt;UserNickName /&gt;
+  &lt;UserSignature /&gt;
+  &lt;UserURLReferrer /&gt;
+  &lt;UserCampaign /&gt;
+  &lt;UserGender&gt;0&lt;/UserGender&gt;
+  &lt;UserWaitingForApproval&gt;false&lt;/UserWaitingForApproval&gt;
+  &lt;UserDescription /&gt;
+  &lt;UserSkype /&gt;
+  &lt;UserIM /&gt;
+  &lt;UserPhone /&gt;
+  &lt;UserPosition /&gt;
+  &lt;UserLogActivities&gt;true&lt;/UserLogActivities&gt;
+  &lt;UserShowIntroductionTile&gt;true&lt;/UserShowIntroductionTile&gt;
+&lt;/CMS_User&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-05-29T10:23:20.8524994+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.user</TaskObjectType>
+      <TaskObjectID>119</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_user>

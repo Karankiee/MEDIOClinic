@@ -1,0 +1,26 @@
+﻿<ecommerce_exchangetable version="13.0">
+  <NewDataSet>
+    <com_exchangetable>
+      <ExchangeTableID>1</ExchangeTableID>
+      <ExchangeTableDisplayName>Sample exchange table</ExchangeTableDisplayName>
+      <ExchangeTableGUID>b77908ae-2752-48db-893a-f1a8232b53bc</ExchangeTableGUID>
+      <ExchangeTableLastModified>2020-10-05T19:01:35.7122695+02:00</ExchangeTableLastModified>
+    </com_exchangetable>
+    <com_currencyexchangerate>
+      <ExchagneRateID>1</ExchagneRateID>
+      <ExchangeRateToCurrencyID>2</ExchangeRateToCurrencyID>
+      <ExchangeRateValue>1.351350000</ExchangeRateValue>
+      <ExchangeTableID>1</ExchangeTableID>
+      <ExchangeRateGUID>91382ab3-6f90-48f1-96ae-87bbf77ec481</ExchangeRateGUID>
+      <ExchangeRateLastModified>2020-10-05T19:01:35.6992759+02:00</ExchangeRateLastModified>
+    </com_currencyexchangerate>
+    <com_currencyexchangerate>
+      <ExchagneRateID>2</ExchagneRateID>
+      <ExchangeRateToCurrencyID>1</ExchangeRateToCurrencyID>
+      <ExchangeRateValue>0.052630000</ExchangeRateValue>
+      <ExchangeTableID>1</ExchangeTableID>
+      <ExchangeRateGUID>8201e3e7-7210-493a-999c-a3449cbc8793</ExchangeRateGUID>
+      <ExchangeRateLastModified>2020-10-05T19:01:35.6452862+02:00</ExchangeRateLastModified>
+    </com_currencyexchangerate>
+  </NewDataSet>
+</ecommerce_exchangetable>

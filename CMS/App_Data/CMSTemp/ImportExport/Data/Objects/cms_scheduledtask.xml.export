@@ -1,0 +1,978 @@
+﻿<cms_scheduledtask version="13.0">
+  <NewDataSet>
+    <cms_scheduledtask>
+      <TaskID>33427</TaskID>
+      <TaskName>Search.Azure.TaskExecutor</TaskName>
+      <TaskDisplayName>Execute Azure search tasks</TaskDisplayName>
+      <TaskAssemblyName>CMS.Search.Azure</TaskAssemblyName>
+      <TaskClass>CMS.Search.Azure.SearchTaskExecutor</TaskClass>
+      <TaskInterval>minute;4/26/2017 1:29:55 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:51:11.2801542+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T09:51:55+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>5efb0637-041c-4260-b570-05eff059ee91</TaskGUID>
+      <TaskLastModified>2020-10-14T09:51:11.2841556+02:00</TaskLastModified>
+      <TaskExecutions>5578</TaskExecutions>
+      <TaskResourceID>450</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>1066</TaskID>
+      <TaskName>Content.DeleteOldTemporaryAttachments</TaskName>
+      <TaskDisplayName>Delete old temporary attachments</TaskDisplayName>
+      <TaskAssemblyName>CMS.DocumentEngine</TaskAssemblyName>
+      <TaskClass>CMS.DocumentEngine.TemporaryAttachmentsCleaner</TaskClass>
+      <TaskInterval>hour;4/22/2009 12:00:20 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:07.5821749+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T10:00:20+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>4e5fc15a-aa43-4c73-b8d8-24e65ea7f10d</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:07.799173+02:00</TaskLastModified>
+      <TaskExecutions>156</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>623</TaskID>
+      <TaskName>Email.QueueSender</TaskName>
+      <TaskDisplayName>Send queued emails</TaskDisplayName>
+      <TaskAssemblyName>CMS.Scheduler</TaskAssemblyName>
+      <TaskClass>CMS.Scheduler.QueueSender</TaskClass>
+      <TaskInterval>minute;9/18/2008 9:01:04 AM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:51:11.255154+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T09:52:04+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>1b067823-df3f-4e32-a520-35901f8501bb</TaskGUID>
+      <TaskLastModified>2020-10-14T09:51:11.2561531+02:00</TaskLastModified>
+      <TaskExecutions>5590</TaskExecutions>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33368</TaskID>
+      <TaskName>RecalculateCampaignReports</TaskName>
+      <TaskDisplayName>Recalculate campaign reports</TaskDisplayName>
+      <TaskAssemblyName>CMS.WebAnalytics</TaskAssemblyName>
+      <TaskClass>CMS.WebAnalytics.CalculateCampaignConversionReportTask</TaskClass>
+      <TaskInterval>hour;6/30/2016 10:21:32 AM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:08.9041847+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T10:21:32+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>eea7e53d-0fb3-40bd-826d-4678c46cfda5</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:09.081177+02:00</TaskLastModified>
+      <TaskExecutions>159</TaskExecutions>
+      <TaskResourceID>115</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>2758</TaskID>
+      <TaskName>RentedLicenseUpdater</TaskName>
+      <TaskDisplayName>Rented license updater</TaskDisplayName>
+      <TaskAssemblyName>CMS.Scheduler</TaskAssemblyName>
+      <TaskClass>CMS.Scheduler.RentedLicenseUpdaterTask</TaskClass>
+      <TaskInterval>day;7/13/2011 1:49:55 PM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskNextRunTime>2013-07-20T07:44:59+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>54d610e2-75ce-40be-8c37-4de8b3da254a</TaskGUID>
+      <TaskLastModified>2020-10-05T19:00:52.1178608+02:00</TaskLastModified>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskEnabled>false</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>4426</TaskID>
+      <TaskName>Report_subscription_sender</TaskName>
+      <TaskDisplayName>Report subscription sender</TaskDisplayName>
+      <TaskAssemblyName>CMS.Reporting.Web.UI</TaskAssemblyName>
+      <TaskClass>CMS.Reporting.Web.UI.ReportSubscriptionSender</TaskClass>
+      <TaskInterval>minute;4/10/2012 9:00:44 AM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:51:11.2661594+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T09:51:44+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>fc84271e-b158-4535-8416-4f940e360b1d</TaskGUID>
+      <TaskLastModified>2020-10-14T09:51:11.2711569+02:00</TaskLastModified>
+      <TaskExecutions>5583</TaskExecutions>
+      <TaskResourceID>114</TaskResourceID>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>false</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>1150</TaskID>
+      <TaskName>System.UnusedMemoryCleaner</TaskName>
+      <TaskDisplayName>Clean unused memory</TaskDisplayName>
+      <TaskAssemblyName>CMS.Scheduler</TaskAssemblyName>
+      <TaskClass>CMS.Scheduler.UnusedMemoryCleaner</TaskClass>
+      <TaskInterval>hour;9/16/2009 12:00:00 AM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskNextRunTime>2015-02-17T14:00:00+01:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>6ff7094c-17a0-4a2b-a67e-4fa38edc80db</TaskGUID>
+      <TaskLastModified>2020-10-05T19:00:52.3148608+02:00</TaskLastModified>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>false</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>false</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>3423</TaskID>
+      <TaskName>MembershipReminder</TaskName>
+      <TaskDisplayName>Membership reminder</TaskDisplayName>
+      <TaskAssemblyName>CMS.Membership</TaskAssemblyName>
+      <TaskClass>CMS.Membership.MembershipReminder</TaskClass>
+      <TaskInterval>day;6/30/2011 5:00:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:08.6431733+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-15T05:00:00+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>ac98558e-201f-476e-862b-54ee24e97fd5</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:08.8891775+02:00</TaskLastModified>
+      <TaskExecutions>30</TaskExecutions>
+      <TaskResourceID>242</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33426</TaskID>
+      <TaskName>PersonaContactHistoryRecalculation</TaskName>
+      <TaskDisplayName>Persona's contact history recalculation</TaskDisplayName>
+      <TaskAssemblyName>CMS.Personas</TaskAssemblyName>
+      <TaskClass>CMS.Personas.Internal.PersonaContactHistoryTask</TaskClass>
+      <TaskInterval>once;1/13/2017 2:00:00 AM|1</TaskInterval>
+      <TaskData></TaskData>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>6ff6e693-b6b3-404f-be02-5bfecafb4598</TaskGUID>
+      <TaskLastModified>2020-10-13T16:17:24.0804133+02:00</TaskLastModified>
+      <TaskResourceID>361</TaskResourceID>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>640</TaskID>
+      <TaskName>TimeZone.Recalculate</TaskName>
+      <TaskDisplayName>Recalculate time zone</TaskDisplayName>
+      <TaskAssemblyName>CMS.Scheduler</TaskAssemblyName>
+      <TaskClass>CMS.Scheduler.TimeZoneRecalculate</TaskClass>
+      <TaskInterval>year;1/1/2016 12:00:00 AM;1</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-05-21T15:43:05.3797025+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-20T09:37:39.5319989+02:00</TaskNextRunTime>
+      <TaskLastResult></TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>4f1469a0-8f3f-42a2-9a08-72f27c225271</TaskGUID>
+      <TaskLastModified>2020-10-05T19:00:52.3418585+02:00</TaskLastModified>
+      <TaskExecutions>12</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>true</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>2689</TaskID>
+      <TaskName>RemoveAnalyticsData</TaskName>
+      <TaskDisplayName>Remove analytics data</TaskDisplayName>
+      <TaskAssemblyName>CMS.WebAnalytics</TaskAssemblyName>
+      <TaskClass>CMS.WebAnalytics.RemoveAnalyticsData</TaskClass>
+      <TaskInterval>month;1/1/2011 12:00:00 AM;1</TaskInterval>
+      <TaskData>720</TaskData>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>27824bfe-f16f-4431-949c-82fcfd15e3b7</TaskGUID>
+      <TaskLastModified>2020-10-05T19:00:52.099856+02:00</TaskLastModified>
+      <TaskResourceID>115</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskEnabled>false</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>27749</TaskID>
+      <TaskName>CleanAzureStorageCache</TaskName>
+      <TaskDisplayName>Clean Azure storage cache</TaskDisplayName>
+      <TaskAssemblyName>CMS.AzureStorage</TaskAssemblyName>
+      <TaskClass>CMS.AzureStorage.AzureStorageCacheCleaner</TaskClass>
+      <TaskInterval>day;1/1/2005 12:00:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:08.8761768+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-15T00:00:00+02:00</TaskNextRunTime>
+      <TaskLastResult></TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>92a77d69-93ff-4748-831d-9115938db35c</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:08.8861765+02:00</TaskLastModified>
+      <TaskExecutions>30</TaskExecutions>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>1271</TaskID>
+      <TaskName>DeleteImageEditorHistory</TaskName>
+      <TaskDisplayName>Delete image editor history</TaskDisplayName>
+      <TaskAssemblyName>CMS.Scheduler</TaskAssemblyName>
+      <TaskClass>CMS.Scheduler.DeleteImageEditorHistory</TaskClass>
+      <TaskInterval>hour;7/2/2010 12:39:19 PM;12;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:07.816175+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T12:39:19+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>d4f09853-ddb9-45f8-9d30-a3698b40dc26</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:08.4211799+02:00</TaskLastModified>
+      <TaskExecutions>40</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>32914</TaskID>
+      <TaskName>SalesForce.Replicate</TaskName>
+      <TaskDisplayName>SalesForce replication</TaskDisplayName>
+      <TaskAssemblyName>CMS.SalesForce</TaskAssemblyName>
+      <TaskClass>CMS.SalesForce.SalesForceReplicationTask</TaskClass>
+      <TaskInterval>hour;1/1/2012 12:00:00 AM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:08.8961778+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T10:00:00+02:00</TaskNextRunTime>
+      <TaskLastResult>Salesforce organization access is not authorized.</TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>1b130887-8eb2-44d1-a1aa-ae350376d938</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:08.8981782+02:00</TaskLastModified>
+      <TaskExecutions>156</TaskExecutions>
+      <TaskResourceID>196</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>false</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>24496</TaskID>
+      <TaskName>ModuleUsageTrackingTask</TaskName>
+      <TaskDisplayName>Send module usage data</TaskDisplayName>
+      <TaskAssemblyName>CMS.ModuleUsageTracking</TaskAssemblyName>
+      <TaskClass>CMS.ModuleUsageTracking.Dispatcher</TaskClass>
+      <TaskInterval>week;1/10/2017 3:20:00 AM;1</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-13T03:20:23.1245917+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-20T03:20:00+02:00</TaskNextRunTime>
+      <TaskLastResult></TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>4badf7ab-dfbd-4afd-9a4c-c292969b790f</TaskGUID>
+      <TaskLastModified>2020-10-13T03:20:23.1625949+02:00</TaskLastModified>
+      <TaskExecutions>14</TaskExecutions>
+      <TaskResourceID>403</TaskResourceID>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>false</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>2757</TaskID>
+      <TaskName>EProductReminder</TaskName>
+      <TaskDisplayName>E-product reminder</TaskDisplayName>
+      <TaskAssemblyName>CMS.Ecommerce</TaskAssemblyName>
+      <TaskClass>CMS.Ecommerce.EProductReminder</TaskClass>
+      <TaskInterval>day;7/10/2011 5:00:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:07.8191935+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-15T05:00:00+02:00</TaskNextRunTime>
+      <TaskLastResult>Unable to send emails. E-commerce setting 'Send e-commerce e-mails from' not defined.</TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>edf602fc-94a4-4afe-b58f-c77966cb085a</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:08.3381763+02:00</TaskLastModified>
+      <TaskExecutions>30</TaskExecutions>
+      <TaskResourceID>111</TaskResourceID>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>1156</TaskID>
+      <TaskName>NewsletterSender</TaskName>
+      <TaskDisplayName>Send marketing emails</TaskDisplayName>
+      <TaskAssemblyName>CMS.Newsletters</TaskAssemblyName>
+      <TaskClass>CMS.Newsletters.NewsletterSender</TaskClass>
+      <TaskInterval>minute;9/30/2009 3:39:33 PM;5;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:49:41.1390838+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T09:54:33+02:00</TaskNextRunTime>
+      <TaskLastResult></TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>27c692f2-c5b6-4d7b-b782-cc8bb7df7463</TaskGUID>
+      <TaskLastModified>2020-10-14T09:49:41.1440598+02:00</TaskLastModified>
+      <TaskExecutions>1248</TaskExecutions>
+      <TaskResourceID>108</TaskResourceID>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>2740</TaskID>
+      <TaskName>Integration.ProcessExternalTasks</TaskName>
+      <TaskDisplayName>Process external integration tasks</TaskDisplayName>
+      <TaskAssemblyName>CMS.SynchronizationEngine</TaskAssemblyName>
+      <TaskClass>CMS.Synchronization.IntegrationExternalTasksProcessor</TaskClass>
+      <TaskInterval>day;6/13/2011 1:33:28 PM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-13T13:33:31.0130746+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T13:33:28+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>eefacb2f-c4c8-48a1-9558-d1633e477ab8</TaskGUID>
+      <TaskLastModified>2020-10-13T13:33:31.0670765+02:00</TaskLastModified>
+      <TaskExecutions>29</TaskExecutions>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>false</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33428</TaskID>
+      <TaskName>DeleteOldTemporaryPageBuilderWidgets</TaskName>
+      <TaskDisplayName>Delete old temporary Page builder widgets</TaskDisplayName>
+      <TaskAssemblyName>CMS.DocumentEngine</TaskAssemblyName>
+      <TaskClass>CMS.DocumentEngine.PageBuilder.TempPageBuilderWidgetsCleaner</TaskClass>
+      <TaskInterval>hour;2/20/2018 12:00:00 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:08.947175+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T10:00:00+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>741780c2-0fe0-40ff-9a62-d7e457de46f4</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:09.0111768+02:00</TaskLastModified>
+      <TaskExecutions>153</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>1069</TaskID>
+      <TaskName>Search.IndexOptimizer</TaskName>
+      <TaskDisplayName>Optimize local search indexes</TaskDisplayName>
+      <TaskAssemblyName>CMS.Search</TaskAssemblyName>
+      <TaskClass>CMS.Search.SearchIndexOptimizer</TaskClass>
+      <TaskInterval>week;4/10/2009 12:37:29 PM;1</TaskInterval>
+      <TaskData></TaskData>
+      <TaskNextRunTime>2015-02-20T12:37:29+01:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>501a6ee6-7e28-4474-82ff-e22c334fd5b5</TaskGUID>
+      <TaskLastModified>2020-10-05T19:00:52.2028573+02:00</TaskLastModified>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>false</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>false</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>3004</TaskID>
+      <TaskName>Content.DeleteOldTemporaryUploadFiles</TaskName>
+      <TaskDisplayName>Delete old temporary upload files</TaskDisplayName>
+      <TaskAssemblyName>CMS.Base.Web.UI</TaskAssemblyName>
+      <TaskClass>CMS.Base.Web.UI.TemporaryUploadsCleaner</TaskClass>
+      <TaskInterval>hour;8/16/2011 12:00:30 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:08.4741838+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T10:00:30+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>7c93f262-fdad-4571-a568-eb0ad882825d</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:08.4941864+02:00</TaskLastModified>
+      <TaskExecutions>154</TaskExecutions>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>1068</TaskID>
+      <TaskName>Search.TaskExecutor</TaskName>
+      <TaskDisplayName>Execute local search tasks</TaskDisplayName>
+      <TaskAssemblyName>CMS.Search</TaskAssemblyName>
+      <TaskClass>CMS.Search.SearchTaskExecutor</TaskClass>
+      <TaskInterval>hour;4/8/2009 3:00:00 PM;4;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:07.5831715+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-14T11:00:00+02:00</TaskNextRunTime>
+      <TaskLastResult></TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>fbd459f7-f0b2-4e4a-a392-ec980e0c35a0</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:07.5971727+02:00</TaskLastModified>
+      <TaskExecutions>63</TaskExecutions>
+      <TaskRunInSeparateThread>false</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33447</TaskID>
+      <TaskName>SubscriptionLicenseRenewal</TaskName>
+      <TaskDisplayName>Subscription license renewal</TaskDisplayName>
+      <TaskAssemblyName>CMS.Scheduler</TaskAssemblyName>
+      <TaskClass>CMS.Scheduler.SubscriptionLicenseRenewalTask</TaskClass>
+      <TaskInterval>day;7/13/2011 4:13:31 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:09.2291799+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-15T04:13:31+02:00</TaskNextRunTime>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>be17499a-7695-4fd4-b138-ee01f3bdd196</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:09.236175+02:00</TaskLastModified>
+      <TaskExecutions>7</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>3440</TaskID>
+      <TaskName>DeleteInactiveContacts</TaskName>
+      <TaskDisplayName>Delete inactive contacts</TaskDisplayName>
+      <TaskAssemblyName>CMS.ContactManagement</TaskAssemblyName>
+      <TaskClass>CMS.ContactManagement.DeleteInactiveContacts</TaskClass>
+      <TaskInterval>once;5/25/2016 2:00:00 AM|1</TaskInterval>
+      <TaskData></TaskData>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>5f085350-950d-42e5-86fe-f26bade31afb</TaskGUID>
+      <TaskLastModified>2020-10-13T16:17:24.0154183+02:00</TaskLastModified>
+      <TaskResourceID>196</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>624</TaskID>
+      <TaskName>Email.QueueCleaner</TaskName>
+      <TaskDisplayName>Clean email queue</TaskDisplayName>
+      <TaskAssemblyName>CMS.Scheduler</TaskAssemblyName>
+      <TaskClass>CMS.Scheduler.QueueCleaner</TaskClass>
+      <TaskInterval>day;9/30/2008 12:00:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2020-10-14T09:35:07.5621712+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2020-10-15T00:00:00+02:00</TaskNextRunTime>
+      <TaskLastResult></TaskLastResult>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>f6a7d4dc-0146-4966-be83-f7e3a87df41c</TaskGUID>
+      <TaskLastModified>2020-10-14T09:35:08.1801757+02:00</TaskLastModified>
+      <TaskExecutions>30</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+      <TaskAvailability>0</TaskAvailability>
+    </cms_scheduledtask>
+    <export_task>
+      <TaskID>895</TaskID>
+      <TaskTitle>Delete Scheduled task 'Remove expired sessions'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;641&lt;/TaskID&gt;
+  &lt;TaskName&gt;SessionsRemoveExpiredSessions&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Remove expired sessions&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.Membership&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.Membership.RemoveExpiredSessions&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;minute;9/30/2008 4:26:41 PM|1;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2019-06-28T10:12:24.1186558+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2019-06-28T10:12:41+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;3788d62f-378a-40ed-82b4-7c230e74d773&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2019-06-28T10:12:24.1186558+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;19&lt;/TaskExecutions&gt;
+  &lt;TaskRunInSeparateThread&gt;true&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;false&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;false&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;false&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+&lt;/CMS_ScheduledTask&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:34:07.3059587+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>641</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>896</TaskID>
+      <TaskTitle>Delete Scheduled task 'Update database session'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;642&lt;/TaskID&gt;
+  &lt;TaskName&gt;SessionsUpdateDatabaseSession&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Update database session&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.Membership&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.Membership.UpdateDatabaseSession&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;minute;9/30/2008 4:30:05 PM;2;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2019-06-28T10:12:24.1186558+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2019-06-28T10:14:05+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;c1c3045d-e252-4fb8-92e0-d9530bb944ec&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2019-06-28T10:12:24.1186558+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;14&lt;/TaskExecutions&gt;
+  &lt;TaskRunInSeparateThread&gt;true&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;false&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;false&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;false&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+&lt;/CMS_ScheduledTask&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:34:07.355445+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>642</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>897</TaskID>
+      <TaskTitle>Delete Scheduled task 'Delete old file system cache files'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;6782&lt;/TaskID&gt;
+  &lt;TaskName&gt;Cache.DeleteOldFileSystemCache&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Delete old file system cache files&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.OutputFilter&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.OutputFilter.FileSystemCacheCleaner&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;hour;7/24/2012 5:16:32 PM|1;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2019-06-28T10:12:24.148574+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2019-06-28T10:16:32+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;99a15b0e-bc9b-4fb5-b047-315c56321abd&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2019-06-28T10:12:24.1496005+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;36&lt;/TaskExecutions&gt;
+  &lt;TaskRunInSeparateThread&gt;false&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;false&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;true&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;true&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+&lt;/CMS_ScheduledTask&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:34:07.420428+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>6782</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3614</TaskID>
+      <TaskTitle>Delete Scheduled task 'Process analytics log'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;492&lt;/TaskID&gt;
+  &lt;TaskName&gt;Analytics.LogProcessing&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Process analytics log&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.WebAnalytics&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.WebAnalytics.HitLogProcessor&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;minute;8/26/2008 11:45:23 AM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2020-09-10T13:36:49.3685063+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2020-09-10T13:37:23+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskLastResult&gt;Error: [SchedulingExecutor.ExecuteTask]: Cannot load the provider class 'CMS.WebAnalytics.HitLogProcessor' from the assembly 'taskInfo.TaskAssemblyName'.&lt;/TaskLastResult&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;7f8b5f10-a843-433e-86b7-a4c9c8336328&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2020-09-10T13:36:49.3705077+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;301&lt;/TaskExecutions&gt;
+  &lt;TaskResourceID&gt;115&lt;/TaskResourceID&gt;
+  &lt;TaskRunInSeparateThread&gt;true&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;true&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;true&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;false&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+  &lt;TaskAvailability&gt;0&lt;/TaskAvailability&gt;
+&lt;/CMS_ScheduledTask&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_resource&lt;/ClassName&gt;
+    &lt;ID&gt;115&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.WebAnalytics&lt;/CodeName&gt;
+    &lt;GUID&gt;d3c82114-86f7-4aa9-8206-9b006100641c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.resource&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:09.0425222+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>492</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3615</TaskID>
+      <TaskTitle>Delete Scheduled task 'Clean old chat records'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;4375&lt;/TaskID&gt;
+  &lt;TaskName&gt;ChatOldRecordsCleaner&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Clean old chat records&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.Chat&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.Chat.OldRecordsCleaner&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;day;1/17/2012 3:48:42 PM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2020-09-10T13:35:48.3018254+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2020-09-10T15:48:42+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskLastResult /&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;b679317a-aa15-4eaf-8f8c-7f5c14f9b7e5&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2020-09-10T13:35:48.4478787+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;20&lt;/TaskExecutions&gt;
+  &lt;TaskResourceID&gt;272&lt;/TaskResourceID&gt;
+  &lt;TaskRunInSeparateThread&gt;false&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;false&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;false&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;false&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+  &lt;TaskAvailability&gt;0&lt;/TaskAvailability&gt;
+&lt;/CMS_ScheduledTask&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_resource&lt;/ClassName&gt;
+    &lt;ID&gt;272&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.Chat&lt;/CodeName&gt;
+    &lt;GUID&gt;944e7882-1698-4e87-9036-5d8cd4f98592&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.resource&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:09.1075231+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>4375</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3616</TaskID>
+      <TaskTitle>Delete Scheduled task 'Clean chat online users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;4376&lt;/TaskID&gt;
+  &lt;TaskName&gt;cleanchatonlineusers&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Clean chat online users&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.Chat&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.Chat.ChatOnlineUsersCleaner&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;minute;8/8/2011 6:26:16 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2020-09-10T13:36:49.3835081+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2020-09-10T13:37:16+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskLastResult /&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;8e2dfde4-c894-4984-94da-3f9c81539e56&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2020-09-10T13:36:49.4075065+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;309&lt;/TaskExecutions&gt;
+  &lt;TaskResourceID&gt;272&lt;/TaskResourceID&gt;
+  &lt;TaskRunInSeparateThread&gt;false&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;false&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;false&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;false&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+  &lt;TaskAvailability&gt;0&lt;/TaskAvailability&gt;
+&lt;/CMS_ScheduledTask&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_resource&lt;/ClassName&gt;
+    &lt;ID&gt;272&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.Chat&lt;/CodeName&gt;
+    &lt;GUID&gt;944e7882-1698-4e87-9036-5d8cd4f98592&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.resource&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:09.1175291+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>4376</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3617</TaskID>
+      <TaskTitle>Delete Scheduled task 'Clean chat rooms scheduled to delete'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;4377&lt;/TaskID&gt;
+  &lt;TaskName&gt;DeletedRoomsCleaner&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Clean chat rooms scheduled to delete&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.Chat&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.Chat.DeletedRoomsCleaner&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;day;11/16/2011 12:00:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2020-09-10T13:35:48.5298275+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2020-09-11T00:00:00+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskLastResult /&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;ad35cfc9-9fec-4a6c-9a6e-d21a62683b5d&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2020-09-10T13:35:48.542878+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;22&lt;/TaskExecutions&gt;
+  &lt;TaskResourceID&gt;272&lt;/TaskResourceID&gt;
+  &lt;TaskRunInSeparateThread&gt;false&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;false&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;true&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;false&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+  &lt;TaskAvailability&gt;0&lt;/TaskAvailability&gt;
+&lt;/CMS_ScheduledTask&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_resource&lt;/ClassName&gt;
+    &lt;ID&gt;272&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.Chat&lt;/CodeName&gt;
+    &lt;GUID&gt;944e7882-1698-4e87-9036-5d8cd4f98592&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.resource&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:09.1275344+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>4377</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3618</TaskID>
+      <TaskTitle>Delete Scheduled task 'Clean old initiated chat requests'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;4789&lt;/TaskID&gt;
+  &lt;TaskName&gt;ChatOldInitiatedChatRequestsCleaner&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Clean old initiated chat requests&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.Chat&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.Chat.OldInitiatedChatRequestsCleaner&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;hour;4/11/2012 12:38:14 PM|1;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2020-09-10T13:35:48.5929196+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2020-09-10T13:38:14+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskLastResult /&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;f72e08cc-4e2d-4783-8817-d8d0df0cee42&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2020-09-10T13:35:48.6158878+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;65&lt;/TaskExecutions&gt;
+  &lt;TaskResourceID&gt;272&lt;/TaskResourceID&gt;
+  &lt;TaskRunInSeparateThread&gt;false&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskUseExternalService&gt;false&lt;/TaskUseExternalService&gt;
+  &lt;TaskAllowExternalService&gt;false&lt;/TaskAllowExternalService&gt;
+  &lt;TaskCondition /&gt;
+  &lt;TaskRunIndividually&gt;false&lt;/TaskRunIndividually&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+  &lt;TaskAvailability&gt;0&lt;/TaskAvailability&gt;
+&lt;/CMS_ScheduledTask&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_resource&lt;/ClassName&gt;
+    &lt;ID&gt;272&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.Chat&lt;/CodeName&gt;
+    &lt;GUID&gt;944e7882-1698-4e87-9036-5d8cd4f98592&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.resource&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:09.1395241+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>4789</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3818</TaskID>
+      <TaskTitle>Delete Scheduled task 'Process forum thread views'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_ScheduledTask&gt;
+  &lt;TaskID&gt;671&lt;/TaskID&gt;
+  &lt;TaskName&gt;ForumThreadViewsProcessor&lt;/TaskName&gt;
+  &lt;TaskDisplayName&gt;Process forum thread views&lt;/TaskDisplayName&gt;
+  &lt;TaskAssemblyName&gt;CMS.Forums&lt;/TaskAssemblyName&gt;
+  &lt;TaskClass&gt;CMS.Forums.ThreadViewsProcessor&lt;/TaskClass&gt;
+  &lt;TaskInterval&gt;minute;10/16/2008 8:37:16 AM|1;2;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TaskInterval&gt;
+  &lt;TaskData /&gt;
+  &lt;TaskLastRunTime&gt;2020-09-10T13:35:43.8863697+02:00&lt;/TaskLastRunTime&gt;
+  &lt;TaskNextRunTime&gt;2020-09-10T13:37:16+02:00&lt;/TaskNextRunTime&gt;
+  &lt;TaskDeleteAfterLastRun&gt;false&lt;/TaskDeleteAfterLastRun&gt;
+  &lt;TaskServerName /&gt;
+  &lt;TaskGUID&gt;d931ddd7-9c2e-49b9-b92b-66d25282e1e7&lt;/TaskGUID&gt;
+  &lt;TaskLastModified&gt;2020-09-10T13:41:21.4178231+02:00&lt;/TaskLastModified&gt;
+  &lt;TaskExecutions&gt;251&lt;/TaskExecutions&gt;
+  &lt;TaskResourceID&gt;109&lt;/TaskResourceID&gt;
+  &lt;TaskRunInSeparateThread&gt;true&lt;/TaskRunInSeparateThread&gt;
+  &lt;TaskAllowExternalService&gt;false&lt;/TaskAllowExternalService&gt;
+  &lt;TaskEnabled&gt;true&lt;/TaskEnabled&gt;
+  &lt;TaskIsRunning&gt;false&lt;/TaskIsRunning&gt;
+  &lt;TaskAvailability&gt;0&lt;/TaskAvailability&gt;
+&lt;/CMS_ScheduledTask&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_resource&lt;/ClassName&gt;
+    &lt;ID&gt;109&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.Forums&lt;/CodeName&gt;
+    &lt;GUID&gt;16e96e6c-f16f-49dc-a640-2357418668b8&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.resource&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:25.664825+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.scheduledtask</TaskObjectType>
+      <TaskObjectID>671</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_scheduledtask>

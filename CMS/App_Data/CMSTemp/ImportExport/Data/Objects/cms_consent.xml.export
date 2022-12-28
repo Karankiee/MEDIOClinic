@@ -1,0 +1,24 @@
+﻿<cms_consent version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>2254</TaskID>
+      <TaskTitle>Delete Consent 'Registration Consent'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Consent&gt;
+  &lt;ConsentID&gt;1&lt;/ConsentID&gt;
+  &lt;ConsentDisplayName&gt;Registration Consent&lt;/ConsentDisplayName&gt;
+  &lt;ConsentName&gt;SampleRegistrationConsent&lt;/ConsentName&gt;
+  &lt;ConsentContent&gt;&amp;lt;ConsentContent xmlns:i="http://www.w3.org/2001/XMLSchema-instance"&amp;gt;&amp;lt;ConsentLanguageVersions&amp;gt;&amp;lt;ConsentLanguageVersion&amp;gt;&amp;lt;CultureCode&amp;gt;en-US&amp;lt;/CultureCode&amp;gt;&amp;lt;FullText /&amp;gt;&amp;lt;ShortText&amp;gt;By consenting you agree that Earth is flat.&amp;lt;/ShortText&amp;gt;&amp;lt;/ConsentLanguageVersion&amp;gt;&amp;lt;/ConsentLanguageVersions&amp;gt;&amp;lt;/ConsentContent&amp;gt;&lt;/ConsentContent&gt;
+  &lt;ConsentGuid&gt;9f08275d-0a41-445f-b9af-ee607707a950&lt;/ConsentGuid&gt;
+  &lt;ConsentLastModified&gt;2020-05-21T15:35:36.095518+02:00&lt;/ConsentLastModified&gt;
+  &lt;ConsentHash&gt;3098977deea8c7e2428b5581e15ac0c687480b1e8e6505fea750929fddc51bac&lt;/ConsentHash&gt;
+&lt;/CMS_Consent&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-05-29T10:23:22.2315123+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.consent</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_consent>

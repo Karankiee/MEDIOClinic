@@ -1,0 +1,266 @@
+﻿<cms_settingskey version="13.0">
+  <NewDataSet>
+    <cms_settingskey>
+      <KeyID>70762</KeyID>
+      <KeyName>CMSABTestingEnabled</KeyName>
+      <KeyDisplayName>{$settingskey.cmsabtestingenabled$}</KeyDisplayName>
+      <KeyValue>True</KeyValue>
+      <KeyType>boolean</KeyType>
+      <KeyCategoryID>646</KeyCategoryID>
+      <SiteID>1</SiteID>
+      <KeyGUID>c5ddfd05-4a2c-4e20-8de4-08da3dd51a35</KeyGUID>
+      <KeyLastModified>2020-10-05T18:58:29.0774567+02:00</KeyLastModified>
+      <KeyDefaultValue>True</KeyDefaultValue>
+      <KeyIsHidden>false</KeyIsHidden>
+    </cms_settingskey>
+    <cms_settingskey>
+      <KeyID>70775</KeyID>
+      <KeyName>CMSRoutingMode</KeyName>
+      <KeyDisplayName>{$settingscategory.cmsurlrouting.mode$}</KeyDisplayName>
+      <KeyValue>1</KeyValue>
+      <KeyType>int</KeyType>
+      <KeyCategoryID>1104</KeyCategoryID>
+      <SiteID>1</SiteID>
+      <KeyGUID>a839e232-9d08-403e-95e2-e0b7875e2e6b</KeyGUID>
+      <KeyLastModified>2020-10-05T18:58:29.1054554+02:00</KeyLastModified>
+      <KeyIsHidden>false</KeyIsHidden>
+    </cms_settingskey>
+    <cms_settingscategory>
+      <CategoryID>150</CategoryID>
+      <CategoryDisplayName>{$settingscategory.cmssettings$}</CategoryDisplayName>
+      <CategoryOrder>0</CategoryOrder>
+      <CategoryName>CMS.Settings</CategoryName>
+      <CategoryIDPath>/00000150</CategoryIDPath>
+      <CategoryLevel>0</CategoryLevel>
+      <CategoryChildCount>9</CategoryChildCount>
+      <CategoryIsGroup>false</CategoryIsGroup>
+      <CategoryIsCustom>false</CategoryIsCustom>
+      <CategoryResourceID>325</CategoryResourceID>
+    </cms_settingscategory>
+    <cms_settingscategory>
+      <CategoryID>555</CategoryID>
+      <CategoryDisplayName>{$settingscategory.cmsonlinemarketing$}</CategoryDisplayName>
+      <CategoryOrder>6</CategoryOrder>
+      <CategoryName>CMS.OnlineMarketing</CategoryName>
+      <CategoryParentID>150</CategoryParentID>
+      <CategoryIDPath>/00000150/00000555</CategoryIDPath>
+      <CategoryLevel>1</CategoryLevel>
+      <CategoryChildCount>6</CategoryChildCount>
+      <CategoryIconPath></CategoryIconPath>
+      <CategoryIsGroup>false</CategoryIsGroup>
+      <CategoryIsCustom>false</CategoryIsCustom>
+      <CategoryResourceID>196</CategoryResourceID>
+    </cms_settingscategory>
+    <cms_settingscategory>
+      <CategoryID>11</CategoryID>
+      <CategoryDisplayName>{$settingscategory.cmsurl$}</CategoryDisplayName>
+      <CategoryOrder>3</CategoryOrder>
+      <CategoryName>CMS.URLs</CategoryName>
+      <CategoryParentID>150</CategoryParentID>
+      <CategoryIDPath>/00000150/00000011</CategoryIDPath>
+      <CategoryLevel>1</CategoryLevel>
+      <CategoryChildCount>4</CategoryChildCount>
+      <CategoryIconPath></CategoryIconPath>
+      <CategoryIsGroup>false</CategoryIsGroup>
+      <CategoryIsCustom>false</CategoryIsCustom>
+      <CategoryResourceID>325</CategoryResourceID>
+    </cms_settingscategory>
+    <cms_settingscategory>
+      <CategoryID>646</CategoryID>
+      <CategoryDisplayName>{$settingscategory.cmsonlinemarketingoptimization$}</CategoryDisplayName>
+      <CategoryOrder>2</CategoryOrder>
+      <CategoryName>CMS.OnlineMarketing.Optimization</CategoryName>
+      <CategoryParentID>555</CategoryParentID>
+      <CategoryIDPath>/00000150/00000555/00000646</CategoryIDPath>
+      <CategoryLevel>2</CategoryLevel>
+      <CategoryChildCount>0</CategoryChildCount>
+      <CategoryIconPath></CategoryIconPath>
+      <CategoryIsGroup>true</CategoryIsGroup>
+      <CategoryIsCustom>false</CategoryIsCustom>
+      <CategoryResourceID>196</CategoryResourceID>
+    </cms_settingscategory>
+    <cms_settingscategory>
+      <CategoryID>1104</CategoryID>
+      <CategoryDisplayName>{$settingscategory.cmsurlrouting$}</CategoryDisplayName>
+      <CategoryOrder>1</CategoryOrder>
+      <CategoryName>CMS.URL.Routing</CategoryName>
+      <CategoryParentID>11</CategoryParentID>
+      <CategoryIDPath>/00000150/00000011/00001104</CategoryIDPath>
+      <CategoryLevel>2</CategoryLevel>
+      <CategoryChildCount>0</CategoryChildCount>
+      <CategoryIconPath></CategoryIconPath>
+      <CategoryIsGroup>true</CategoryIsGroup>
+      <CategoryResourceID>325</CategoryResourceID>
+    </cms_settingscategory>
+    <export_task>
+      <TaskID>706</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Settings key 'settingskey.cmsregistrationemailconfirmation'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SettingsKey&gt;
+  &lt;KeyID&gt;70512&lt;/KeyID&gt;
+  &lt;KeyName&gt;CMSRegistrationEmailConfirmation&lt;/KeyName&gt;
+  &lt;KeyDisplayName&gt;{$settingskey.cmsregistrationemailconfirmation$}&lt;/KeyDisplayName&gt;
+  &lt;KeyValue&gt;True&lt;/KeyValue&gt;
+  &lt;KeyType&gt;boolean&lt;/KeyType&gt;
+  &lt;KeyCategoryID&gt;511&lt;/KeyCategoryID&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;KeyGUID&gt;310783ab-5d57-4ed7-aee2-6de48645a113&lt;/KeyGUID&gt;
+  &lt;KeyLastModified&gt;2017-03-03T13:32:40.2103222+01:00&lt;/KeyLastModified&gt;
+  &lt;KeyDefaultValue&gt;True&lt;/KeyDefaultValue&gt;
+  &lt;KeyIsHidden&gt;false&lt;/KeyIsHidden&gt;
+&lt;/CMS_SettingsKey&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_settingscategory&lt;/ClassName&gt;
+    &lt;ID&gt;511&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.Membership.Registrations&lt;/CodeName&gt;
+    &lt;ObjectType&gt;cms.settingscategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:52.2489015+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.settingskey</TaskObjectType>
+      <TaskObjectID>70512</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>779</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Settings key 'Excluded XHTML filter URLs'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SettingsKey&gt;
+  &lt;KeyID&gt;70510&lt;/KeyID&gt;
+  &lt;KeyName&gt;CMSExcludedXHTMLFilterURLs&lt;/KeyName&gt;
+  &lt;KeyDisplayName&gt;{$settingskey.cmsexcludedxhtmlfilterurls$}&lt;/KeyDisplayName&gt;
+  &lt;KeyDescription&gt;{$settingskey.cmsexcludedxhtmlfilterurls.description$}&lt;/KeyDescription&gt;
+  &lt;KeyValue&gt;/&lt;/KeyValue&gt;
+  &lt;KeyType&gt;string&lt;/KeyType&gt;
+  &lt;KeyCategoryID&gt;541&lt;/KeyCategoryID&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;KeyGUID&gt;7f84a8c9-9a73-48e8-a491-9544439158d1&lt;/KeyGUID&gt;
+  &lt;KeyLastModified&gt;2017-03-03T13:32:40.1327123+01:00&lt;/KeyLastModified&gt;
+  &lt;KeyOrder&gt;1&lt;/KeyOrder&gt;
+  &lt;KeyDefaultValue&gt;/&lt;/KeyDefaultValue&gt;
+  &lt;KeyValidation /&gt;
+  &lt;KeyIsGlobal&gt;false&lt;/KeyIsGlobal&gt;
+  &lt;KeyIsCustom&gt;false&lt;/KeyIsCustom&gt;
+  &lt;KeyIsHidden&gt;false&lt;/KeyIsHidden&gt;
+&lt;/CMS_SettingsKey&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_settingscategory&lt;/ClassName&gt;
+    &lt;ID&gt;541&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.OutputFilter.XHTML&lt;/CodeName&gt;
+    &lt;ObjectType&gt;cms.settingscategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:34:00.5190639+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.settingskey</TaskObjectType>
+      <TaskObjectID>70510</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>780</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Settings key 'Page title prefix'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SettingsKey&gt;
+  &lt;KeyID&gt;70511&lt;/KeyID&gt;
+  &lt;KeyName&gt;CMSPageTitlePrefix&lt;/KeyName&gt;
+  &lt;KeyDisplayName&gt;{$settingskey.cmspagetitleprefix$}&lt;/KeyDisplayName&gt;
+  &lt;KeyDescription&gt;{$settingskey.cmspagetitleprefix.description$}&lt;/KeyDescription&gt;
+  &lt;KeyValue&gt;My Site&lt;/KeyValue&gt;
+  &lt;KeyType&gt;string&lt;/KeyType&gt;
+  &lt;KeyCategoryID&gt;505&lt;/KeyCategoryID&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;KeyGUID&gt;43b3720a-c650-4d05-a7fb-c2f2082f37a5&lt;/KeyGUID&gt;
+  &lt;KeyLastModified&gt;2017-03-03T13:32:40.1769393+01:00&lt;/KeyLastModified&gt;
+  &lt;KeyOrder&gt;4&lt;/KeyOrder&gt;
+  &lt;KeyDefaultValue&gt;My Site&lt;/KeyDefaultValue&gt;
+  &lt;KeyValidation /&gt;
+  &lt;KeyIsGlobal&gt;false&lt;/KeyIsGlobal&gt;
+  &lt;KeyIsCustom&gt;false&lt;/KeyIsCustom&gt;
+  &lt;KeyIsHidden&gt;false&lt;/KeyIsHidden&gt;
+&lt;/CMS_SettingsKey&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_settingscategory&lt;/ClassName&gt;
+    &lt;ID&gt;505&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.WebSite.Metadata&lt;/CodeName&gt;
+    &lt;ObjectType&gt;cms.settingscategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:34:00.548091+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.settingskey</TaskObjectType>
+      <TaskObjectID>70511</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3685</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Settings key 'settingskey.cmsusepermanenturls'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SettingsKey&gt;
+  &lt;KeyID&gt;70763&lt;/KeyID&gt;
+  &lt;KeyName&gt;CMSUsePermanentURLs&lt;/KeyName&gt;
+  &lt;KeyDisplayName&gt;{$settingskey.cmsusepermanenturls$}&lt;/KeyDisplayName&gt;
+  &lt;KeyValue&gt;True&lt;/KeyValue&gt;
+  &lt;KeyType&gt;boolean&lt;/KeyType&gt;
+  &lt;KeyCategoryID&gt;566&lt;/KeyCategoryID&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;KeyGUID&gt;0dd4cc15-4501-48f7-aec7-93fdd443b3d6&lt;/KeyGUID&gt;
+  &lt;KeyLastModified&gt;2020-03-29T08:32:00.6330643+02:00&lt;/KeyLastModified&gt;
+  &lt;KeyDefaultValue&gt;True&lt;/KeyDefaultValue&gt;
+  &lt;KeyIsHidden&gt;false&lt;/KeyIsHidden&gt;
+&lt;/CMS_SettingsKey&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_settingscategory&lt;/ClassName&gt;
+    &lt;ID&gt;566&lt;/ID&gt;
+    &lt;CodeName&gt;CMS.URL.Documents&lt;/CodeName&gt;
+    &lt;ObjectType&gt;cms.settingscategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:31.9501803+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.settingskey</TaskObjectType>
+      <TaskObjectID>70763</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_settingskey>

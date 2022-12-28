@@ -1,0 +1,36 @@
+﻿<cms_info version="13.0">
+  <NewDataSet>
+    <cms_info>
+      <Key>machinename</Key>
+      <Value>NG-52-NTB</Value>
+    </cms_info>
+    <cms_info>
+      <Key>domainname</Key>
+      <Value>localhost:443</Value>
+    </cms_info>
+    <cms_info>
+      <Key>currentuser</Key>
+      <Value>administrator</Value>
+    </cms_info>
+    <cms_info>
+      <Key>starttime</Key>
+      <Value>10/14/2020 9:50:40 AM</Value>
+    </cms_info>
+    <cms_info>
+      <Key>systemversion</Key>
+      <Value>13.0.0.0</Value>
+    </cms_info>
+    <cms_info>
+      <Key>hotfixversion</Key>
+      <Value>0</Value>
+    </cms_info>
+    <cms_info>
+      <Key>webapplication</Key>
+      <Value>True</Value>
+    </cms_info>
+    <cms_info>
+      <Key>siteincluded</Key>
+      <Value>True</Value>
+    </cms_info>
+  </NewDataSet>
+</cms_info>

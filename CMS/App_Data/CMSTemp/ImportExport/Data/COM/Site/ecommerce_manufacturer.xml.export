@@ -1,0 +1,13 @@
+﻿<ecommerce_manufacturer version="13.0">
+  <NewDataSet>
+    <com_manufacturer>
+      <ManufacturerID>46</ManufacturerID>
+      <ManufacturerDisplayName>bumbaclot</ManufacturerDisplayName>
+      <ManufacturerEnabled>true</ManufacturerEnabled>
+      <ManufacturerGUID>f6e97d36-a656-48bb-9a70-ba661c264c55</ManufacturerGUID>
+      <ManufacturerLastModified>2020-10-05T18:58:51.3866742+02:00</ManufacturerLastModified>
+      <ManufacturerSiteID>1</ManufacturerSiteID>
+      <ManufacturerName>Bumbaclot</ManufacturerName>
+    </com_manufacturer>
+  </NewDataSet>
+</ecommerce_manufacturer>

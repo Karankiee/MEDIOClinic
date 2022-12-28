@@ -1,0 +1,14 @@
+﻿<cms_site version="13.0">
+  <NewDataSet>
+    <cms_site>
+      <SiteID>1</SiteID>
+      <SiteName>BlankSite</SiteName>
+      <SiteDisplayName>MEDIO Clinic</SiteDisplayName>
+      <SiteStatus>RUNNING</SiteStatus>
+      <SiteDomainName>localhost</SiteDomainName>
+      <SiteGUID>acfdd116-5bc8-406f-93f4-281dec98d80c</SiteGUID>
+      <SiteLastModified>2020-10-12T10:59:51.1104706+02:00</SiteLastModified>
+      <SitePresentationURL>https://localhost/MVC5TutorialCTB/</SitePresentationURL>
+    </cms_site>
+  </NewDataSet>
+</cms_site>

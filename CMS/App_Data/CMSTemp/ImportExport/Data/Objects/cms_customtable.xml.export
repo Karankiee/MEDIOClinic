@@ -1,0 +1,89 @@
+﻿<cms_customtable version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>2247</TaskID>
+      <TaskTitle>Delete Custom table 'Sample table'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Class&gt;
+  &lt;ClassID&gt;5452&lt;/ClassID&gt;
+  &lt;ClassDisplayName&gt;Sample table&lt;/ClassDisplayName&gt;
+  &lt;ClassName&gt;customtable.SampleTable&lt;/ClassName&gt;
+  &lt;ClassUsesVersioning&gt;false&lt;/ClassUsesVersioning&gt;
+  &lt;ClassIsDocumentType&gt;false&lt;/ClassIsDocumentType&gt;
+  &lt;ClassIsCoupledClass&gt;true&lt;/ClassIsCoupledClass&gt;
+  &lt;ClassXmlSchema&gt;&amp;lt;?xml version="1.0" encoding="utf-8"?&amp;gt;
+&amp;lt;xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"&amp;gt;
+  &amp;lt;xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"&amp;gt;
+    &amp;lt;xs:complexType&amp;gt;
+      &amp;lt;xs:choice minOccurs="0" maxOccurs="unbounded"&amp;gt;
+        &amp;lt;xs:element name="customtable_SampleTable"&amp;gt;
+          &amp;lt;xs:complexType&amp;gt;
+            &amp;lt;xs:sequence&amp;gt;
+              &amp;lt;xs:element name="ItemID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" /&amp;gt;
+              &amp;lt;xs:element name="ItemCreatedBy" type="xs:int" minOccurs="0" /&amp;gt;
+              &amp;lt;xs:element name="ItemCreatedWhen" type="xs:dateTime" minOccurs="0" /&amp;gt;
+              &amp;lt;xs:element name="ItemModifiedBy" type="xs:int" minOccurs="0" /&amp;gt;
+              &amp;lt;xs:element name="ItemModifiedWhen" type="xs:dateTime" minOccurs="0" /&amp;gt;
+              &amp;lt;xs:element name="ItemOrder" type="xs:int" minOccurs="0" /&amp;gt;
+              &amp;lt;xs:element name="ItemText"&amp;gt;
+                &amp;lt;xs:simpleType&amp;gt;
+                  &amp;lt;xs:restriction base="xs:string"&amp;gt;
+                    &amp;lt;xs:maxLength value="400" /&amp;gt;
+                  &amp;lt;/xs:restriction&amp;gt;
+                &amp;lt;/xs:simpleType&amp;gt;
+              &amp;lt;/xs:element&amp;gt;
+              &amp;lt;xs:element name="ItemGUID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" /&amp;gt;
+            &amp;lt;/xs:sequence&amp;gt;
+          &amp;lt;/xs:complexType&amp;gt;
+        &amp;lt;/xs:element&amp;gt;
+      &amp;lt;/xs:choice&amp;gt;
+    &amp;lt;/xs:complexType&amp;gt;
+    &amp;lt;xs:unique name="Constraint1" msdata:PrimaryKey="true"&amp;gt;
+      &amp;lt;xs:selector xpath=".//customtable_SampleTable" /&amp;gt;
+      &amp;lt;xs:field xpath="ItemID" /&amp;gt;
+    &amp;lt;/xs:unique&amp;gt;
+  &amp;lt;/xs:element&amp;gt;
+&amp;lt;/xs:schema&amp;gt;&lt;/ClassXmlSchema&gt;
+  &lt;ClassFormDefinition&gt;&amp;lt;form version="2"&amp;gt;&amp;lt;field column="ItemID" columntype="integer" guid="af6c3172-d38f-4777-ad2e-0d8559ea9c89" isPK="true" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item ID&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;controlname&amp;gt;labelcontrol&amp;lt;/controlname&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="ItemCreatedBy" columntype="integer" guid="9630c70f-35be-4c1c-9ea6-fc43f83de467" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item created by&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;controlname&amp;gt;textboxcontrol&amp;lt;/controlname&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="ItemCreatedWhen" columntype="datetime" guid="c75397b3-4a5d-458d-8113-ee69bad84437" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item created when&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;controlname&amp;gt;calendarcontrol&amp;lt;/controlname&amp;gt;&amp;lt;displayNow&amp;gt;true&amp;lt;/displayNow&amp;gt;&amp;lt;editTime&amp;gt;false&amp;lt;/editTime&amp;gt;&amp;lt;timezonetype&amp;gt;inherit&amp;lt;/timezonetype&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="ItemModifiedBy" columntype="integer" guid="c494c0cd-bb71-43b6-a048-74fcae1b43b0" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item modified by&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;controlname&amp;gt;textboxcontrol&amp;lt;/controlname&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="ItemModifiedWhen" columntype="datetime" guid="a9406dc1-6ce2-4ed0-92eb-2ae0d1abbad4" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item modified when&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;controlname&amp;gt;calendarcontrol&amp;lt;/controlname&amp;gt;&amp;lt;displayNow&amp;gt;true&amp;lt;/displayNow&amp;gt;&amp;lt;editTime&amp;gt;false&amp;lt;/editTime&amp;gt;&amp;lt;timezonetype&amp;gt;inherit&amp;lt;/timezonetype&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field allowempty="true" column="ItemOrder" columntype="integer" guid="7a26d9aa-d886-4630-b05a-efff1bad9307" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item order&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;controlname&amp;gt;textboxcontrol&amp;lt;/controlname&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="ItemText" columnsize="400" columntype="text" guid="c15ac8bb-0048-4811-a6d1-87cc401e052d" visible="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item text&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;AutoCompleteEnableCaching&amp;gt;False&amp;lt;/AutoCompleteEnableCaching&amp;gt;&amp;lt;AutoCompleteFirstRowSelected&amp;gt;False&amp;lt;/AutoCompleteFirstRowSelected&amp;gt;&amp;lt;AutoCompleteShowOnlyCurrentWordInCompletionListItem&amp;gt;False&amp;lt;/AutoCompleteShowOnlyCurrentWordInCompletionListItem&amp;gt;&amp;lt;controlname&amp;gt;TextBoxControl&amp;lt;/controlname&amp;gt;&amp;lt;FilterMode&amp;gt;False&amp;lt;/FilterMode&amp;gt;&amp;lt;Trim&amp;gt;False&amp;lt;/Trim&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;field column="ItemGUID" columntype="guid" guid="17338d71-9efe-4ee6-bfca-d98636ba5e4c" system="true"&amp;gt;&amp;lt;properties&amp;gt;&amp;lt;fieldcaption&amp;gt;Item GUID&amp;lt;/fieldcaption&amp;gt;&amp;lt;/properties&amp;gt;&amp;lt;settings&amp;gt;&amp;lt;controlname&amp;gt;labelcontrol&amp;lt;/controlname&amp;gt;&amp;lt;/settings&amp;gt;&amp;lt;/field&amp;gt;&amp;lt;/form&amp;gt;&lt;/ClassFormDefinition&gt;
+  &lt;ClassNodeNameSource /&gt;
+  &lt;ClassTableName&gt;customtable_SampleTable&lt;/ClassTableName&gt;
+  &lt;ClassFormLayout /&gt;
+  &lt;ClassShowAsSystemTable&gt;false&lt;/ClassShowAsSystemTable&gt;
+  &lt;ClassUsePublishFromTo&gt;false&lt;/ClassUsePublishFromTo&gt;
+  &lt;ClassShowTemplateSelection&gt;false&lt;/ClassShowTemplateSelection&gt;
+  &lt;ClassIsMenuItemType&gt;false&lt;/ClassIsMenuItemType&gt;
+  &lt;ClassNodeAliasSource /&gt;
+  &lt;ClassLastModified&gt;2020-05-21T15:36:33.5134795+02:00&lt;/ClassLastModified&gt;
+  &lt;ClassGUID&gt;f3ea886a-4ed5-406f-bf20-6fd0d049880c&lt;/ClassGUID&gt;
+  &lt;ClassCreateSKU&gt;false&lt;/ClassCreateSKU&gt;
+  &lt;ClassIsProduct&gt;false&lt;/ClassIsProduct&gt;
+  &lt;ClassIsCustomTable&gt;true&lt;/ClassIsCustomTable&gt;
+  &lt;ClassShowColumns&gt;ItemID;ItemCreatedBy;ItemCreatedWhen;ItemText;ItemGUID&lt;/ClassShowColumns&gt;
+  &lt;ClassSearchTitleColumn&gt;ItemText&lt;/ClassSearchTitleColumn&gt;
+  &lt;ClassSearchContentColumn&gt;0&lt;/ClassSearchContentColumn&gt;
+  &lt;ClassSearchImageColumn /&gt;
+  &lt;ClassSearchCreationDateColumn&gt;ItemCreatedWhen&lt;/ClassSearchCreationDateColumn&gt;
+  &lt;ClassSearchSettings&gt;&amp;lt;search&amp;gt;&amp;lt;item content="False" id="09f2500e-7b0d-41b6-ab54-57ac6f9d2502" name="ItemGUID" searchable="False" tokenized="False" /&amp;gt;&amp;lt;item content="False" id="344d0422-b428-4052-a174-18122017c6b4" name="ItemID" searchable="True" tokenized="False" /&amp;gt;&amp;lt;item content="False" id="3aef0535-81b5-457e-acd4-0bb656903f45" name="ItemCreatedBy" searchable="True" tokenized="False" /&amp;gt;&amp;lt;item content="False" id="5a16415d-847e-491c-8b40-ff1f963904e1" name="ItemOrder" searchable="True" tokenized="False" /&amp;gt;&amp;lt;item content="False" id="75fb3059-701b-4541-a01c-4b0e49d5f1c0" name="ItemModifiedWhen" searchable="True" tokenized="False" /&amp;gt;&amp;lt;item content="True" id="9026c340-b95e-4a60-8b9e-c9beb21e17cc" name="ItemText" searchable="False" tokenized="True" /&amp;gt;&amp;lt;item content="False" id="cf52f156-82f6-418d-8555-97a29ec97881" name="ItemCreatedWhen" searchable="True" tokenized="False" /&amp;gt;&amp;lt;item content="False" id="dcb9685c-af13-4020-a400-368ff39f54a5" name="ItemModifiedBy" searchable="True" tokenized="False" /&amp;gt;&amp;lt;/search&amp;gt;&lt;/ClassSearchSettings&gt;
+  &lt;ClassSearchEnabled&gt;true&lt;/ClassSearchEnabled&gt;
+  &lt;ClassContactOverwriteEnabled&gt;false&lt;/ClassContactOverwriteEnabled&gt;
+  &lt;ClassConnectionString&gt;CMSConnectionString&lt;/ClassConnectionString&gt;
+  &lt;ClassIsProductSection&gt;false&lt;/ClassIsProductSection&gt;
+  &lt;ClassFormLayoutType&gt;html&lt;/ClassFormLayoutType&gt;
+  &lt;ClassVersionGUID&gt;31d404dd-0b36-4bab-ab11-fb6b3f35e8b6&lt;/ClassVersionGUID&gt;
+  &lt;ClassDefaultObjectType&gt;customtableitem.customtable.sampletable&lt;/ClassDefaultObjectType&gt;
+  &lt;ClassIsForm&gt;false&lt;/ClassIsForm&gt;
+  &lt;ClassCustomizedColumns /&gt;
+  &lt;ClassUsesPageBuilder&gt;false&lt;/ClassUsesPageBuilder&gt;
+  &lt;ClassIsNavigationItem&gt;false&lt;/ClassIsNavigationItem&gt;
+  &lt;ClassHasURL&gt;false&lt;/ClassHasURL&gt;
+  &lt;ClassHasMetadata&gt;false&lt;/ClassHasMetadata&gt;
+&lt;/CMS_Class&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-05-21T15:36:40.5575126+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.customtable</TaskObjectType>
+      <TaskObjectID>5452</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_customtable>

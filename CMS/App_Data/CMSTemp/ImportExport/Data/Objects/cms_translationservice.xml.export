@@ -1,0 +1,97 @@
+﻿<cms_translationservice version="13.0">
+  <NewDataSet>
+    <cms_translationservice>
+      <TranslationServiceID>11</TranslationServiceID>
+      <TranslationServiceAssemblyName>CMS.TranslationServices</TranslationServiceAssemblyName>
+      <TranslationServiceClassName>CMS.TranslationServices.EmailTranslationService</TranslationServiceClassName>
+      <TranslationServiceName>EmailTranslationService</TranslationServiceName>
+      <TranslationServiceDisplayName>Translation via e-mail</TranslationServiceDisplayName>
+      <TranslationServiceIsMachine>false</TranslationServiceIsMachine>
+      <TranslationServiceLastModified>2020-10-05T18:58:45.9086259+02:00</TranslationServiceLastModified>
+      <TranslationServiceGUID>b6673be3-2567-4abf-865d-18b40f860f41</TranslationServiceGUID>
+      <TranslationServiceEnabled>true</TranslationServiceEnabled>
+      <TranslationServiceSupportsInstructions>true</TranslationServiceSupportsInstructions>
+      <TranslationServiceSupportsPriority>true</TranslationServiceSupportsPriority>
+      <TranslationServiceSupportsDeadline>true</TranslationServiceSupportsDeadline>
+      <TranslationServiceSupportsStatusUpdate>true</TranslationServiceSupportsStatusUpdate>
+      <TranslationServiceSupportsCancel>false</TranslationServiceSupportsCancel>
+    </cms_translationservice>
+    <cms_translationservice>
+      <TranslationServiceID>6</TranslationServiceID>
+      <TranslationServiceAssemblyName>CMS.TranslationServices</TranslationServiceAssemblyName>
+      <TranslationServiceClassName>CMS.TranslationServices.GoogleTranslatorService</TranslationServiceClassName>
+      <TranslationServiceName>GoogleTranslator</TranslationServiceName>
+      <TranslationServiceDisplayName>Google Translator</TranslationServiceDisplayName>
+      <TranslationServiceIsMachine>true</TranslationServiceIsMachine>
+      <TranslationServiceLastModified>2020-10-05T18:58:45.9356206+02:00</TranslationServiceLastModified>
+      <TranslationServiceGUID>37a818b3-0e12-46b8-afb3-51b692863cd3</TranslationServiceGUID>
+      <TranslationServiceEnabled>true</TranslationServiceEnabled>
+      <TranslationServiceSupportsInstructions>false</TranslationServiceSupportsInstructions>
+      <TranslationServiceSupportsPriority>false</TranslationServiceSupportsPriority>
+      <TranslationServiceSupportsDeadline>false</TranslationServiceSupportsDeadline>
+      <TranslationServiceSupportsStatusUpdate>false</TranslationServiceSupportsStatusUpdate>
+      <TranslationServiceSupportsCancel>false</TranslationServiceSupportsCancel>
+    </cms_translationservice>
+    <cms_translationservice>
+      <TranslationServiceID>7</TranslationServiceID>
+      <TranslationServiceAssemblyName>CMS.TranslationServices</TranslationServiceAssemblyName>
+      <TranslationServiceClassName>CMS.TranslationServices.MicrosoftTranslatorService</TranslationServiceClassName>
+      <TranslationServiceName>MicrosoftTranslator</TranslationServiceName>
+      <TranslationServiceDisplayName>Microsoft Translator</TranslationServiceDisplayName>
+      <TranslationServiceIsMachine>true</TranslationServiceIsMachine>
+      <TranslationServiceLastModified>2020-10-05T18:58:45.9656223+02:00</TranslationServiceLastModified>
+      <TranslationServiceGUID>bcbaecd3-f974-4561-b989-72af93066817</TranslationServiceGUID>
+      <TranslationServiceEnabled>true</TranslationServiceEnabled>
+      <TranslationServiceSupportsInstructions>false</TranslationServiceSupportsInstructions>
+      <TranslationServiceSupportsPriority>false</TranslationServiceSupportsPriority>
+      <TranslationServiceSupportsDeadline>false</TranslationServiceSupportsDeadline>
+      <TranslationServiceSupportsStatusUpdate>false</TranslationServiceSupportsStatusUpdate>
+      <TranslationServiceSupportsCancel>false</TranslationServiceSupportsCancel>
+    </cms_translationservice>
+    <cms_translationservice>
+      <TranslationServiceID>10</TranslationServiceID>
+      <TranslationServiceAssemblyName>CMS.TranslationServices</TranslationServiceAssemblyName>
+      <TranslationServiceClassName>CMS.TranslationServices.ManualTranslationService</TranslationServiceClassName>
+      <TranslationServiceName>ManualTranslation</TranslationServiceName>
+      <TranslationServiceDisplayName>Manual translation</TranslationServiceDisplayName>
+      <TranslationServiceIsMachine>false</TranslationServiceIsMachine>
+      <TranslationServiceLastModified>2020-10-05T18:58:45.9516207+02:00</TranslationServiceLastModified>
+      <TranslationServiceGUID>48ff15f8-d234-47f3-a0d8-78b1b5de5546</TranslationServiceGUID>
+      <TranslationServiceEnabled>true</TranslationServiceEnabled>
+      <TranslationServiceSupportsInstructions>true</TranslationServiceSupportsInstructions>
+      <TranslationServiceSupportsPriority>true</TranslationServiceSupportsPriority>
+      <TranslationServiceSupportsDeadline>true</TranslationServiceSupportsDeadline>
+      <TranslationServiceParameter></TranslationServiceParameter>
+      <TranslationServiceSupportsStatusUpdate>true</TranslationServiceSupportsStatusUpdate>
+      <TranslationServiceSupportsCancel>true</TranslationServiceSupportsCancel>
+    </cms_translationservice>
+    <export_task>
+      <TaskID>2246</TaskID>
+      <TaskTitle>Delete Translation service 'Translations.com'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_TranslationService&gt;
+  &lt;TranslationServiceID&gt;2&lt;/TranslationServiceID&gt;
+  &lt;TranslationServiceAssemblyName&gt;CMS.TranslationServices&lt;/TranslationServiceAssemblyName&gt;
+  &lt;TranslationServiceClassName&gt;CMS.TranslationServices.TranslationsComService&lt;/TranslationServiceClassName&gt;
+  &lt;TranslationServiceName&gt;TranslationsCom&lt;/TranslationServiceName&gt;
+  &lt;TranslationServiceDisplayName&gt;Translations.com&lt;/TranslationServiceDisplayName&gt;
+  &lt;TranslationServiceIsMachine&gt;false&lt;/TranslationServiceIsMachine&gt;
+  &lt;TranslationServiceLastModified&gt;2017-12-12T16:17:08.8603757+01:00&lt;/TranslationServiceLastModified&gt;
+  &lt;TranslationServiceGUID&gt;9c05c042-39e7-44ff-bd54-a2bdb334cae0&lt;/TranslationServiceGUID&gt;
+  &lt;TranslationServiceEnabled&gt;true&lt;/TranslationServiceEnabled&gt;
+  &lt;TranslationServiceSupportsInstructions&gt;true&lt;/TranslationServiceSupportsInstructions&gt;
+  &lt;TranslationServiceSupportsPriority&gt;false&lt;/TranslationServiceSupportsPriority&gt;
+  &lt;TranslationServiceSupportsDeadline&gt;true&lt;/TranslationServiceSupportsDeadline&gt;
+  &lt;TranslationServiceGenerateTargetTag&gt;true&lt;/TranslationServiceGenerateTargetTag&gt;
+  &lt;TranslationServiceSupportsStatusUpdate&gt;false&lt;/TranslationServiceSupportsStatusUpdate&gt;
+  &lt;TranslationServiceSupportsCancel&gt;false&lt;/TranslationServiceSupportsCancel&gt;
+&lt;/CMS_TranslationService&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-05-21T15:36:37.1834975+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.translationservice</TaskObjectType>
+      <TaskObjectID>2</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_translationservice>

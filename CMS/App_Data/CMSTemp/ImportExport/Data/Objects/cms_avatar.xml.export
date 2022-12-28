@@ -1,0 +1,1552 @@
+﻿<cms_avatar version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>267</TaskID>
+      <TaskTitle>Delete Avatar 'group_africa'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;41&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;group_africa&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group_africa.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarType&gt;Group&lt;/AvatarType&gt;
+  &lt;AvatarIsCustom&gt;true&lt;/AvatarIsCustom&gt;
+  &lt;AvatarGUID&gt;2a471e10-edc9-4053-b71b-674a749de73a&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.8146725+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7274&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+  &lt;DefaultMaleUserAvatar&gt;false&lt;/DefaultMaleUserAvatar&gt;
+  &lt;DefaultFemaleUserAvatar&gt;false&lt;/DefaultFemaleUserAvatar&gt;
+  &lt;DefaultGroupAvatar&gt;false&lt;/DefaultGroupAvatar&gt;
+  &lt;DefaultUserAvatar&gt;false&lt;/DefaultUserAvatar&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:29.4224011+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>41</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>269</TaskID>
+      <TaskTitle>Delete Avatar 'group_america'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;42&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;group_america&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group_america.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarType&gt;Group&lt;/AvatarType&gt;
+  &lt;AvatarIsCustom&gt;true&lt;/AvatarIsCustom&gt;
+  &lt;AvatarGUID&gt;85af9b36-fb3e-437f-809f-3fa50e35514b&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.8331287+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;5364&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+  &lt;DefaultMaleUserAvatar&gt;false&lt;/DefaultMaleUserAvatar&gt;
+  &lt;DefaultFemaleUserAvatar&gt;false&lt;/DefaultFemaleUserAvatar&gt;
+  &lt;DefaultGroupAvatar&gt;false&lt;/DefaultGroupAvatar&gt;
+  &lt;DefaultUserAvatar&gt;false&lt;/DefaultUserAvatar&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:29.5744503+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>42</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>271</TaskID>
+      <TaskTitle>Delete Avatar 'group_asia'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;43&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;group_asia&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group_asia.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarType&gt;Group&lt;/AvatarType&gt;
+  &lt;AvatarIsCustom&gt;true&lt;/AvatarIsCustom&gt;
+  &lt;AvatarGUID&gt;c462703d-cca9-48e6-839f-0bb514b373ca&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.8503562+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;8093&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+  &lt;DefaultMaleUserAvatar&gt;false&lt;/DefaultMaleUserAvatar&gt;
+  &lt;DefaultFemaleUserAvatar&gt;false&lt;/DefaultFemaleUserAvatar&gt;
+  &lt;DefaultGroupAvatar&gt;false&lt;/DefaultGroupAvatar&gt;
+  &lt;DefaultUserAvatar&gt;false&lt;/DefaultUserAvatar&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:29.6371945+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>43</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>273</TaskID>
+      <TaskTitle>Delete Avatar 'group_australia'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;44&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;group_australia&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group_australia.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarType&gt;Group&lt;/AvatarType&gt;
+  &lt;AvatarIsCustom&gt;true&lt;/AvatarIsCustom&gt;
+  &lt;AvatarGUID&gt;035e8c45-f0dd-42cf-ba74-64a3f5ab29d4&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.8653817+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;5615&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+  &lt;DefaultMaleUserAvatar&gt;false&lt;/DefaultMaleUserAvatar&gt;
+  &lt;DefaultFemaleUserAvatar&gt;false&lt;/DefaultFemaleUserAvatar&gt;
+  &lt;DefaultGroupAvatar&gt;false&lt;/DefaultGroupAvatar&gt;
+  &lt;DefaultUserAvatar&gt;false&lt;/DefaultUserAvatar&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:29.7023493+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>44</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>275</TaskID>
+      <TaskTitle>Delete Avatar 'Custom Czech_Republic_fans'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;10&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom Czech_Republic_fans&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group_czech_fans.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarType&gt;Group&lt;/AvatarType&gt;
+  &lt;AvatarIsCustom&gt;true&lt;/AvatarIsCustom&gt;
+  &lt;AvatarGUID&gt;bd3c1aa8-d078-4c9e-8f4e-b58c0b49345f&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.1052492+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;5636&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+  &lt;DefaultMaleUserAvatar&gt;false&lt;/DefaultMaleUserAvatar&gt;
+  &lt;DefaultFemaleUserAvatar&gt;false&lt;/DefaultFemaleUserAvatar&gt;
+  &lt;DefaultGroupAvatar&gt;false&lt;/DefaultGroupAvatar&gt;
+  &lt;DefaultUserAvatar&gt;false&lt;/DefaultUserAvatar&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:29.7621838+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>10</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>277</TaskID>
+      <TaskTitle>Delete Avatar 'group_europe'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;45&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;group_europe&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group_europe.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarType&gt;Group&lt;/AvatarType&gt;
+  &lt;AvatarIsCustom&gt;true&lt;/AvatarIsCustom&gt;
+  &lt;AvatarGUID&gt;ef9e5153-e292-4a36-bf54-ed2b9c8644bc&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.8880296+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;5785&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+  &lt;DefaultMaleUserAvatar&gt;false&lt;/DefaultMaleUserAvatar&gt;
+  &lt;DefaultFemaleUserAvatar&gt;false&lt;/DefaultFemaleUserAvatar&gt;
+  &lt;DefaultGroupAvatar&gt;false&lt;/DefaultGroupAvatar&gt;
+  &lt;DefaultUserAvatar&gt;false&lt;/DefaultUserAvatar&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:29.8269162+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>45</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>656</TaskID>
+      <TaskTitle>Delete Avatar 'Custom AmandaL'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;1&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom AmandaL&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;12.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;862bf0bf-5bc1-448d-a41f-3276a64580f2&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:22.889255+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;13014&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:30.7034093+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>657</TaskID>
+      <TaskTitle>Delete Avatar 'Custom Andy_1'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;2&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom Andy_1&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;andyj.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;f95edd15-94d9-4c0d-867d-fc02cdb68eaf&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:22.9238415+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10636&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:30.7999724+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>2</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>658</TaskID>
+      <TaskTitle>Delete Avatar 'Custom AngelaW'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;3&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom AngelaW&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;16.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;e9580a43-bd9d-48e2-9fd4-966ce97ae7eb&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:22.9470839+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;12064&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:30.9020307+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>3</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>659</TaskID>
+      <TaskTitle>Delete Avatar 'Custom BenR'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;4&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom BenR&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;11.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;06ba979d-3673-4239-9064-bd2f7f426f1a&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:22.9674428+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10867&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:30.9468267+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>4</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>660</TaskID>
+      <TaskTitle>Delete Avatar 'Custom BradS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;5&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom BradS&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;09.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;ea523ea7-7351-4fed-af1f-18188bae200e&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:22.9876087+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;11320&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:30.9912266+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>5</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>661</TaskID>
+      <TaskTitle>Delete Avatar 'Custom CherylC'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;6&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom CherylC&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;05.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;426c1711-4301-4e9d-8c5d-77de80d15ede&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.0171788+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;12238&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.0529043+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>6</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>662</TaskID>
+      <TaskTitle>Delete Avatar 'Custom ColinD'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;7&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom ColinD&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;07.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;0098602c-bda1-46fe-bd8b-3b2408cefaec&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.0402045+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10360&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.3774331+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>7</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>663</TaskID>
+      <TaskTitle>Delete Avatar 'Custom CraigJ'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;8&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom CraigJ&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;06.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;7211f681-9a89-484f-aeff-f04e5eba29ce&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.0646428+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;9633&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.4227115+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>8</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>664</TaskID>
+      <TaskTitle>Delete Avatar 'Custom CynthiaS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;9&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom CynthiaS&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;13.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;220432dd-dae6-44e4-baef-845a62553ac1&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.0834572+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10795&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.4728305+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>9</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>665</TaskID>
+      <TaskTitle>Delete Avatar 'Custom DanielH'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;11&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom DanielH&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;04.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;8cfccf91-e38e-42d5-91e6-a9733dc26b37&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.1293071+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;9799&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.5156433+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>11</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>666</TaskID>
+      <TaskTitle>Delete Avatar 'Custom HectorE'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;12&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom HectorE&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;08.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;3cba51ec-9cb2-4619-bf5c-99159f31d0f3&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.1512289+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;14165&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.5853355+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>12</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>667</TaskID>
+      <TaskTitle>Delete Avatar 'Custom JeffW'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;13&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom JeffW&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;01.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;1d46fc7d-fe42-4b87-8977-961afb0821c6&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.1730574+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10769&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.6313361+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>13</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>668</TaskID>
+      <TaskTitle>Delete Avatar 'Custom JeniferW'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;14&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom JeniferW&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;11.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;820b45fb-4d16-441b-8e2f-c53754401db6&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.1966203+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10999&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.6845783+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>14</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>669</TaskID>
+      <TaskTitle>Delete Avatar 'Custom JeromeW'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;15&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom JeromeW&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;09.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;f0a71dec-8f42-47c9-8153-451669e645a1&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.2280647+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;12376&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.7238321+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>15</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>670</TaskID>
+      <TaskTitle>Delete Avatar 'Custom JustinF'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;16&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom JustinF&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;17.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;fedaf9cc-4b48-46ca-a5f8-87637b044396&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.2786251+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10932&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.7672739+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>16</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>671</TaskID>
+      <TaskTitle>Delete Avatar 'Custom LauraG'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;17&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom LauraG&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;01.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;4ab65d08-80a7-4a8d-90e1-74b768d45bd0&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.299545+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10335&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.8544928+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>17</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>672</TaskID>
+      <TaskTitle>Delete Avatar 'Custom LisaM'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;18&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom LisaM&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;07.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;de6d2a58-2155-49c9-b8a3-6e896b02e28e&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.3209302+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;11765&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.8988823+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>18</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>673</TaskID>
+      <TaskTitle>Delete Avatar 'Custom LukeH'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;19&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom LukeH&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;15.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;7245bffa-fc24-4c3d-b320-dfcf2eaef965&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.34173+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10102&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.939375+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>19</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>674</TaskID>
+      <TaskTitle>Delete Avatar 'Custom MaryS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;21&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom MaryS&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;04.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;c23d0f74-428b-4056-a742-256ac2ae8511&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.3871123+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10837&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:31.9970444+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>21</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>675</TaskID>
+      <TaskTitle>Delete Avatar 'Custom MichelleP'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;22&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom MichelleP&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;03.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;ace587e1-fd73-47eb-82f9-c3f05c6bed6d&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.4110919+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;11422&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.0429309+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>22</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>676</TaskID>
+      <TaskTitle>Delete Avatar 'Custom OscarH'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;24&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom OscarH&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;14.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;188ca743-6c29-490f-941e-d9dccc48f9e0&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.4733902+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10000&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.087439+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>24</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>677</TaskID>
+      <TaskTitle>Delete Avatar 'Custom PatriciaT'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;25&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom PatriciaT&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;09.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;ce52215b-dbe1-4d5b-9829-a0a81e8173c3&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.4933413+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10341&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.1274419+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>25</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>678</TaskID>
+      <TaskTitle>Delete Avatar 'Custom PhilipS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;26&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom PhilipS&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;12.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;53c5a731-0f76-437b-b86b-8505d7275f9f&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.5153075+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;11104&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.1678674+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>26</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>679</TaskID>
+      <TaskTitle>Delete Avatar 'Custom RachelV'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;27&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom RachelV&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;02.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;adabd3f2-30fe-4be2-8e4f-66488e023d7c&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.5376513+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;13659&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.2150351+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>27</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>680</TaskID>
+      <TaskTitle>Delete Avatar 'Custom RuthB'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;28&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom RuthB&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;08.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;a3d29946-dcf4-42e6-9490-a61a1710ddcb&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.5637059+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10758&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.2551948+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>28</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>681</TaskID>
+      <TaskTitle>Delete Avatar 'Custom SeanG'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;29&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom SeanG&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;10.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;b9781d65-c3f0-4df0-ad8f-5006f917970a&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.5818998+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10215&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.310712+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>29</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>682</TaskID>
+      <TaskTitle>Delete Avatar 'Custom SharonE'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;30&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom SharonE&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;05.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;dbea0178-e51c-479d-b34d-2f828bb2c949&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.6018499+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;13161&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.3525458+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>30</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>683</TaskID>
+      <TaskTitle>Delete Avatar 'Custom ShirleyS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;31&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom ShirleyS&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;03.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;7f127809-474a-480c-a10d-a3527a65570b&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.6273603+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;10713&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.3955549+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>31</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>684</TaskID>
+      <TaskTitle>Delete Avatar 'Custom SimonL'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;32&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom SimonL&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;05.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;fc05433c-1b06-4311-a693-7a6f0b2ac6c4&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.6460645+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;9676&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.4676112+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>32</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>685</TaskID>
+      <TaskTitle>Delete Avatar 'Custom SusanC'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;33&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom SusanC&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;02.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;e671b77f-95fe-4254-a28a-9c846ab704ea&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.6642273+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;12994&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.5073776+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>33</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>686</TaskID>
+      <TaskTitle>Delete Avatar 'Custom TerrenceC'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;34&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom TerrenceC&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;02.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;90b912a8-752d-4cbe-9c4d-84921480daaa&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.6816442+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;9609&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:33:32.5452726+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>34</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1477</TaskID>
+      <TaskTitle>Delete Avatar 'Custom Marketing_Strategy'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;20&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom Marketing_Strategy&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;strategy.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;fc5f81d3-0023-43d2-925c-33441fa4d76a&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.3685899+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;16293&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:53.9223395+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>20</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1478</TaskID>
+      <TaskTitle>Delete Avatar 'Custom Microsoft_Office_Upgrade'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;23&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom Microsoft_Office_Upgrade&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;msoffice.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;50c42024-6815-4955-a417-e96dd2fb181a&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.4418336+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;14493&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:53.9495684+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>23</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1479</TaskID>
+      <TaskTitle>Delete Avatar 'Custom Tradeshow_in_Las_Vegas'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;35&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Custom Tradeshow_in_Las_Vegas&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;lasvegas.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;c4f26fb4-6d2f-4e31-a99c-c35682a6418b&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.7047865+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;25385&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:53.9658206+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>35</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1480</TaskID>
+      <TaskTitle>Delete Avatar 'Group'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;36&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Group&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;avatar_group.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;d78d8ca2-d9ff-4da4-8cf1-16363f253e1b&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.7202022+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;2598&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:53.9810625+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>36</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1481</TaskID>
+      <TaskTitle>Delete Avatar 'Group 2'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;37&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Group 2&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group01.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;647dc782-6bae-4fc0-afa9-7b85f0b2676c&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.7389184+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;9526&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.001598+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>37</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1482</TaskID>
+      <TaskTitle>Delete Avatar 'Group 3'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;38&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Group 3&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group04.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;8024fdf8-0cd9-475e-9989-984e938ff9c0&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.7565676+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;9298&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.0172606+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>38</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1483</TaskID>
+      <TaskTitle>Delete Avatar 'Group 4'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;39&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Group 4&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group02.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;00a6eb8a-3d13-404f-898b-ab12ee1d2f1b&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.7817055+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;9092&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.0292671+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>39</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1484</TaskID>
+      <TaskTitle>Delete Avatar 'Group 5'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;40&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Group 5&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;group03.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;5cc23124-0273-4242-810b-9d8e51058ed0&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.7983456+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;8773&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.045442+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>40</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1485</TaskID>
+      <TaskTitle>Delete Avatar 'Man'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;46&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;avatar_man.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;42f9d97e-b0c8-43a2-8a35-62dfec5ae64a&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.9036412+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;2435&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.0596579+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>46</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1486</TaskID>
+      <TaskTitle>Delete Avatar 'Man 1'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;47&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 1&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man1.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;8de8261e-5eac-4323-b786-fee1cccabc81&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.9220047+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7198&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.0748385+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>47</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1487</TaskID>
+      <TaskTitle>Delete Avatar 'Man 2'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;48&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 2&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man2.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;1560231c-c06f-4709-827e-e2af8f1408de&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.938669+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7172&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.0961034+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>48</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1488</TaskID>
+      <TaskTitle>Delete Avatar 'Man 3'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;49&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 3&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man3.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;4f84d077-dbe5-4f3d-976f-991059606dc7&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.9617751+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7228&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.1120065+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>49</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1489</TaskID>
+      <TaskTitle>Delete Avatar 'Man 4'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;50&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 4&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man4.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;9fbd0f60-3997-4d96-8743-d2969f851e94&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:23.9885589+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;27415&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.1232736+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>50</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1490</TaskID>
+      <TaskTitle>Delete Avatar 'Man 5'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;51&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 5&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man5.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;63f4f29f-1810-42b8-82bc-57e18433056d&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.012726+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;33136&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.1373361+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>51</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1491</TaskID>
+      <TaskTitle>Delete Avatar 'Man 6'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;52&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 6&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man6.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;49a7dbf3-fb73-4889-b341-c47a65a508b6&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.0336056+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7734&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.1478011+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>52</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1492</TaskID>
+      <TaskTitle>Delete Avatar 'Man 7'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;53&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 7&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man7.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;6d7a6eac-0d1d-4d7f-ba92-f3f2ddc0e11e&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.0490282+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;8139&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.1587894+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>53</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1493</TaskID>
+      <TaskTitle>Delete Avatar 'Man 8'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;54&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Man 8&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;man8.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;7d28e7e7-0930-4f70-8794-b836ed8e5c71&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.0713188+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7557&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.1723662+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>54</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1494</TaskID>
+      <TaskTitle>Delete Avatar 'Woman'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;55&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;avatar_woman.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;3245121f-7887-48e1-90f2-d238e7214792&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.0891336+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;2320&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.1848839+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>55</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1495</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 1'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;56&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 1&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman1.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;3ab5f69f-9db6-4a50-828c-9c96abc75f06&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.1075138+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7244&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.204896+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>56</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1496</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 2'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;57&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 2&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman2.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;547127cb-c6eb-4846-9218-fb8148e13245&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.1299641+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;28243&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.2204031+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>57</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1497</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 3'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;58&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 3&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman3.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;45acbb49-e87d-4456-be56-703bf660ea11&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.161229+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;33731&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.2344037+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>58</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1498</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 4'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;59&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 4&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman4.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;b10a5201-4801-46cd-8f33-cbd803563556&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.1807482+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;27995&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.2487299+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>59</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1499</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 5'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;60&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 5&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman5.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;4fbe950a-9b49-492c-b6d0-7072759467d6&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.1998205+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;25169&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.2626442+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>60</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1500</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 6'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;61&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 6&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman6.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;4bf7ba6e-e42a-4a6c-ae11-cf602a76e824&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.2239073+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;31389&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.2760234+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>61</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1501</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 7'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;62&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 7&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman7.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;bb2d4ccc-ac84-4e5d-bfbe-3798f44831cf&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.2449624+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7344&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.2914766+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>62</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1502</TaskID>
+      <TaskTitle>Delete Avatar 'Woman 8'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Avatar&gt;
+  &lt;AvatarID&gt;63&lt;/AvatarID&gt;
+  &lt;AvatarName&gt;Woman 8&lt;/AvatarName&gt;
+  &lt;AvatarFileName&gt;woman8.jpg&lt;/AvatarFileName&gt;
+  &lt;AvatarFileExtension&gt;.jpg&lt;/AvatarFileExtension&gt;
+  &lt;AvatarBinary /&gt;
+  &lt;AvatarGUID&gt;10644154-cb85-4fc6-a625-86e0602fc4be&lt;/AvatarGUID&gt;
+  &lt;AvatarLastModified&gt;2017-03-03T13:19:24.2626847+01:00&lt;/AvatarLastModified&gt;
+  &lt;AvatarMimeType&gt;image/jpeg&lt;/AvatarMimeType&gt;
+  &lt;AvatarFileSize&gt;7749&lt;/AvatarFileSize&gt;
+  &lt;AvatarImageHeight&gt;178&lt;/AvatarImageHeight&gt;
+  &lt;AvatarImageWidth&gt;178&lt;/AvatarImageWidth&gt;
+&lt;/CMS_Avatar&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:54.3033582+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.avatar</TaskObjectType>
+      <TaskObjectID>63</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_avatar>

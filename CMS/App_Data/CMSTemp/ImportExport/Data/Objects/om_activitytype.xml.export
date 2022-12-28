@@ -1,0 +1,202 @@
+﻿<om_activitytype version="13.0">
+  <NewDataSet>
+    <om_activitytype>
+      <ActivityTypeID>30</ActivityTypeID>
+      <ActivityTypeDisplayName>Custom activity</ActivityTypeDisplayName>
+      <ActivityTypeName>customactivity</ActivityTypeName>
+      <ActivityTypeEnabled>true</ActivityTypeEnabled>
+      <ActivityTypeIsCustom>true</ActivityTypeIsCustom>
+      <ActivityTypeDescription>Custom activity.</ActivityTypeDescription>
+      <ActivityTypeManualCreationAllowed>true</ActivityTypeManualCreationAllowed>
+      <ActivityTypeMainFormControl>##default##</ActivityTypeMainFormControl>
+      <ActivityTypeDetailFormControl>##default##</ActivityTypeDetailFormControl>
+    </om_activitytype>
+    <export_task>
+      <TaskID>1342</TaskID>
+      <TaskTitle>Delete Activity type 'Blog post subscription'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;31&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Blog post subscription&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;blogpostsubscription&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The contact subscribed to blog post comments.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+  &lt;ActivityTypeDetailFormControl&gt;selectdocument&lt;/ActivityTypeDetailFormControl&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.2695016+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>31</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1343</TaskID>
+      <TaskTitle>Delete Activity type 'Forum post subscription'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;32&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Forum post subscription&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;forumpostsubscription&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The contact subscribed to a forum post.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+  &lt;ActivityTypeMainFormControl&gt;ForumSelector&lt;/ActivityTypeMainFormControl&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.3056487+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>32</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1344</TaskID>
+      <TaskTitle>Delete Activity type 'Message board subscription'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;33&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Message board subscription&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;messageboardsubscription&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The contact subscribed to a message board.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+  &lt;ActivityTypeMainFormControl&gt;MessageBoardNameSelector&lt;/ActivityTypeMainFormControl&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.3161457+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>33</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1345</TaskID>
+      <TaskTitle>Delete Activity type 'Poll voting'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;38&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Poll voting&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;pollvoting&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The visitor voted in a poll.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+  &lt;ActivityTypeMainFormControl&gt;pollselector&lt;/ActivityTypeMainFormControl&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.3276662+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>38</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1346</TaskID>
+      <TaskTitle>Delete Activity type 'Event booking'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;39&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Event booking&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;eventbooking&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The contact signed up for an event using the Booking system.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.3376326+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>39</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1347</TaskID>
+      <TaskTitle>Delete Activity type 'Content rating'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;40&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Content rating&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;rating&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The visitor rated some content.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.3509642+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>40</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1348</TaskID>
+      <TaskTitle>Delete Activity type 'Message board comment'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;42&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Message board comment&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;messageboardcomment&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The visitor posted a comment on a message board.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+  &lt;ActivityTypeMainFormControl&gt;MessageBoardNameSelector&lt;/ActivityTypeMainFormControl&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.3672681+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>42</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1349</TaskID>
+      <TaskTitle>Delete Activity type 'Forum post'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;43&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Forum post&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;forumpost&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The visitor posted on a forum.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+  &lt;ActivityTypeMainFormControl&gt;ForumSelector&lt;/ActivityTypeMainFormControl&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.3880857+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>43</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1350</TaskID>
+      <TaskTitle>Delete Activity type 'Blog comment'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;OM_ActivityType&gt;
+  &lt;ActivityTypeID&gt;44&lt;/ActivityTypeID&gt;
+  &lt;ActivityTypeDisplayName&gt;Blog comment&lt;/ActivityTypeDisplayName&gt;
+  &lt;ActivityTypeName&gt;blogcomment&lt;/ActivityTypeName&gt;
+  &lt;ActivityTypeEnabled&gt;true&lt;/ActivityTypeEnabled&gt;
+  &lt;ActivityTypeIsCustom&gt;false&lt;/ActivityTypeIsCustom&gt;
+  &lt;ActivityTypeDescription&gt;The visitor commented on a blog post.&lt;/ActivityTypeDescription&gt;
+  &lt;ActivityTypeManualCreationAllowed&gt;false&lt;/ActivityTypeManualCreationAllowed&gt;
+  &lt;ActivityTypeDetailFormControl&gt;selectdocument&lt;/ActivityTypeDetailFormControl&gt;
+&lt;/OM_ActivityType&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.4060868+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>om.activitytype</TaskObjectType>
+      <TaskObjectID>44</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</om_activitytype>

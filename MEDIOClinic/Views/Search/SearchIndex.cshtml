@@ -1,0 +1,28 @@
+﻿@model SearchResultModel
+
+@using CMS.Search;
+
+@{ 
+    ViewBag.Title = "Search...";
+}
+
+@if (!Model.Items.Any())
+{
+    if (!String.IsNullOrWhiteSpace(Model.Query))
+    {
+        <h3>No results found for "@Model.Query"</h3>
+    }
+}
+else
+{
+    <h3>Results for "@Model.Query"</h3>
+    foreach (SearchResultItem item in Model.Items)
+    {
+        <div>
+            <strong>@item.Title</strong>
+        </div>
+        <div>
+            @Html.Kentico().ResolveUrls(item.Content)
+        </div>
+    }
+}

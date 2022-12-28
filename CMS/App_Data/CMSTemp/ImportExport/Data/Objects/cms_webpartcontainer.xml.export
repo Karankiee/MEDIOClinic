@@ -1,0 +1,1183 @@
+﻿<cms_webpartcontainer version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>46</TaskID>
+      <TaskTitle>Delete Web part container 'Personal Site - Calendar Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;45&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Personal Site - Calendar Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;PersonalSite.CalendarBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="columnBox"&amp;gt;
+&amp;lt;h4 class="calendar"&amp;gt;&amp;lt;span&amp;gt;{%ContainerTitle%}&amp;lt;/span&amp;gt;&amp;lt;/h4&amp;gt;
+&amp;lt;div class="content"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;1699b841-94fd-42a5-b318-3e952dc23fd1&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-01-10T21:46:44.4446007+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2017-03-03T13:50:24.3757441+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>45</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>47</TaskID>
+      <TaskTitle>Delete Web part container 'Personal Site - Column Box H3'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;46&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Personal Site - Column Box H3&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;PersonalSite.CloumnBoxH3&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="columnBox"&amp;gt;
+&amp;lt;h3 class="title"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;
+&amp;lt;div class="content"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;9593401f-68a0-47ac-8164-d7de23edb1d8&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-01-10T21:46:44.4566019+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2017-03-03T13:50:24.4458943+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>46</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>48</TaskID>
+      <TaskTitle>Delete Web part container 'Personal Site - Latest Posts Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;47&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Personal Site - Latest Posts Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;PersonalSite.LatestPostsBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="columnBox"&amp;gt;
+&amp;lt;h4 class="latestposts"&amp;gt;&amp;lt;span&amp;gt;{%ContainerTitle%}&amp;lt;/span&amp;gt;&amp;lt;/h4&amp;gt;
+&amp;lt;div class="content"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;21176ad9-d82b-43ab-8e64-0ac6cfff9592&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-01-10T21:46:44.4656028+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2017-03-03T13:50:24.4874997+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>47</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>49</TaskID>
+      <TaskTitle>Delete Web part container 'Personal Site - Rss Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;48&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Personal Site - Rss Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;PersonalSite.RssBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="columnBox"&amp;gt;
+&amp;lt;h4 class="rss"&amp;gt;&amp;lt;span&amp;gt;{%ContainerTitle%}&amp;lt;/span&amp;gt;&amp;lt;/h4&amp;gt;
+&amp;lt;div class="content"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;5400cf1b-85a9-4b1e-a69d-561a6dda5170&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-01-10T21:46:44.4816044+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2017-03-03T13:50:24.5251662+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>48</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>279</TaskID>
+      <TaskTitle>Delete Web part container 'Community Site - Blue Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;4&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Community Site - Blue Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CommunitySite.BlueBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="blueBoxTop"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="blueBox"&amp;gt;
+&amp;lt;h3 class="blueBoxTitle"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="blueBoxBottom"&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;0ddac575-280e-4af2-bf72-c1b0ead1eae4&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.4932593+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:32.2532644+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>4</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>280</TaskID>
+      <TaskTitle>Delete Web part container 'Community Site - Blue Box Light'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;5&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Community Site - Blue Box Light&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CommunitySite.BlueBoxLight&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="boxBlueLight"&amp;gt;
+&amp;lt;h3&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;a5d50830-fea8-41cd-a7e8-37b194182554&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.5094176+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:32.291848+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>5</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>281</TaskID>
+      <TaskTitle>Delete Web part container 'Community Site - Gray Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;6&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Community Site - Gray Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CommunitySite.GrayBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="grayBoxTop"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="grayBox"&amp;gt;
+&amp;lt;h3 class="grayBoxTitle"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="grayBoxBottom"&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;963e6873-9103-4ce5-ac0b-e8d628255fcc&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.5202331+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:32.3168028+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>6</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>282</TaskID>
+      <TaskTitle>Delete Web part container 'Community Site - Orange Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;7&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Community Site - Orange Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CommunitySite.OrangeBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="orangeBoxTop"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="orangeBox"&amp;gt;
+&amp;lt;h3 class="orangeBoxTitle"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="orangeBoxBottom"&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;80a5c480-413c-41dc-b3b3-8906590e1f17&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.5348507+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:32.3483277+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>7</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>283</TaskID>
+      <TaskTitle>Delete Web part container 'Community Site - Red Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;8&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Community Site - Red Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CommunitySite.RedBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="redBoxTop"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="redBox"&amp;gt;
+&amp;lt;h3 class="redBoxTitle"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="redBoxBottom"&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;82ece7b7-6588-421a-9250-23bf599dce71&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.5464465+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:32.3723718+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>8</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>284</TaskID>
+      <TaskTitle>Delete Web part container 'Community Site - Red Box Light'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;9&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Community Site - Red Box Light&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CommunitySite.RedBoxLight&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="boxRedLight"&amp;gt;
+&amp;lt;h3&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;08e9e7f7-bf03-4a93-9f62-ef6fa140dfa8&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.559708+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:32.4008577+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>9</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1355</TaskID>
+      <TaskTitle>Delete Web part container 'Black box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;1&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Black box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;BlackBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="blackBox"&amp;gt;
+  &amp;lt;h2 class="title"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+  &amp;lt;div class="content"&amp;gt;
+    &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;8dd8abba-d7ea-473c-a194-436add312719&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.4445298+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.4496002+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1356</TaskID>
+      <TaskTitle>Delete Web part container 'Breadcrumbs Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;3&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Breadcrumbs Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;breadbox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="BreadBox"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;4e0e7815-0557-4335-ad1b-932b9996bd8b&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.4800378+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.4955983+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>3</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1357</TaskID>
+      <TaskTitle>Delete Web part container 'Content padding'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;43&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Content padding&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Padding.Content&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="ContentPadding"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;2102cc78-54f5-4e85-9977-746d8b67c136&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.0580731+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.5457203+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>43</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1358</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - Content box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;10&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - Content box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSite.ContentBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="contentBox"&amp;gt;
+&amp;lt;div class="head"&amp;gt;&amp;lt;h3 class="{%ContainerCSSClass%}"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;&amp;lt;div class="details"&amp;gt;Details&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="content"&amp;gt;
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;div class="clear"&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;a8f7b167-c500-4a6e-beeb-65dcbfa98406&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.5728542+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS&gt;
+&lt;/ContainerCSS&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.5907195+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>10</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1359</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - Content box Header'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;11&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - Content box Header&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSite.ContentBoxHeader&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h2 class="containerTitle"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;&amp;lt;a href="{%ContainerCustomContent%}" class="FeedLink"&amp;gt;&amp;lt;img src="~/App_Themes/CorporateSite/Images/ico_rss.png" alt="RSS Icon" /&amp;gt;&amp;lt;/a&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter /&gt;
+  &lt;ContainerGUID&gt;bc8d5e85-bd90-4633-a86d-002b8f88d464&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.585053+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.6286271+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>11</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1360</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - Light gradient box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;12&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - Light gradient box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSite.LightGradientBoxCenter&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h3 class="{%ContainerCssClass%} LightGradientBoxHeader"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;
+&amp;lt;div class="LightGradientBox {%ContainerCssClass%}"&amp;gt;
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;div class="clear"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class="clear"&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;41950fc0-d00c-4507-9f9f-1ce9293c2aef&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.5987182+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS&gt;
+&lt;/ContainerCSS&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.6526609+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>12</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1361</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - Light gradient box left'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;13&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - Light gradient box left&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSite.LightGradientBoxLeft&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="gradientBox leftBox"&amp;gt;
+&amp;lt;h3 class="{%ContainerCSSClass%}"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;
+&amp;lt;div class="content"&amp;gt;
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;9256f530-16f7-4979-854f-cd6aaccc6a46&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.6127179+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.6841043+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>13</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1362</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - Light gradient box right'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;14&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - Light gradient box right&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSite.LightGradientBoxRight&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="gradientBox rightBox"&amp;gt;
+&amp;lt;h3 class="{%ContainerCSSClass%}"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;
+&amp;lt;div class="content" {%ContainerCustomCintent%}&amp;gt;
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;aa09bfcb-bf9c-41af-bf10-60e40dae5044&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.62475+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.7149272+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>14</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1363</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - List box content'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;15&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - List box content&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSiteListBoxContent&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="contentBox"&amp;gt;
+  &amp;lt;div class="content"&amp;gt;
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;181c4a68-2827-43c9-8e2a-685ce90b7cf8&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.6432022+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.7450575+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>15</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1364</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - List box header'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;16&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - List box header&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSiteListBoxHeader&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h2 class="containerTitle"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;&amp;lt;a href="{%ContainerCustomContent%}" class="FeedLinkHeader"&amp;gt;&amp;lt;img src="~/App_Themes/CorporateSite/Images/ico_rss.png" alt="RSS Icon" /&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;div class="listBoxHead"&amp;gt;
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;76d510e8-e92b-4b32-be8e-f9779386e159&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.6566662+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.7728887+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>16</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1365</TaskID>
+      <TaskTitle>Delete Web part container 'Corporate site - List box header without RSS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;17&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Corporate site - List box header without RSS&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;CorporateSiteListBoxHeaderWithoutRSS&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h2 class="containerTitle {%ContainerCSSClass%}"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+&amp;lt;div class="listBoxHead line"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;2e008333-8ade-47a2-a125-94fe3223ef69&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.6755115+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.8020847+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>17</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1366</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Div element'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;20&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Div element&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Div&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="{%ContainerCSSClass%}"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;c278c678-a3f7-4fdc-ac4e-20cb69d9de06&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.712205+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.8320916+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>20</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1367</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Heading level 1'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;27&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Heading level 1&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Heading1&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h1 class="{%ContainerCSSClass%}"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/h1&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;a6b127b5-5516-422f-927e-a3ee711c982b&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.8391566+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.859185+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>27</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1368</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Heading level 2'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;28&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Heading level 2&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Heading2&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h2 class="{%ContainerCSSClass%}"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/h2&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;35d7f4b2-7663-4bdf-85f0-02d7c9ca1f15&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.8513998+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.8816815+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>28</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1369</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Heading level 3'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;30&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Heading level 3&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;HeadingLevel3&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h3 class="{%ContainerCSSClass%}"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/h3&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;53fe13b4-16c6-43a5-8817-5eb5bac82746&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.880644+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.9092164+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>30</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1370</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Heading level 4'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;29&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Heading level 4&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Heading4&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;h4 class="{%ContainerCSSClass%}"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/h4&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;863ecc2d-657b-4e67-b482-e917972abd58&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.8644085+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.9401551+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>29</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1371</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - home page banner'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;18&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - home page banner&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;DancingGoat-HomePageBanner&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt; &amp;lt;section class="banner-section" style="background-image: url('{% ResolveUrl(PathToImage) %}');"&amp;gt;   
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/section&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;5d7074c5-8de3-4a8a-8d60-c8bbaf3c6eff&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.68823+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.9705467+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>18</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1372</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Landing page - 2 columns text'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;38&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Landing page - 2 columns text&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;LandingPage-2ColumnsText&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt; &amp;lt;section class="lp-section"&amp;gt;    
+  &amp;lt;div class="container"&amp;gt;
+      &amp;lt;div class="lp-section-text {% ContainerCSSClass%}"&amp;gt;
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+      &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;07a0823a-403e-4d5a-be38-a2b09b367af0&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.9866112+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:40.999085+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>38</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1373</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Landing page - Form'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;39&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Landing page - Form&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;LandingPage-Form&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;section class="lp-section lp-section-highlighted lp-form" id="lp-form"&amp;gt;    
+  &amp;lt;div class="container"&amp;gt;
+    &amp;lt;div class="row"&amp;gt;
+      &amp;lt;div class="col-lg-5"&amp;gt;
+        &amp;lt;h2&amp;gt; {%ContainerTitle%} &amp;lt;/h2&amp;gt;
+        &amp;lt;div class="lp-form-description"&amp;gt; {% FormDescription %} &amp;lt;/div&amp;gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;div class="row"&amp;gt;
+      &amp;lt;div class="col-lg-7"&amp;gt;
+        &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;57e16535-0ae0-441f-970c-988a5d0e871d&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.0006129+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.0265669+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>39</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1374</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Landing page - Text with background image'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;40&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Landing page - Text with background image&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;LandingPage-TextWithBackgroundImage&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt; &amp;lt;section class="lp-section lp-section-background" data-type="background" data-speed="5"&amp;gt;    
+  &amp;lt;div class="container"&amp;gt;
+    &amp;lt;div class="row"&amp;gt;
+      &amp;lt;div class="lp-section-editable-block"&amp;gt;
+        &amp;lt;img class="lp-section-image" alt="Background image" src="{%PathToImage%}" /&amp;gt;
+        &amp;lt;div class="lp-section-text lp-section-text-center"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+        &amp;lt;/div&amp;gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;67d9ac19-588a-49c3-8369-d9fe6ce9a60b&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.0198788+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.0511486+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>40</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1375</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Navigation'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;41&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Navigation&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Navigation&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;nav role="navigation"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/nav&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;aae24247-b9e8-4d0d-b75d-30b45c9995a8&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.0328792+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.0837924+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>41</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1376</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Paragraph'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;44&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Paragraph&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Paragraph&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;p class="{%ContainerCSSClass%}"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/p&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;882b2d4c-5c10-4f35-8913-a220b924466a&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.0690719+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.1212297+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>44</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1377</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - partnership form'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;19&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - partnership form&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;DancingGoat-PartnershipForm&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;section id="lp-form"&amp;gt;    
+  &amp;lt;div class="container"&amp;gt;
+    &amp;lt;h3&amp;gt; {%ContainerTitle%} &amp;lt;/h3&amp;gt;
+    &amp;lt;div class="row"&amp;gt;
+      &amp;lt;div class="col-md-5"&amp;gt;        
+        &amp;lt;div&amp;gt; {% ContainerCustomContent %} &amp;lt;/div&amp;gt;
+      &amp;lt;/div&amp;gt;
+   
+      &amp;lt;div class="col-md-6 col-md-offset-1"&amp;gt;
+        &amp;lt;div class="partnership-info-right"&amp;gt;
+  &lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+		&amp;lt;/div&amp;gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;6e1d9ccc-7c74-4731-b413-9eb97442390c&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.6992297+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.1487861+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>19</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1378</TaskID>
+      <TaskTitle>Delete Web part container 'Dancing goat - Section'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;50&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Dancing goat - Section&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Section&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;section class="{%ContainerCSSClass%}"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/section&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;39f9451c-d56b-4d62-8d06-aafd3b70a902&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.093072+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.1710852+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>50</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1379</TaskID>
+      <TaskTitle>Delete Web part container 'E-commerce Site - Gray box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;22&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;E-commerce Site - Gray box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;EcommerceSite.GrayBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="grayBox"&amp;gt;
+&amp;lt;h2&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+{%ContainerCustomContent%}
+&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;65adb1b6-256b-4fa1-9f03-8f2819bccbc5&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.7549024+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.1928717+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>22</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1380</TaskID>
+      <TaskTitle>Delete Web part container 'E-commerce Site - Product menu'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;23&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;E-commerce Site - Product menu&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;EcommerceSite.ProductMenu&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="productMenu"&amp;gt;
+&amp;lt;h2 class="{%ContainerCSSClass%}"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;5361b5ba-6014-44d2-b3f4-5a40efba356a&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.7760177+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.2182122+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>23</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1381</TaskID>
+      <TaskTitle>Delete Web part container 'E-commerce Site - Simple Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;24&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;E-commerce Site - Simple Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;EcommerceSite.SimpleBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="simpleBox {%ContainerCSSClass%}"&amp;gt;
+&amp;lt;h2&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+{%ContainerCustomContent%}&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;12928585-7f04-4854-bd11-11ef6dca7b86&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.7934025+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.2439658+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>24</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1382</TaskID>
+      <TaskTitle>Delete Web part container 'E-commerce Site - Sub Menu'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;25&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;E-commerce Site - Sub Menu&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;EcommerceSite.SubMenu&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="subMenu"&amp;gt;
+&amp;lt;h2&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;0a2e2bea-3f86-4e27-a7ff-7be52470d477&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.8068483+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.2710169+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>25</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1383</TaskID>
+      <TaskTitle>Delete Web part container 'E-commerce Site - Tiny Box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;21&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;E-commerce Site - Tiny Box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;E-commerceSite-TinyBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="tinyBox {%ContainerCSSClass%}"&amp;gt;
+&amp;lt;h2&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+{%ContainerCustomContent%}&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;16f0d585-c543-4a86-a346-51c72cb2e5a3&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.7326076+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.2936199+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>21</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1384</TaskID>
+      <TaskTitle>Delete Web part container 'Gray box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;2&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Gray box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;Box.Gray&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="grayBox"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;d48d9b0d-12a4-4c3c-9c41-b5a8aefec6ee&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.4681995+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.3213693+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>2</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1385</TaskID>
+      <TaskTitle>Delete Web part container 'Gray box with header'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;26&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Gray box with header&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;GrayBoxWithHeader&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="grayBoxWH"&amp;gt;&amp;lt;h2&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+&amp;lt;div class="inner"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;91bf2937-b812-4fb8-8589-700e7d8a87e1&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.819847+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.3438415+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>26</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1386</TaskID>
+      <TaskTitle>Delete Web part container 'Intranet column box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;31&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Intranet column box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;IntranetColumnBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="ColumnBox {%ContainerCSSClass%}"&amp;gt;
+&amp;lt;div class="HeadLeft"&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;h2 class="Header"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;&amp;lt;div class="HeadRight"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="Clear"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="Inner"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;bf1fbc7a-7820-415e-accd-a4dfa671fb94&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.8977917+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.3696657+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>31</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1387</TaskID>
+      <TaskTitle>Delete Web part container 'Intranet column box RSS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;32&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Intranet column box RSS&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;IntranetColumnBoxRSS&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="ColumnBox {%ContainerCSSClass%}"&amp;gt;
+&amp;lt;div class="HeadLeft"&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;h2 class="Header"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;&amp;lt;div class="HeadRight"&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;a href="{%ContainerCustomContent%}" title="RSS Link" class="RSSLink"&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;div class="Clear"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="Inner"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;1f42e1af-8c4a-4d46-9514-46d1ef91546f&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.9104418+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.3971007+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>32</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1388</TaskID>
+      <TaskTitle>Delete Web part container 'Intranet content box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;33&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Intranet content box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;IntranetContentBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="ContentBox {%ContainerCSSClass%}"&amp;gt;
+&amp;lt;h2 class="Header"&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+&amp;lt;div class="Clear"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="Inner"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;a42748e2-c49b-4c96-a780-a02e2b7cf30d&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.9232102+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.4301813+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>33</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1389</TaskID>
+      <TaskTitle>Delete Web part container 'Intranet content box RSS'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;34&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Intranet content box RSS&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;IntranetContentBoxRSS&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="ContentBox {%ContainerCSSClass%}"&amp;gt;
+&amp;lt;h2 class="Header"&amp;gt;&amp;lt;span&amp;gt;{%ContainerTitle%}&amp;lt;/span&amp;gt; &amp;lt;a href="{%ContainerCustomContent%}" class="RSSLink"&amp;gt;&amp;amp;nbsp;&amp;lt;/a&amp;gt;&amp;lt;span class="Clear"&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;
+&amp;lt;div class="Clear"&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class="Inner"&amp;gt;
+&amp;lt;div class="Arrow"&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;f88911b2-48e5-4d21-9b84-d683719b46e8&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.9338788+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.4608258+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>34</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1390</TaskID>
+      <TaskTitle>Delete Web part container 'Intranet form box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;35&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Intranet form box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;IntranetFormBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;{%ContainerCustomContent%}
+&amp;lt;div class="FormBox"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;b5455ec3-92ce-4d23-ae9f-fc41a62969b9&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.9475771+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.4888253+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>35</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1391</TaskID>
+      <TaskTitle>Delete Web part container 'Intranet simple container'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;36&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Intranet simple container&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;IntranetSimpleContainer&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="SimpleContainer"&amp;gt;
+&amp;lt;h2&amp;gt;{%ContainerTitle%}&amp;lt;/h2&amp;gt;
+&amp;lt;div class="Inner"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;14660667-6691-4d74-a849-cfa76d96ed8c&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.9583553+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.5209268+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>36</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1392</TaskID>
+      <TaskTitle>Delete Web part container 'Intranet simple container (with header line)'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;37&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Intranet simple container (with header line)&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;IntranetSimpleContainerWithHeaderLine&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="SimpleContainerHeaderLine"&amp;gt;
+&amp;lt;div class="Title"&amp;gt;&amp;lt;span class="Inner"&amp;gt;{%ContainerTitle%}&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;5ba57b2b-64dc-43e4-8d38-b235572fcc48&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:42.9726127+01:00&lt;/ContainerLastModified&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.5517719+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>37</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1393</TaskID>
+      <TaskTitle>Delete Web part container 'Orange box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;42&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Orange box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;OrangeBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="orangeBox"&amp;gt;
+&amp;lt;h3 class="title"&amp;gt;{%ContainerTitle%}&amp;lt;/h3&amp;gt;
+&amp;lt;div class="content"&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;e6abcd4b-e99b-4ed9-b23c-041938c4f6be&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.04688+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS&gt;
+&lt;/ContainerCSS&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.5778568+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>42</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1394</TaskID>
+      <TaskTitle>Delete Web part container 'Search box'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_WebPartContainer&gt;
+  &lt;ContainerID&gt;49&lt;/ContainerID&gt;
+  &lt;ContainerDisplayName&gt;Search box&lt;/ContainerDisplayName&gt;
+  &lt;ContainerName&gt;SearchBox&lt;/ContainerName&gt;
+  &lt;ContainerTextBefore&gt;&amp;lt;div class="boxSearchLeft"&amp;gt;
+  &amp;lt;div class="boxSearchLeftTop"&amp;gt;&amp;lt;div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&lt;/ContainerTextBefore&gt;
+  &lt;ContainerTextAfter&gt;&amp;lt;div class="boxSearchLeftBot"&amp;gt;&amp;lt;div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/ContainerTextAfter&gt;
+  &lt;ContainerGUID&gt;6ef5e754-61f3-4e8b-854e-2299224c007a&lt;/ContainerGUID&gt;
+  &lt;ContainerLastModified&gt;2017-03-03T13:19:43.0800717+01:00&lt;/ContainerLastModified&gt;
+  &lt;ContainerCSS /&gt;
+&lt;/CMS_WebPartContainer&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:41.6113828+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.webpartcontainer</TaskObjectType>
+      <TaskObjectID>49</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_webpartcontainer>

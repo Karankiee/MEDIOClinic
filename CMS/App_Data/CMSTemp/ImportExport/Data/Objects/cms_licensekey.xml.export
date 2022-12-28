@@ -1,0 +1,89 @@
+﻿<cms_licensekey version="13.0">
+  <NewDataSet>
+    <cms_licensekey>
+      <LicenseKeyID>5</LicenseKeyID>
+      <LicenseDomain>127.0.0.22</LicenseDomain>
+      <LicenseKey>DOMAIN:127.0.0.22
+PRODUCT:CX13
+EXPIRATION:00000000
+SERVERS:0
+BoDfr2WM691FuCRmtEIGsrgmYh9YaHVkSAgbkW8Mh6ARhevJ9DYRGySzwSkN/1ejH6P67W2xt4RyMssNj1OTcWmyS+fcdRTIwZTYVLLDtUc0dRpV0ZdWAm6ErIZyHi5dC5Hv40/Zqv6I8SvoyqtguEo3VKldvaQ+A5vR+JWs+DOfqk41x59Pnh9F7kzW5OwAFr9i4v6OzTNFj/rk03oEJ9TIIOw3BxC3Shf8aBJQLFqK6vV+++aP0rnbjIcFnosNmfP4cBgw9MhU0uHqawR5HizSf5MKpgEysiwuFhQsOquNpCZ1kZKHxpXCPx0Flz1mHfERSU5Mjs6HcSVkJUel8w==</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>LicenseInfoProvider.FullLicense</LicenseExpiration>
+      <LicenseServers>0</LicenseServers>
+    </cms_licensekey>
+    <cms_licensekey>
+      <LicenseKeyID>4</LicenseKeyID>
+      <LicenseDomain>localhost</LicenseDomain>
+      <LicenseKey>DOMAIN:localhost
+PRODUCT:CX13
+EXPIRATION:00000000
+SERVERS:0
+mFj5SFBBnmFUc3mZ9GdYN05bJ8CS86CrSGWc5Ab40iz4ZGFeLQG6nw1++poj5B5SBZkk6LlM8o/afXoxGItzurxS8QiIofaDpQVjUUfZrfGSquqUf3aUNzx4oynAyqP2VQnEYwOYN2e2yYSQYnsABVGgaFTsGr+arqHyyPVjo5QB4/JXzIrJBe/fCKySH3iMXmk/D+CcyVw8Qdd5FPxclD2MlrShLXbBYf8FBjwQh/d3gGo648gmApO+30NLceihv9nSNl+YpaJ7KRPLcGZeAwB3SXl7SuXFbFHEk2lpinNgOFxdfebvEB61S722mOQSaJe5ilDBoGC8M7sSlaHh2Q==</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>LicenseInfoProvider.FullLicense</LicenseExpiration>
+      <LicenseServers>0</LicenseServers>
+    </cms_licensekey>
+    <export_task>
+      <TaskID>1</TaskID>
+      <TaskTitle>Delete License key '127.0.0.1'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_LicenseKey&gt;
+  &lt;LicenseKeyID&gt;2&lt;/LicenseKeyID&gt;
+  &lt;LicenseDomain&gt;127.0.0.1&lt;/LicenseDomain&gt;
+  &lt;LicenseKey&gt;CX10-20170116-GEVagL&lt;/LicenseKey&gt;
+  &lt;LicenseEdition&gt;X&lt;/LicenseEdition&gt;
+  &lt;LicenseExpiration&gt;1/16/2017&lt;/LicenseExpiration&gt;
+  &lt;LicenseServers&gt;0&lt;/LicenseServers&gt;
+&lt;/CMS_LicenseKey&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2017-01-10T21:41:49.3420934+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.licensekey</TaskObjectType>
+      <TaskObjectID>2</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>2</TaskID>
+      <TaskTitle>Delete License key 'localhost'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_LicenseKey&gt;
+  &lt;LicenseKeyID&gt;1&lt;/LicenseKeyID&gt;
+  &lt;LicenseDomain&gt;localhost&lt;/LicenseDomain&gt;
+  &lt;LicenseKey&gt;CX10-20170116-GEVagL&lt;/LicenseKey&gt;
+  &lt;LicenseEdition&gt;X&lt;/LicenseEdition&gt;
+  &lt;LicenseExpiration&gt;1/16/2017&lt;/LicenseExpiration&gt;
+  &lt;LicenseServers&gt;0&lt;/LicenseServers&gt;
+&lt;/CMS_LicenseKey&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2017-01-10T21:41:52.658425+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.licensekey</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3861</TaskID>
+      <TaskTitle>Delete License key 'localhost'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_LicenseKey&gt;
+  &lt;LicenseKeyID&gt;3&lt;/LicenseKeyID&gt;
+  &lt;LicenseDomain&gt;localhost&lt;/LicenseDomain&gt;
+  &lt;LicenseKey&gt;DOMAIN:localhost
+PRODUCT:CX13
+EXPIRATION:00000000
+SERVERS:0
+mFj5SFBBnmFUc3mZ9GdYN05bJ8CS86CrSGWc5Ab40iz4ZGFeLQG6nw1++poj5B5SBZkk6LlM8o/afXoxGItzurxS8QiIofaDpQVjUUfZrfGSquqUf3aUNzx4oynAyqP2VQnEYwOYN2e2yYSQYnsABVGgaFTsGr+arqHyyPVjo5QB4/JXzIrJBe/fCKySH3iMXmk/D+CcyVw8Qdd5FPxclD2MlrShLXbBYf8FBjwQh/d3gGo648gmApO+30NLceihv9nSNl+YpaJ7KRPLcGZeAwB3SXl7SuXFbFHEk2lpinNgOFxdfebvEB61S722mOQSaJe5ilDBoGC8M7sSlaHh2Q==&lt;/LicenseKey&gt;
+  &lt;LicenseEdition&gt;X&lt;/LicenseEdition&gt;
+  &lt;LicenseExpiration&gt;LicenseInfoProvider.FullLicense&lt;/LicenseExpiration&gt;
+  &lt;LicenseServers&gt;0&lt;/LicenseServers&gt;
+&lt;/CMS_LicenseKey&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T15:50:15.398566+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.licensekey</TaskObjectType>
+      <TaskObjectID>3</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_licensekey>

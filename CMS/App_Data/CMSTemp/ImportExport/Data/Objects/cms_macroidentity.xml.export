@@ -1,0 +1,11 @@
+﻿<cms_macroidentity version="13.0">
+  <NewDataSet>
+    <cms_macroidentity>
+      <MacroIdentityID>1</MacroIdentityID>
+      <MacroIdentityGuid>c6ef4403-2d1b-49e1-a41b-5b0fafa857e9</MacroIdentityGuid>
+      <MacroIdentityLastModified>2020-10-05T19:00:34.010683+02:00</MacroIdentityLastModified>
+      <MacroIdentityName>GlobalAdministrator</MacroIdentityName>
+      <MacroIdentityEffectiveUserID>53</MacroIdentityEffectiveUserID>
+    </cms_macroidentity>
+  </NewDataSet>
+</cms_macroidentity>

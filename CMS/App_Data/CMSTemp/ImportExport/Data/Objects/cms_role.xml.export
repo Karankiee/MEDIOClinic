@@ -1,0 +1,143 @@
+﻿<cms_role version="13.0">
+  <NewDataSet>
+    <cms_role>
+      <RoleID>2</RoleID>
+      <RoleDisplayName>CMS Global Administrator</RoleDisplayName>
+      <RoleName>CMSGlobalAdministrator</RoleName>
+      <RoleDescription>This system role sets the application dashboard content for the default global administrator. Granting permissions is not the purpose of this role.</RoleDescription>
+      <RoleGUID>61a6ddb2-b3a7-4d2d-9c5f-b246d0459cab</RoleGUID>
+      <RoleLastModified>2020-10-05T19:03:26.9034738+02:00</RoleLastModified>
+      <RoleIsDomain>false</RoleIsDomain>
+    </cms_role>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>1165</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>1243</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>1504</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>1513</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>1515</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>1518</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>1991</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2010</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2307</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2309</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2314</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2586</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2626</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2628</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2634</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2635</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>2640</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>3399</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>3593</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>3622</ElementID>
+    </cms_roleapplication>
+    <cms_roleapplication>
+      <RoleID>2</RoleID>
+      <ElementID>4647</ElementID>
+    </cms_roleapplication>
+    <cms_userrole>
+      <UserID>53</UserID>
+      <RoleID>2</RoleID>
+      <UserRoleID>1</UserRoleID>
+    </cms_userrole>
+    <export_task>
+      <TaskID>1013</TaskID>
+      <TaskTitle>Delete Role 'Chat support engineers'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;1&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;Chat support engineers&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;ChatSupportEngineers&lt;/RoleName&gt;
+  &lt;RoleDescription /&gt;
+  &lt;RoleGUID&gt;34e9b97b-237d-4b76-b5a6-92810406eda2&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:04.0843597+02:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsDomain&gt;false&lt;/RoleIsDomain&gt;
+&lt;/CMS_Role&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.6623085+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1014</TaskID>
+      <TaskTitle>Delete Role 'CMS Power Users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;3&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;CMS Power Users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSPowerUsers&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Users with all permissions&lt;/RoleDescription&gt;
+  &lt;RoleGUID&gt;96216fab-bd4f-40ed-8bbf-a2ae69d1ecd8&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:11.1293353+02:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsGroupAdministrator&gt;false&lt;/RoleIsGroupAdministrator&gt;
+  &lt;RoleIsDomain&gt;false&lt;/RoleIsDomain&gt;
+&lt;/CMS_Role&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.71156+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>3</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_role>

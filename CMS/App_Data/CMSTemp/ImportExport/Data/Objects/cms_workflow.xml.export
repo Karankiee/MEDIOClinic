@@ -1,0 +1,756 @@
+﻿<cms_workflow version="13.0">
+  <NewDataSet>
+    <cms_workflow>
+      <WorkflowID>1</WorkflowID>
+      <WorkflowDisplayName>Default workflow</WorkflowDisplayName>
+      <WorkflowName>default</WorkflowName>
+      <WorkflowGUID>331fd346-2a1b-4a63-bb26-474e75a14807</WorkflowGUID>
+      <WorkflowLastModified>2020-10-05T18:58:54.7037071+02:00</WorkflowLastModified>
+      <WorkflowType>0</WorkflowType>
+      <WorkflowSendApproveEmails>true</WorkflowSendApproveEmails>
+      <WorkflowSendRejectEmails>true</WorkflowSendRejectEmails>
+      <WorkflowSendPublishEmails>true</WorkflowSendPublishEmails>
+      <WorkflowSendArchiveEmails>true</WorkflowSendArchiveEmails>
+      <WorkflowApprovedTemplateName></WorkflowApprovedTemplateName>
+      <WorkflowRejectedTemplateName></WorkflowRejectedTemplateName>
+      <WorkflowPublishedTemplateName></WorkflowPublishedTemplateName>
+      <WorkflowArchivedTemplateName></WorkflowArchivedTemplateName>
+      <WorkflowSendReadyForApprovalEmails>true</WorkflowSendReadyForApprovalEmails>
+      <WorkflowReadyForApprovalTemplateName></WorkflowReadyForApprovalTemplateName>
+      <WorkflowNotificationTemplateName></WorkflowNotificationTemplateName>
+      <WorkflowEnabled>true</WorkflowEnabled>
+    </cms_workflow>
+    <cms_workflow>
+      <WorkflowID>211</WorkflowID>
+      <WorkflowDisplayName>Translation - Import to other language versions</WorkflowDisplayName>
+      <WorkflowName>Import_translation_workflow</WorkflowName>
+      <WorkflowGUID>dec28292-de79-4a52-881c-734d1ce80341</WorkflowGUID>
+      <WorkflowLastModified>2020-10-05T19:01:13.3580676+02:00</WorkflowLastModified>
+      <WorkflowAutoPublishChanges>false</WorkflowAutoPublishChanges>
+      <WorkflowType>1</WorkflowType>
+      <WorkflowSendApproveEmails>true</WorkflowSendApproveEmails>
+      <WorkflowSendRejectEmails>true</WorkflowSendRejectEmails>
+      <WorkflowSendPublishEmails>true</WorkflowSendPublishEmails>
+      <WorkflowSendArchiveEmails>true</WorkflowSendArchiveEmails>
+      <WorkflowApprovedTemplateName></WorkflowApprovedTemplateName>
+      <WorkflowRejectedTemplateName></WorkflowRejectedTemplateName>
+      <WorkflowPublishedTemplateName></WorkflowPublishedTemplateName>
+      <WorkflowArchivedTemplateName></WorkflowArchivedTemplateName>
+      <WorkflowSendReadyForApprovalEmails>true</WorkflowSendReadyForApprovalEmails>
+      <WorkflowReadyForApprovalTemplateName></WorkflowReadyForApprovalTemplateName>
+      <WorkflowNotificationTemplateName></WorkflowNotificationTemplateName>
+      <WorkflowAllowedObjects>;##DOCUMENTS##;</WorkflowAllowedObjects>
+      <WorkflowEnabled>true</WorkflowEnabled>
+    </cms_workflow>
+    <cms_workflow>
+      <WorkflowID>212</WorkflowID>
+      <WorkflowDisplayName>Translation - Default language version</WorkflowDisplayName>
+      <WorkflowName>Translation_workflow</WorkflowName>
+      <WorkflowGUID>64b14868-7767-4ed6-bb5e-7c8b8465b60c</WorkflowGUID>
+      <WorkflowLastModified>2020-10-05T19:01:13.7680731+02:00</WorkflowLastModified>
+      <WorkflowAutoPublishChanges>false</WorkflowAutoPublishChanges>
+      <WorkflowType>1</WorkflowType>
+      <WorkflowSendApproveEmails>true</WorkflowSendApproveEmails>
+      <WorkflowSendRejectEmails>true</WorkflowSendRejectEmails>
+      <WorkflowSendPublishEmails>true</WorkflowSendPublishEmails>
+      <WorkflowSendArchiveEmails>true</WorkflowSendArchiveEmails>
+      <WorkflowApprovedTemplateName></WorkflowApprovedTemplateName>
+      <WorkflowRejectedTemplateName></WorkflowRejectedTemplateName>
+      <WorkflowPublishedTemplateName></WorkflowPublishedTemplateName>
+      <WorkflowArchivedTemplateName></WorkflowArchivedTemplateName>
+      <WorkflowSendReadyForApprovalEmails>true</WorkflowSendReadyForApprovalEmails>
+      <WorkflowReadyForApprovalTemplateName></WorkflowReadyForApprovalTemplateName>
+      <WorkflowNotificationTemplateName></WorkflowNotificationTemplateName>
+      <WorkflowAllowedObjects>;##DOCUMENTS##;</WorkflowAllowedObjects>
+      <WorkflowEnabled>true</WorkflowEnabled>
+    </cms_workflow>
+    <cms_workflow>
+      <WorkflowID>46</WorkflowID>
+      <WorkflowDisplayName>Versioning without workflow</WorkflowDisplayName>
+      <WorkflowName>versioningWithoutWorkflow</WorkflowName>
+      <WorkflowGUID>38bbee58-ba57-438b-a3db-9b0c153315c6</WorkflowGUID>
+      <WorkflowLastModified>2020-10-05T18:58:55.7557184+02:00</WorkflowLastModified>
+      <WorkflowAutoPublishChanges>true</WorkflowAutoPublishChanges>
+      <WorkflowType>0</WorkflowType>
+      <WorkflowSendApproveEmails>true</WorkflowSendApproveEmails>
+      <WorkflowSendRejectEmails>true</WorkflowSendRejectEmails>
+      <WorkflowSendPublishEmails>true</WorkflowSendPublishEmails>
+      <WorkflowSendArchiveEmails>true</WorkflowSendArchiveEmails>
+      <WorkflowApprovedTemplateName></WorkflowApprovedTemplateName>
+      <WorkflowRejectedTemplateName></WorkflowRejectedTemplateName>
+      <WorkflowPublishedTemplateName></WorkflowPublishedTemplateName>
+      <WorkflowArchivedTemplateName></WorkflowArchivedTemplateName>
+      <WorkflowSendReadyForApprovalEmails>true</WorkflowSendReadyForApprovalEmails>
+      <WorkflowReadyForApprovalTemplateName></WorkflowReadyForApprovalTemplateName>
+      <WorkflowNotificationTemplateName></WorkflowNotificationTemplateName>
+      <WorkflowEnabled>true</WorkflowEnabled>
+    </cms_workflow>
+    <cms_workflowstep>
+      <StepID>5870</StepID>
+      <StepDisplayName>Published</StepDisplayName>
+      <StepName>published</StepName>
+      <StepWorkflowID>211</StepWorkflowID>
+      <StepGUID>491a9e56-ef97-4430-8ff1-184cde7022ae</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.1960685+02:00</StepLastModified>
+      <StepType>100</StepType>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="8c087fa0-3f27-4381-983c-8bce419c967e"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;1230&lt;/X&gt;
+    &lt;Y&gt;2600&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5881</StepID>
+      <StepDisplayName>Archived</StepDisplayName>
+      <StepName>archived</StepName>
+      <StepWorkflowID>212</StepWorkflowID>
+      <StepGUID>82696a71-5ddb-4eaf-9b0a-330a04d9eb18</StepGUID>
+      <StepLastModified>2020-10-05T18:58:55.1757085+02:00</StepLastModified>
+      <StepType>101</StepType>
+      <StepAllowReject>false</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="ce7750ac-6481-4993-976f-20940f253fd3"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;1240&lt;/X&gt;
+    &lt;Y&gt;2670&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5879</StepID>
+      <StepDisplayName>Edit</StepDisplayName>
+      <StepName>edit</StepName>
+      <StepWorkflowID>212</StepWorkflowID>
+      <StepGUID>60290d0b-ea07-4c0f-98b2-36b092a4f8b0</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.6430683+02:00</StepLastModified>
+      <StepType>2</StepType>
+      <StepAllowReject>false</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="70204426-8569-464d-a2a5-7d062d4bd9e9"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;230&lt;/X&gt;
+    &lt;Y&gt;2670&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>254</StepID>
+      <StepDisplayName>Edit</StepDisplayName>
+      <StepName>edit</StepName>
+      <StepOrder>1</StepOrder>
+      <StepWorkflowID>46</StepWorkflowID>
+      <StepGUID>6d3da94a-c830-408a-9738-65bf1c593551</StepGUID>
+      <StepLastModified>2020-10-05T18:58:55.6917196+02:00</StepLastModified>
+      <StepType>2</StepType>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints /&gt;
+  &lt;Position&gt;
+    &lt;X&gt;0&lt;/X&gt;
+    &lt;Y&gt;0&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>0</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5873</StepID>
+      <StepDisplayName>Import translation</StepDisplayName>
+      <StepName>Import_translation</StepName>
+      <StepWorkflowID>211</StepWorkflowID>
+      <StepGUID>626df3e9-b68a-42a5-9e05-74ec45e1f2aa</StepGUID>
+      <StepLastModified>2020-10-05T19:01:12.8760608+02:00</StepLastModified>
+      <StepType>11</StepType>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="271ec955-2630-4a0d-8070-2aa30db80065"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;880&lt;/X&gt;
+    &lt;Y&gt;2600&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepSendEmails>false</StepSendEmails>
+      <StepActionID>53</StepActionID>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>20</StepID>
+      <StepDisplayName>Archived</StepDisplayName>
+      <StepName>archived</StepName>
+      <StepOrder>5</StepOrder>
+      <StepWorkflowID>1</StepWorkflowID>
+      <StepGUID>9d987f6a-c420-49d8-aafd-898b7ec4ece9</StepGUID>
+      <StepLastModified>2020-10-05T18:58:54.4877071+02:00</StepLastModified>
+      <StepType>101</StepType>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints /&gt;
+  &lt;Position&gt;
+    &lt;X&gt;0&lt;/X&gt;
+    &lt;Y&gt;0&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>0</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5883</StepID>
+      <StepDisplayName>Approval</StepDisplayName>
+      <StepName>Standard</StepName>
+      <StepWorkflowID>212</StepWorkflowID>
+      <StepGUID>64450a8e-550d-448f-9bfd-8a56c04c6336</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.7620698+02:00</StepLastModified>
+      <StepType>3</StepType>
+      <StepAllowReject>true</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutInterval /&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="9999619f-e6c0-47ab-968c-34a419b7186f"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Text&gt;Send for translation and publish&lt;/Text&gt;
+      &lt;Tooltip&gt;Sends the page for translation to the target languages and publishes this page.&lt;/Tooltip&gt;
+      &lt;Condition /&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;470&lt;/X&gt;
+    &lt;Y&gt;2670&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepAllowPublish>false</StepAllowPublish>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5874</StepID>
+      <StepDisplayName>Translation ready condition</StepDisplayName>
+      <StepName>Condition</StepName>
+      <StepWorkflowID>211</StepWorkflowID>
+      <StepGUID>0d4cea79-abcc-4a0c-a332-a24b42753a0e</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.0130618+02:00</StepLastModified>
+      <StepType>6</StepType>
+      <StepAllowReject>true</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint xsi:type="ConditionSourcePoint" Guid="07001585-607e-4115-9ccf-90cdbd4c05a6"&gt;
+      &lt;Label&gt;If translation is ready&lt;/Label&gt;
+      &lt;Text&gt;Import translation&lt;/Text&gt;
+      &lt;Tooltip&gt;If translation is ready, the page will be translated.&lt;/Tooltip&gt;
+      &lt;Condition&gt;{%Document.IsTranslationReady()|(user)administrator|(hash)84d9d08b0be7c801948188464634d893d2fbda833a1f7733321f4d44e51ceb5e%}&lt;/Condition&gt;
+      &lt;Type&gt;1&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+    &lt;SourcePoint xsi:type="ElseSourcePoint" Guid="7c1a3c8d-093c-4b93-bc7e-3f68ce3e1f1a"&gt;
+      &lt;Label&gt;Else&lt;/Label&gt;
+      &lt;Type&gt;2&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;560&lt;/X&gt;
+    &lt;Y&gt;2880&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepAllowPublish>false</StepAllowPublish>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5882</StepID>
+      <StepDisplayName>Send for translation</StepDisplayName>
+      <StepName>Send_for_translation</StepName>
+      <StepWorkflowID>212</StepWorkflowID>
+      <StepGUID>b8a60f49-6d78-457d-8d84-a2c667c49d83</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.4470684+02:00</StepLastModified>
+      <StepType>11</StepType>
+      <StepAllowReject>true</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="c71a1655-295d-4194-a751-910387cdbbd0"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;720&lt;/X&gt;
+    &lt;Y&gt;2670&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepSendEmails>false</StepSendEmails>
+      <StepAllowPublish>false</StepAllowPublish>
+      <StepActionID>52</StepActionID>
+      <StepActionParameters>&lt;Parameters&gt;&lt;createsinglesubmission&gt;False&lt;/createsinglesubmission&gt;&lt;deadline&gt;7;day&lt;/deadline&gt;&lt;priority&gt;1&lt;/priority&gt;&lt;processbinary&gt;False&lt;/processbinary&gt;&lt;servicename&gt;ManualTranslation&lt;/servicename&gt;&lt;targetlanguage&gt;en-US&lt;/targetlanguage&gt;&lt;/Parameters&gt;</StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5871</StepID>
+      <StepDisplayName>Archived</StepDisplayName>
+      <StepName>archived</StepName>
+      <StepWorkflowID>211</StepWorkflowID>
+      <StepGUID>49c0826d-4cec-498e-8e9f-ab5c24f69740</StepGUID>
+      <StepLastModified>2020-10-05T18:58:54.7857118+02:00</StepLastModified>
+      <StepType>101</StepType>
+      <StepAllowReject>false</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="742ffb8d-80d9-46be-a493-04b9dc901162"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;1560&lt;/X&gt;
+    &lt;Y&gt;2600&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>1</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>256</StepID>
+      <StepDisplayName>Archived</StepDisplayName>
+      <StepName>archived</StepName>
+      <StepOrder>3</StepOrder>
+      <StepWorkflowID>46</StepWorkflowID>
+      <StepGUID>8750289f-6686-4aa3-825c-b3cb89644fea</StepGUID>
+      <StepLastModified>2020-10-05T18:58:55.6247164+02:00</StepLastModified>
+      <StepType>101</StepType>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints /&gt;
+  &lt;Position&gt;
+    &lt;X&gt;0&lt;/X&gt;
+    &lt;Y&gt;0&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>0</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5877</StepID>
+      <StepDisplayName>Wait 1 day</StepDisplayName>
+      <StepName>Wait</StepName>
+      <StepWorkflowID>211</StepWorkflowID>
+      <StepGUID>71b91db5-72c1-489c-9a87-b9825d0adbad</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.3550669+02:00</StepLastModified>
+      <StepType>10</StepType>
+      <StepAllowReject>true</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;true&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutInterval&gt;day;1/1/0001 12:00:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TimeoutInterval&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="da4480cb-cfdd-481e-a1a2-5c2b98e478f3"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Text /&gt;
+      &lt;Tooltip /&gt;
+      &lt;Condition /&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;540&lt;/X&gt;
+    &lt;Y&gt;2600&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepAllowPublish>false</StepAllowPublish>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>1</StepID>
+      <StepDisplayName>Edit</StepDisplayName>
+      <StepName>edit</StepName>
+      <StepOrder>1</StepOrder>
+      <StepWorkflowID>1</StepWorkflowID>
+      <StepGUID>633c6b94-f891-4a37-ba9c-bd14f76bcde8</StepGUID>
+      <StepLastModified>2020-10-05T18:58:54.6257077+02:00</StepLastModified>
+      <StepType>2</StepType>
+      <StepAllowReject>true</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints /&gt;
+  &lt;Position&gt;
+    &lt;X&gt;0&lt;/X&gt;
+    &lt;Y&gt;0&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepAllowPublish>false</StepAllowPublish>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>0</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>255</StepID>
+      <StepDisplayName>Published</StepDisplayName>
+      <StepName>published</StepName>
+      <StepOrder>2</StepOrder>
+      <StepWorkflowID>46</StepWorkflowID>
+      <StepGUID>931aa2e0-ae9d-4cd4-a07c-c01bd6dd4080</StepGUID>
+      <StepLastModified>2020-10-05T18:58:55.7477211+02:00</StepLastModified>
+      <StepType>100</StepType>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints /&gt;
+  &lt;Position&gt;
+    &lt;X&gt;0&lt;/X&gt;
+    &lt;Y&gt;0&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>0</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5880</StepID>
+      <StepDisplayName>Published</StepDisplayName>
+      <StepName>published</StepName>
+      <StepWorkflowID>212</StepWorkflowID>
+      <StepGUID>4d346d84-a8af-4333-bef9-dd6bd84a9fd3</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.6950664+02:00</StepLastModified>
+      <StepType>100</StepType>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="06e97b54-c45d-4225-ba7b-4c52676288ad"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;980&lt;/X&gt;
+    &lt;Y&gt;2670&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>5869</StepID>
+      <StepDisplayName>Edit</StepDisplayName>
+      <StepName>edit</StepName>
+      <StepWorkflowID>211</StepWorkflowID>
+      <StepGUID>5f104454-f5a2-4f02-ade9-de782987c275</StepGUID>
+      <StepLastModified>2020-10-05T19:01:13.1080657+02:00</StepLastModified>
+      <StepType>2</StepType>
+      <StepAllowReject>true</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;true&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutInterval&gt;minute;1/1/0001 12:00:00 AM;1;00:00:00;23:59:59.9999999;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday&lt;/TimeoutInterval&gt;
+  &lt;TimeoutTarget&gt;feb7e072-bac9-4179-a122-9775791e343e&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints&gt;
+    &lt;SourcePoint Guid="bfc73cd2-35bc-48d7-9bfb-804967b646ef"&gt;
+      &lt;Label&gt;Standard&lt;/Label&gt;
+      &lt;Type&gt;0&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+    &lt;SourcePoint xsi:type="TimeoutSourcePoint" Guid="feb7e072-bac9-4179-a122-9775791e343e"&gt;
+      &lt;Label&gt;Timeout&lt;/Label&gt;
+      &lt;Type&gt;3&lt;/Type&gt;
+      &lt;StepRolesSecurity&gt;0&lt;/StepRolesSecurity&gt;
+      &lt;StepUsersSecurity&gt;0&lt;/StepUsersSecurity&gt;
+    &lt;/SourcePoint&gt;
+  &lt;/SourcePoints&gt;
+  &lt;Position&gt;
+    &lt;X&gt;220&lt;/X&gt;
+    &lt;Y&gt;2590&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepAllowPublish>false</StepAllowPublish>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>1</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowstep>
+      <StepID>2</StepID>
+      <StepDisplayName>Published</StepDisplayName>
+      <StepName>published</StepName>
+      <StepOrder>4</StepOrder>
+      <StepWorkflowID>1</StepWorkflowID>
+      <StepGUID>4391d9e9-5954-41d0-b082-fef4b09bcff3</StepGUID>
+      <StepLastModified>2020-10-05T18:58:54.6917088+02:00</StepLastModified>
+      <StepType>100</StepType>
+      <StepAllowReject>true</StepAllowReject>
+      <StepDefinition>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Step xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;TimeoutEnabled&gt;false&lt;/TimeoutEnabled&gt;
+  &lt;TimeoutTarget&gt;00000000-0000-0000-0000-000000000000&lt;/TimeoutTarget&gt;
+  &lt;SourcePoints /&gt;
+  &lt;Position&gt;
+    &lt;X&gt;0&lt;/X&gt;
+    &lt;Y&gt;0&lt;/Y&gt;
+  &lt;/Position&gt;
+&lt;/Step&gt;</StepDefinition>
+      <StepRolesSecurity>0</StepRolesSecurity>
+      <StepUsersSecurity>0</StepUsersSecurity>
+      <StepActionParameters></StepActionParameters>
+      <StepWorkflowType>0</StepWorkflowType>
+    </cms_workflowstep>
+    <cms_workflowtransition>
+      <TransitionID>1791</TransitionID>
+      <TransitionStartStepID>5869</TransitionStartStepID>
+      <TransitionEndStepID>5877</TransitionEndStepID>
+      <TransitionType>0</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:13.0560641+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>feb7e072-bac9-4179-a122-9775791e343e</TransitionSourcePointGUID>
+      <TransitionWorkflowID>211</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1766</TransitionID>
+      <TransitionStartStepID>5870</TransitionStartStepID>
+      <TransitionEndStepID>5871</TransitionEndStepID>
+      <TransitionType>0</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:13.1430649+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>8c087fa0-3f27-4381-983c-8bce419c967e</TransitionSourcePointGUID>
+      <TransitionWorkflowID>211</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1768</TransitionID>
+      <TransitionStartStepID>5873</TransitionStartStepID>
+      <TransitionEndStepID>5870</TransitionEndStepID>
+      <TransitionType>1</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:12.8450906+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>271ec955-2630-4a0d-8070-2aa30db80065</TransitionSourcePointGUID>
+      <TransitionWorkflowID>211</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1772</TransitionID>
+      <TransitionStartStepID>5874</TransitionStartStepID>
+      <TransitionEndStepID>5873</TransitionEndStepID>
+      <TransitionType>1</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:12.9080739+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>07001585-607e-4115-9ccf-90cdbd4c05a6</TransitionSourcePointGUID>
+      <TransitionWorkflowID>211</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1771</TransitionID>
+      <TransitionStartStepID>5874</TransitionStartStepID>
+      <TransitionEndStepID>5877</TransitionEndStepID>
+      <TransitionType>1</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:12.9750753+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>7c1a3c8d-093c-4b93-bc7e-3f68ce3e1f1a</TransitionSourcePointGUID>
+      <TransitionWorkflowID>211</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1773</TransitionID>
+      <TransitionStartStepID>5877</TransitionStartStepID>
+      <TransitionEndStepID>5874</TransitionEndStepID>
+      <TransitionType>1</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:13.3150624+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>da4480cb-cfdd-481e-a1a2-5c2b98e478f3</TransitionSourcePointGUID>
+      <TransitionWorkflowID>211</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1784</TransitionID>
+      <TransitionStartStepID>5879</TransitionStartStepID>
+      <TransitionEndStepID>5883</TransitionEndStepID>
+      <TransitionType>0</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:13.6120699+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>70204426-8569-464d-a2a5-7d062d4bd9e9</TransitionSourcePointGUID>
+      <TransitionWorkflowID>212</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1780</TransitionID>
+      <TransitionStartStepID>5880</TransitionStartStepID>
+      <TransitionEndStepID>5881</TransitionEndStepID>
+      <TransitionType>0</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:13.6630752+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>06e97b54-c45d-4225-ba7b-4c52676288ad</TransitionSourcePointGUID>
+      <TransitionWorkflowID>212</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1782</TransitionID>
+      <TransitionStartStepID>5882</TransitionStartStepID>
+      <TransitionEndStepID>5880</TransitionEndStepID>
+      <TransitionType>1</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:13.4090792+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>c71a1655-295d-4194-a751-910387cdbbd0</TransitionSourcePointGUID>
+      <TransitionWorkflowID>212</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <cms_workflowtransition>
+      <TransitionID>1783</TransitionID>
+      <TransitionStartStepID>5883</TransitionStartStepID>
+      <TransitionEndStepID>5882</TransitionEndStepID>
+      <TransitionType>0</TransitionType>
+      <TransitionLastModified>2020-10-05T19:01:13.7270697+02:00</TransitionLastModified>
+      <TransitionSourcePointGUID>9999619f-e6c0-47ab-968c-34a419b7186f</TransitionSourcePointGUID>
+      <TransitionWorkflowID>212</TransitionWorkflowID>
+    </cms_workflowtransition>
+    <export_task>
+      <TaskID>1353</TaskID>
+      <TaskTitle>Delete Workflow 'Basic Articles workflow (MVC test)'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Workflow&gt;
+  &lt;WorkflowID&gt;214&lt;/WorkflowID&gt;
+  &lt;WorkflowDisplayName&gt;Basic Articles workflow (MVC test)&lt;/WorkflowDisplayName&gt;
+  &lt;WorkflowName&gt;DancingGoatMvcArticlesWorkflow&lt;/WorkflowName&gt;
+  &lt;WorkflowGUID&gt;6204da94-b880-4b10-8858-89caf3ef7289&lt;/WorkflowGUID&gt;
+  &lt;WorkflowLastModified&gt;2020-03-29T08:44:37.0420427+02:00&lt;/WorkflowLastModified&gt;
+  &lt;WorkflowAutoPublishChanges&gt;false&lt;/WorkflowAutoPublishChanges&gt;
+  &lt;WorkflowType&gt;0&lt;/WorkflowType&gt;
+  &lt;WorkflowSendApproveEmails&gt;true&lt;/WorkflowSendApproveEmails&gt;
+  &lt;WorkflowSendRejectEmails&gt;true&lt;/WorkflowSendRejectEmails&gt;
+  &lt;WorkflowSendPublishEmails&gt;true&lt;/WorkflowSendPublishEmails&gt;
+  &lt;WorkflowSendArchiveEmails&gt;true&lt;/WorkflowSendArchiveEmails&gt;
+  &lt;WorkflowSendReadyForApprovalEmails&gt;true&lt;/WorkflowSendReadyForApprovalEmails&gt;
+  &lt;WorkflowEnabled&gt;true&lt;/WorkflowEnabled&gt;
+&lt;/CMS_Workflow&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.7211537+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.workflow</TaskObjectType>
+      <TaskObjectID>214</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1354</TaskID>
+      <TaskTitle>Delete Workflow 'Social media workflow (Dancing Goat)'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Workflow&gt;
+  &lt;WorkflowID&gt;213&lt;/WorkflowID&gt;
+  &lt;WorkflowDisplayName&gt;Social media workflow (Dancing Goat)&lt;/WorkflowDisplayName&gt;
+  &lt;WorkflowName&gt;DancingGoat.SocialMediaWorkflow&lt;/WorkflowName&gt;
+  &lt;WorkflowGUID&gt;38c35b9d-0ce9-444e-b54e-fd7303f618cf&lt;/WorkflowGUID&gt;
+  &lt;WorkflowLastModified&gt;2020-03-29T08:44:38.6951206+02:00&lt;/WorkflowLastModified&gt;
+  &lt;WorkflowAutoPublishChanges&gt;false&lt;/WorkflowAutoPublishChanges&gt;
+  &lt;WorkflowType&gt;1&lt;/WorkflowType&gt;
+  &lt;WorkflowSendEmails&gt;true&lt;/WorkflowSendEmails&gt;
+  &lt;WorkflowSendApproveEmails&gt;true&lt;/WorkflowSendApproveEmails&gt;
+  &lt;WorkflowSendRejectEmails&gt;true&lt;/WorkflowSendRejectEmails&gt;
+  &lt;WorkflowSendPublishEmails&gt;true&lt;/WorkflowSendPublishEmails&gt;
+  &lt;WorkflowSendArchiveEmails&gt;true&lt;/WorkflowSendArchiveEmails&gt;
+  &lt;WorkflowApprovedTemplateName /&gt;
+  &lt;WorkflowRejectedTemplateName /&gt;
+  &lt;WorkflowPublishedTemplateName /&gt;
+  &lt;WorkflowArchivedTemplateName /&gt;
+  &lt;WorkflowSendReadyForApprovalEmails&gt;true&lt;/WorkflowSendReadyForApprovalEmails&gt;
+  &lt;WorkflowReadyForApprovalTemplateName /&gt;
+  &lt;WorkflowNotificationTemplateName /&gt;
+  &lt;WorkflowEnabled&gt;true&lt;/WorkflowEnabled&gt;
+&lt;/CMS_Workflow&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:38.7636602+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.workflow</TaskObjectType>
+      <TaskObjectID>213</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_workflow>

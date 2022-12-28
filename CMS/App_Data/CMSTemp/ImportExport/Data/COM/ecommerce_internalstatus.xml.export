@@ -1,0 +1,28 @@
+﻿<ecommerce_internalstatus version="13.0">
+  <NewDataSet>
+    <com_internalstatus>
+      <InternalStatusID>1</InternalStatusID>
+      <InternalStatusName>Discounted</InternalStatusName>
+      <InternalStatusDisplayName>Discounted</InternalStatusDisplayName>
+      <InternalStatusEnabled>true</InternalStatusEnabled>
+      <InternalStatusGUID>87cb3851-a3db-40c4-9812-806af29e9b2f</InternalStatusGUID>
+      <InternalStatusLastModified>2020-10-05T18:58:51.6856793+02:00</InternalStatusLastModified>
+    </com_internalstatus>
+    <com_internalstatus>
+      <InternalStatusID>3</InternalStatusID>
+      <InternalStatusName>OldModel</InternalStatusName>
+      <InternalStatusDisplayName>Old model</InternalStatusDisplayName>
+      <InternalStatusEnabled>true</InternalStatusEnabled>
+      <InternalStatusGUID>5c7404f8-cc4f-4067-a851-d31082f8061c</InternalStatusGUID>
+      <InternalStatusLastModified>2020-10-05T18:58:51.7266751+02:00</InternalStatusLastModified>
+    </com_internalstatus>
+    <com_internalstatus>
+      <InternalStatusID>2</InternalStatusID>
+      <InternalStatusName>NewModel</InternalStatusName>
+      <InternalStatusDisplayName>New model</InternalStatusDisplayName>
+      <InternalStatusEnabled>true</InternalStatusEnabled>
+      <InternalStatusGUID>71b59da5-ae50-4f56-b8dc-dbc769d495dd</InternalStatusGUID>
+      <InternalStatusLastModified>2020-10-05T18:58:51.718677+02:00</InternalStatusLastModified>
+    </com_internalstatus>
+  </NewDataSet>
+</ecommerce_internalstatus>

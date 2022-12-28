@@ -1,0 +1,247 @@
+﻿<ecommerce_sku version="13.0">
+  <NewDataSet>
+    <com_sku>
+      <SKUID>564</SKUID>
+      <SKUName>SampleProduct No. 1</SKUName>
+      <SKUDescription>This is a sample product for MVC Learning Kit.</SKUDescription>
+      <SKUPrice>29.990000000</SKUPrice>
+      <SKUEnabled>true</SKUEnabled>
+      <SKUGUID>7c878597-42e7-4ab5-9bf8-641ecd1e1621</SKUGUID>
+      <SKUAvailableItems>100</SKUAvailableItems>
+      <SKULastModified>2020-09-29T09:39:33.0642186+02:00</SKULastModified>
+      <SKUCreated>2020-09-29T09:39:33.0182202+02:00</SKUCreated>
+      <SKUSiteID>1</SKUSiteID>
+      <SKUProductType>PRODUCT</SKUProductType>
+      <SKUShortDescription>LearningKit_SampleData</SKUShortDescription>
+      <SKUTrackInventory>ByProduct</SKUTrackInventory>
+    </com_sku>
+    <com_sku>
+      <SKUID>565</SKUID>
+      <SKUName>SampleProduct No. 2</SKUName>
+      <SKUDescription>This is a sample product for MVC Learning Kit.</SKUDescription>
+      <SKUPrice>18.990000000</SKUPrice>
+      <SKUEnabled>true</SKUEnabled>
+      <SKUGUID>e2286970-4684-4dd1-880f-e2b8e1538a64</SKUGUID>
+      <SKUAvailableItems>100</SKUAvailableItems>
+      <SKULastModified>2020-09-29T09:39:33.6492283+02:00</SKULastModified>
+      <SKUCreated>2020-09-29T09:39:33.6482309+02:00</SKUCreated>
+      <SKUSiteID>1</SKUSiteID>
+      <SKUProductType>PRODUCT</SKUProductType>
+      <SKUShortDescription>LearningKit_SampleData</SKUShortDescription>
+      <SKUTrackInventory>ByProduct</SKUTrackInventory>
+    </com_sku>
+    <export_task>
+      <TaskID>3672</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Product 'SampleProduct No. 1'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;COM_SKU&gt;
+  &lt;SKUID&gt;429&lt;/SKUID&gt;
+  &lt;SKUName&gt;SampleProduct No. 1&lt;/SKUName&gt;
+  &lt;SKUDescription&gt;This is a sample product for MVC Learning Kit.&lt;/SKUDescription&gt;
+  &lt;SKUPrice&gt;28.990000000&lt;/SKUPrice&gt;
+  &lt;SKUEnabled&gt;true&lt;/SKUEnabled&gt;
+  &lt;SKUGUID&gt;6c9554e2-97c7-4f20-8569-c3f07b12a995&lt;/SKUGUID&gt;
+  &lt;SKUAvailableItems&gt;100&lt;/SKUAvailableItems&gt;
+  &lt;SKULastModified&gt;2020-07-01T09:33:16.3882762+02:00&lt;/SKULastModified&gt;
+  &lt;SKUCreated&gt;2020-07-01T09:33:16.2857836+02:00&lt;/SKUCreated&gt;
+  &lt;SKUSiteID&gt;1&lt;/SKUSiteID&gt;
+  &lt;SKUProductType&gt;PRODUCT&lt;/SKUProductType&gt;
+  &lt;SKUShortDescription&gt;LearningKit_SampleData&lt;/SKUShortDescription&gt;
+  &lt;SKUTrackInventory&gt;ByProduct&lt;/SKUTrackInventory&gt;
+&lt;/COM_SKU&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:27.47174+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>ecommerce.sku</TaskObjectType>
+      <TaskObjectID>429</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3673</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Product 'SampleProduct No. 2'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;COM_SKU&gt;
+  &lt;SKUID&gt;430&lt;/SKUID&gt;
+  &lt;SKUName&gt;SampleProduct No. 2&lt;/SKUName&gt;
+  &lt;SKUDescription&gt;This is a sample product for MVC Learning Kit.&lt;/SKUDescription&gt;
+  &lt;SKUPrice&gt;25.990000000&lt;/SKUPrice&gt;
+  &lt;SKUEnabled&gt;true&lt;/SKUEnabled&gt;
+  &lt;SKUGUID&gt;7e110083-4ddd-43fc-87e4-5f793c1f9c81&lt;/SKUGUID&gt;
+  &lt;SKUAvailableItems&gt;100&lt;/SKUAvailableItems&gt;
+  &lt;SKULastModified&gt;2020-07-01T09:33:16.9624008+02:00&lt;/SKULastModified&gt;
+  &lt;SKUCreated&gt;2020-07-01T09:33:16.9593742+02:00&lt;/SKUCreated&gt;
+  &lt;SKUSiteID&gt;1&lt;/SKUSiteID&gt;
+  &lt;SKUProductType&gt;PRODUCT&lt;/SKUProductType&gt;
+  &lt;SKUShortDescription&gt;LearningKit_SampleData&lt;/SKUShortDescription&gt;
+  &lt;SKUTrackInventory&gt;ByProduct&lt;/SKUTrackInventory&gt;
+&lt;/COM_SKU&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:27.5807398+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>ecommerce.sku</TaskObjectType>
+      <TaskObjectID>430</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3674</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Product 'SampleProduct No. 3'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;COM_SKU&gt;
+  &lt;SKUID&gt;431&lt;/SKUID&gt;
+  &lt;SKUName&gt;SampleProduct No. 3&lt;/SKUName&gt;
+  &lt;SKUDescription&gt;This is a sample product for MVC Learning Kit.&lt;/SKUDescription&gt;
+  &lt;SKUPrice&gt;30.990000000&lt;/SKUPrice&gt;
+  &lt;SKUEnabled&gt;true&lt;/SKUEnabled&gt;
+  &lt;SKUGUID&gt;9b523687-5c39-4ed9-a981-20e84c39325a&lt;/SKUGUID&gt;
+  &lt;SKUAvailableItems&gt;100&lt;/SKUAvailableItems&gt;
+  &lt;SKULastModified&gt;2020-07-01T09:33:16.9905342+02:00&lt;/SKULastModified&gt;
+  &lt;SKUCreated&gt;2020-07-01T09:33:16.9905342+02:00&lt;/SKUCreated&gt;
+  &lt;SKUSiteID&gt;1&lt;/SKUSiteID&gt;
+  &lt;SKUProductType&gt;PRODUCT&lt;/SKUProductType&gt;
+  &lt;SKUShortDescription&gt;LearningKit_SampleData&lt;/SKUShortDescription&gt;
+  &lt;SKUTrackInventory&gt;ByProduct&lt;/SKUTrackInventory&gt;
+&lt;/COM_SKU&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T13:43:27.61274+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>ecommerce.sku</TaskObjectType>
+      <TaskObjectID>431</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>4868</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Product 'SampleProduct No. 3'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;COM_SKU&gt;
+  &lt;SKUID&gt;566&lt;/SKUID&gt;
+  &lt;SKUName&gt;SampleProduct No. 3&lt;/SKUName&gt;
+  &lt;SKUDescription&gt;This is a sample product for MVC Learning Kit.&lt;/SKUDescription&gt;
+  &lt;SKUPrice&gt;23.990000000&lt;/SKUPrice&gt;
+  &lt;SKUEnabled&gt;true&lt;/SKUEnabled&gt;
+  &lt;SKUGUID&gt;cffada3f-54f4-440d-8454-8d74e677d52f&lt;/SKUGUID&gt;
+  &lt;SKUAvailableItems&gt;100&lt;/SKUAvailableItems&gt;
+  &lt;SKULastModified&gt;2020-09-29T09:39:33.6722289+02:00&lt;/SKULastModified&gt;
+  &lt;SKUCreated&gt;2020-09-29T09:39:33.6712278+02:00&lt;/SKUCreated&gt;
+  &lt;SKUSiteID&gt;1&lt;/SKUSiteID&gt;
+  &lt;SKUProductType&gt;PRODUCT&lt;/SKUProductType&gt;
+  &lt;SKUShortDescription&gt;LearningKit_SampleData&lt;/SKUShortDescription&gt;
+  &lt;SKUTrackInventory&gt;ByProduct&lt;/SKUTrackInventory&gt;
+&lt;/COM_SKU&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-10-05T19:03:41.3756431+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>ecommerce.sku</TaskObjectType>
+      <TaskObjectID>566</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>4918</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Product 'Bolek Polivka'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;COM_SKU&gt;
+  &lt;SKUID&gt;432&lt;/SKUID&gt;
+  &lt;SKUNumber&gt;456&lt;/SKUNumber&gt;
+  &lt;SKUName&gt;Bolek Polivka&lt;/SKUName&gt;
+  &lt;SKUPrice&gt;560.000000000&lt;/SKUPrice&gt;
+  &lt;SKUEnabled&gt;true&lt;/SKUEnabled&gt;
+  &lt;SKUManufacturerID&gt;46&lt;/SKUManufacturerID&gt;
+  &lt;SKUGUID&gt;7c4cecdf-91ca-40d8-af92-009b55725a15&lt;/SKUGUID&gt;
+  &lt;SKUAvailableItems&gt;500&lt;/SKUAvailableItems&gt;
+  &lt;SKUSellOnlyAvailable&gt;true&lt;/SKUSellOnlyAvailable&gt;
+  &lt;SKULastModified&gt;2020-10-05T19:01:41.7453211+02:00&lt;/SKULastModified&gt;
+  &lt;SKUCreated&gt;2020-07-01T10:42:54.3308771+02:00&lt;/SKUCreated&gt;
+  &lt;SKUSiteID&gt;1&lt;/SKUSiteID&gt;
+  &lt;SKUNeedsShipping&gt;true&lt;/SKUNeedsShipping&gt;
+  &lt;SKUProductType&gt;PRODUCT&lt;/SKUProductType&gt;
+  &lt;SKUInStoreFrom&gt;2020-07-01T14:33:45+02:00&lt;/SKUInStoreFrom&gt;
+  &lt;SKUTrackInventory&gt;ByProduct&lt;/SKUTrackInventory&gt;
+&lt;/COM_SKU&gt;
+&lt;COM_SKUOptionCategory&gt;
+  &lt;SKUID&gt;432&lt;/SKUID&gt;
+  &lt;CategoryID&gt;34&lt;/CategoryID&gt;
+  &lt;SKUCategoryID&gt;111&lt;/SKUCategoryID&gt;
+  &lt;SKUCategoryOrder&gt;1&lt;/SKUCategoryOrder&gt;
+&lt;/COM_SKUOptionCategory&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;ecommerce_manufacturer&lt;/ClassName&gt;
+    &lt;ID&gt;46&lt;/ID&gt;
+    &lt;CodeName&gt;Bumbaclot&lt;/CodeName&gt;
+    &lt;SiteName&gt;BlankSite&lt;/SiteName&gt;
+    &lt;GUID&gt;f6e97d36-a656-48bb-9a70-ba661c264c55&lt;/GUID&gt;
+    &lt;ObjectType&gt;ecommerce.manufacturer&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;ecommerce_sku&lt;/ClassName&gt;
+    &lt;ID&gt;432&lt;/ID&gt;
+    &lt;CodeName&gt;7c4cecdf-91ca-40d8-af92-009b55725a15&lt;/CodeName&gt;
+    &lt;SiteName&gt;BlankSite&lt;/SiteName&gt;
+    &lt;GUID&gt;7c4cecdf-91ca-40d8-af92-009b55725a15&lt;/GUID&gt;
+    &lt;ObjectType&gt;ecommerce.sku&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;ecommerce_optioncategory&lt;/ClassName&gt;
+    &lt;ID&gt;34&lt;/ID&gt;
+    &lt;CodeName&gt;Size&lt;/CodeName&gt;
+    &lt;SiteName&gt;BlankSite&lt;/SiteName&gt;
+    &lt;GUID&gt;2ff3145c-8a36-42ee-9c34-a06a27ca249d&lt;/GUID&gt;
+    &lt;ObjectType&gt;ecommerce.optioncategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-10-06T09:46:27.1809071+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>ecommerce.sku</TaskObjectType>
+      <TaskObjectID>432</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</ecommerce_sku>

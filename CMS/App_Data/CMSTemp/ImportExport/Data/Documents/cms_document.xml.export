@@ -1,0 +1,116 @@
+﻿<cms_document version="13.0">
+  <NewDataSet>
+    <medio.home>
+      <HomeID>2</HomeID>
+      <HomeHeader>The goal of our clinic is to provide the best medical care. To make your life healthy at all times it is also necessary to keep up with a healthy way of living.</HomeHeader>
+      <HomeTextHeading>Welcome to MEDIO clinic</HomeTextHeading>
+      <HomeText>Our clinic, based in Bedford, NH, is a federally qualified health center offering high-quality, comprehensive, and family-oriented primary health care and support services since 7th March 1935. We are recognized by the National Committee on Quality Assurance as a Patient-Centered Medical Home. Providing health care for a stronger community, we serve nearly 20,000 patients annually.</HomeText>
+      <NodeID>2530</NodeID>
+      <NodeAliasPath>/Home</NodeAliasPath>
+      <NodeName>Home</NodeName>
+      <NodeAlias>Home</NodeAlias>
+      <NodeClassID>6536</NodeClassID>
+      <NodeParentID>1</NodeParentID>
+      <NodeLevel>1</NodeLevel>
+      <NodeACLID>58</NodeACLID>
+      <NodeSiteID>1</NodeSiteID>
+      <NodeGUID>3f51c5a7-c0cc-41bf-93eb-799aeec47d3b</NodeGUID>
+      <NodeOrder>1</NodeOrder>
+      <NodeOwner>53</NodeOwner>
+      <NodeHasChildren>false</NodeHasChildren>
+      <NodeHasLinks>false</NodeHasLinks>
+      <NodeOriginalNodeID>2530</NodeOriginalNodeID>
+      <NodeIsACLOwner>false</NodeIsACLOwner>
+      <DocumentID>2552</DocumentID>
+      <DocumentName>Home</DocumentName>
+      <DocumentModifiedWhen>2020-10-12T11:04:11.9931699+02:00</DocumentModifiedWhen>
+      <DocumentModifiedByUserID>53</DocumentModifiedByUserID>
+      <DocumentForeignKeyValue>2</DocumentForeignKeyValue>
+      <DocumentCreatedByUserID>53</DocumentCreatedByUserID>
+      <DocumentCreatedWhen>2020-10-12T11:04:11.9931699+02:00</DocumentCreatedWhen>
+      <DocumentCulture>en-US</DocumentCulture>
+      <DocumentNodeID>2530</DocumentNodeID>
+      <DocumentContent></DocumentContent>
+      <DocumentIsArchived>false</DocumentIsArchived>
+      <DocumentGUID>cbb43370-e767-4ec6-b34f-708fef54a1b8</DocumentGUID>
+      <DocumentWorkflowCycleGUID>a6d86ce7-5d93-465f-9c91-42886fb90819</DocumentWorkflowCycleGUID>
+      <DocumentCanBePublished>true</DocumentCanBePublished>
+      <DocumentShowInMenu>true</DocumentShowInMenu>
+      <ClassName>MEDIO.Home</ClassName>
+      <ClassDisplayName>Home (Medio Clinic)</ClassDisplayName>
+    </medio.home>
+    <medio.medicalcenter>
+      <MedicalCenterID>2</MedicalCenterID>
+      <MedicalCenterHeader>Medical center of the MEDIO clinic</MedicalCenterHeader>
+      <MedicalCenterText>&lt;h1&gt;Medical center&lt;/h1&gt;
+&lt;p&gt;
+A clinic (or outpatient clinic or ambulatory care clinic) is a healthcare facility that is primarily devoted to the care of outpatients. Clinics can be privately operated or publicly managed and funded, and typically cover the primary health care needs of populations in local communities, in contrast to larger hospitals which offer specialized treatments and admit inpatients for overnight stays. Some clinics grow to be institutions as large as major hospitals, or become associated with a hospital or medical school while retaining the name "clinic".
+&lt;/p&gt;</MedicalCenterText>
+      <NodeID>2531</NodeID>
+      <NodeAliasPath>/Medical-center</NodeAliasPath>
+      <NodeName>Medical center</NodeName>
+      <NodeAlias>Medical-center</NodeAlias>
+      <NodeClassID>6537</NodeClassID>
+      <NodeParentID>1</NodeParentID>
+      <NodeLevel>1</NodeLevel>
+      <NodeACLID>58</NodeACLID>
+      <NodeSiteID>1</NodeSiteID>
+      <NodeGUID>2c536598-822e-42d9-be43-95be47dd5b4a</NodeGUID>
+      <NodeOrder>2</NodeOrder>
+      <NodeOwner>53</NodeOwner>
+      <NodeHasChildren>false</NodeHasChildren>
+      <NodeHasLinks>false</NodeHasLinks>
+      <NodeOriginalNodeID>2531</NodeOriginalNodeID>
+      <NodeIsACLOwner>false</NodeIsACLOwner>
+      <DocumentID>2553</DocumentID>
+      <DocumentName>Medical center</DocumentName>
+      <DocumentModifiedWhen>2020-10-12T11:08:53.9307466+02:00</DocumentModifiedWhen>
+      <DocumentModifiedByUserID>53</DocumentModifiedByUserID>
+      <DocumentForeignKeyValue>2</DocumentForeignKeyValue>
+      <DocumentCreatedByUserID>53</DocumentCreatedByUserID>
+      <DocumentCreatedWhen>2020-10-12T11:08:53.9307466+02:00</DocumentCreatedWhen>
+      <DocumentCulture>en-US</DocumentCulture>
+      <DocumentNodeID>2531</DocumentNodeID>
+      <DocumentContent></DocumentContent>
+      <DocumentIsArchived>false</DocumentIsArchived>
+      <DocumentGUID>5abc076a-64db-4a55-8235-f8e16e5864e7</DocumentGUID>
+      <DocumentWorkflowCycleGUID>46bc6d75-7186-4995-aebe-394b5d0a8631</DocumentWorkflowCycleGUID>
+      <DocumentCanBePublished>true</DocumentCanBePublished>
+      <DocumentShowInMenu>true</DocumentShowInMenu>
+      <ClassName>MEDIO.MedicalCenter</ClassName>
+      <ClassDisplayName>Medical center (MEDIO Clinic)</ClassDisplayName>
+    </medio.medicalcenter>
+    <cms.root>
+      <NodeID>1</NodeID>
+      <NodeAliasPath>/</NodeAliasPath>
+      <NodeName></NodeName>
+      <NodeAlias></NodeAlias>
+      <NodeClassID>1095</NodeClassID>
+      <NodeLevel>0</NodeLevel>
+      <NodeACLID>58</NodeACLID>
+      <NodeSiteID>1</NodeSiteID>
+      <NodeGUID>acdd2058-bde0-4c9d-8332-45f417220571</NodeGUID>
+      <NodeOwner>65</NodeOwner>
+      <NodeHasChildren>true</NodeHasChildren>
+      <NodeHasLinks>false</NodeHasLinks>
+      <NodeOriginalNodeID>1</NodeOriginalNodeID>
+      <NodeIsACLOwner>true</NodeIsACLOwner>
+      <DocumentID>1</DocumentID>
+      <DocumentName></DocumentName>
+      <DocumentModifiedWhen>2015-09-21T09:10:50+02:00</DocumentModifiedWhen>
+      <DocumentModifiedByUserID>53</DocumentModifiedByUserID>
+      <DocumentCreatedByUserID>53</DocumentCreatedByUserID>
+      <DocumentCreatedWhen>2015-09-21T09:10:50+02:00</DocumentCreatedWhen>
+      <DocumentCulture>en-US</DocumentCulture>
+      <DocumentNodeID>1</DocumentNodeID>
+      <DocumentContent></DocumentContent>
+      <DocumentIsArchived>false</DocumentIsArchived>
+      <DocumentGUID>aa0fc9af-c321-41b2-872a-a92a9153e6c4</DocumentGUID>
+      <DocumentWorkflowCycleGUID>b16b8196-878c-4f52-939b-49585df8f12a</DocumentWorkflowCycleGUID>
+      <DocumentCanBePublished>true</DocumentCanBePublished>
+      <DocumentShowInMenu>false</DocumentShowInMenu>
+      <ClassName>CMS.Root</ClassName>
+      <ClassDisplayName>Root</ClassDisplayName>
+    </cms.root>
+  </NewDataSet>
+</cms_document>

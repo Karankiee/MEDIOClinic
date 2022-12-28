@@ -1,0 +1,100 @@
+﻿<cms_category version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>196</TaskID>
+      <TaskTitle>Delete Content category 'Development'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Category&gt;
+  &lt;CategoryID&gt;1&lt;/CategoryID&gt;
+  &lt;CategoryDisplayName&gt;Development&lt;/CategoryDisplayName&gt;
+  &lt;CategoryName&gt;Development&lt;/CategoryName&gt;
+  &lt;CategoryDescription&gt;Category contains development related articles&lt;/CategoryDescription&gt;
+  &lt;CategoryEnabled&gt;true&lt;/CategoryEnabled&gt;
+  &lt;CategoryGUID&gt;ad7616c9-0d83-417f-9af8-84beb7be19f2&lt;/CategoryGUID&gt;
+  &lt;CategoryLastModified&gt;2017-03-03T13:21:24.7827837+01:00&lt;/CategoryLastModified&gt;
+  &lt;CategoryIDPath&gt;/00000001&lt;/CategoryIDPath&gt;
+  &lt;CategoryNamePath&gt;/Development&lt;/CategoryNamePath&gt;
+  &lt;CategoryLevel&gt;0&lt;/CategoryLevel&gt;
+  &lt;CategoryOrder&gt;2&lt;/CategoryOrder&gt;
+&lt;/CMS_Category&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:02:55.7644657+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.category</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>197</TaskID>
+      <TaskTitle>Delete Content category 'Network administration'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Category&gt;
+  &lt;CategoryID&gt;2&lt;/CategoryID&gt;
+  &lt;CategoryDisplayName&gt;Network administration&lt;/CategoryDisplayName&gt;
+  &lt;CategoryName&gt;NetworkAdministration&lt;/CategoryName&gt;
+  &lt;CategoryDescription&gt;Category contains articles related to the network technologies&lt;/CategoryDescription&gt;
+  &lt;CategoryEnabled&gt;true&lt;/CategoryEnabled&gt;
+  &lt;CategoryGUID&gt;0d125a5c-9b42-433c-8272-247ab1bbb53e&lt;/CategoryGUID&gt;
+  &lt;CategoryLastModified&gt;2017-03-03T13:21:24.8283871+01:00&lt;/CategoryLastModified&gt;
+  &lt;CategoryIDPath&gt;/00000002&lt;/CategoryIDPath&gt;
+  &lt;CategoryNamePath&gt;/Network administration&lt;/CategoryNamePath&gt;
+  &lt;CategoryLevel&gt;0&lt;/CategoryLevel&gt;
+  &lt;CategoryOrder&gt;1&lt;/CategoryOrder&gt;
+&lt;/CMS_Category&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:02:56.0176642+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.category</TaskObjectType>
+      <TaskObjectID>2</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>198</TaskID>
+      <TaskTitle>Delete Content category 'Programming'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Category&gt;
+  &lt;CategoryID&gt;3&lt;/CategoryID&gt;
+  &lt;CategoryDisplayName&gt;Programming&lt;/CategoryDisplayName&gt;
+  &lt;CategoryName&gt;Programming&lt;/CategoryName&gt;
+  &lt;CategoryDescription&gt;Category contains articles related to the programming&lt;/CategoryDescription&gt;
+  &lt;CategoryEnabled&gt;true&lt;/CategoryEnabled&gt;
+  &lt;CategoryGUID&gt;728710ef-0f57-4f7b-81a2-0ca4c5a9e986&lt;/CategoryGUID&gt;
+  &lt;CategoryLastModified&gt;2017-03-03T13:21:24.8587106+01:00&lt;/CategoryLastModified&gt;
+  &lt;CategoryIDPath&gt;/00000003&lt;/CategoryIDPath&gt;
+  &lt;CategoryNamePath&gt;/Programming&lt;/CategoryNamePath&gt;
+  &lt;CategoryLevel&gt;0&lt;/CategoryLevel&gt;
+  &lt;CategoryOrder&gt;3&lt;/CategoryOrder&gt;
+&lt;/CMS_Category&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:02:56.069412+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.category</TaskObjectType>
+      <TaskObjectID>3</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>199</TaskID>
+      <TaskTitle>Delete Content category 'Technologies'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Category&gt;
+  &lt;CategoryID&gt;4&lt;/CategoryID&gt;
+  &lt;CategoryDisplayName&gt;Technologies&lt;/CategoryDisplayName&gt;
+  &lt;CategoryName&gt;Technologies&lt;/CategoryName&gt;
+  &lt;CategoryDescription&gt;Category contains technologies related articles&lt;/CategoryDescription&gt;
+  &lt;CategoryEnabled&gt;true&lt;/CategoryEnabled&gt;
+  &lt;CategoryGUID&gt;4a3afd53-ec34-4abe-ae52-c9d1704118da&lt;/CategoryGUID&gt;
+  &lt;CategoryLastModified&gt;2017-03-03T13:21:24.8897057+01:00&lt;/CategoryLastModified&gt;
+  &lt;CategoryIDPath&gt;/00000004&lt;/CategoryIDPath&gt;
+  &lt;CategoryNamePath&gt;/Technologies&lt;/CategoryNamePath&gt;
+  &lt;CategoryLevel&gt;0&lt;/CategoryLevel&gt;
+  &lt;CategoryOrder&gt;4&lt;/CategoryOrder&gt;
+&lt;/CMS_Category&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:02:56.1095086+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.category</TaskObjectType>
+      <TaskObjectID>4</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_category>

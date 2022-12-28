@@ -1,0 +1,431 @@
+﻿<cms_role version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>1015</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'Authenticated users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;4&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;Authenticated users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;_authenticated_&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Special role which automatically covers all authenticated users.&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;ebb754f5-d9fa-4ff9-a185-d2f38813a0af&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2017-03-03T13:20:58.8846579+01:00&lt;/RoleLastModified&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.7519977+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>4</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1016</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'Everyone'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;15&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;Everyone&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;_everyone_&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Special role which automatically covers all users.&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;f95e0f49-ab4c-42aa-a7b8-8c60b6c9c9c0&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:37:44.8127746+02:00&lt;/RoleLastModified&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.7917847+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>15</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1017</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'Not authenticated users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;17&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;Not authenticated users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;_notauthenticated_&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Special role which automatically covers all not authenticated users.&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;f8b74636-d728-4274-844e-a58939287093&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2017-03-03T13:20:59.1547303+01:00&lt;/RoleLastModified&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.8466352+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>17</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1018</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'CMS Basic users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;5&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;CMS Basic users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSBasicUsers&lt;/RoleName&gt;
+  &lt;RoleDescription /&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;51c679a4-4b04-4b44-9538-c9d5a81dd2e1&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:09.688134+02:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsDomain&gt;false&lt;/RoleIsDomain&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.8856313+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>5</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1019</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'CMS Community administrators'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;6&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;CMS Community administrators&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSCommunityAdmin&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Users who manage the community groups, members etc.&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;f7a4b723-9562-4061-b8ed-a0fb673cec62&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:09.5540013+02:00&lt;/RoleLastModified&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.9216309+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>6</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1020</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'CMS Designers'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;7&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;CMS Designers&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSDesigner&lt;/RoleName&gt;
+  &lt;RoleDescription /&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;e4042363-8479-41b2-95a3-6f62ab3ac3c6&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:09.4569983+02:00&lt;/RoleLastModified&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.9526323+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>7</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1021</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'CMS Desk Administrators'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;8&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;CMS Desk Administrators&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSDeskAdmin&lt;/RoleName&gt;
+  &lt;RoleDescription /&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;ca4d8ea7-4c15-405d-8f46-95221d5615ed&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:06.5268043+02:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsGroupAdministrator&gt;false&lt;/RoleIsGroupAdministrator&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:14.9856319+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>8</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1022</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'CMS Editors'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;9&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;CMS Editors&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSEditor&lt;/RoleName&gt;
+  &lt;RoleDescription /&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;9e39857e-9f5a-44c1-ba43-a1db4c7e7a2c&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:09.7041271+02:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsGroupAdministrator&gt;false&lt;/RoleIsGroupAdministrator&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:15.0196378+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>9</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1023</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'Facebook users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;10&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;Facebook users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSFacebookUsers&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Users who authenticated using Facebook Connect authentication.&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;67c02a45-6183-4764-a9b3-f8ff5ac5ec32&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2017-03-03T13:20:59.0252473+01:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsDomain&gt;false&lt;/RoleIsDomain&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:15.07364+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>10</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1024</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'LinkedIn users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;11&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;LinkedIn users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSLinkedInUsers&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Users who authenticated using LinkedIn authentication.&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;14f19881-3fb6-4a89-87fe-f90c7673716b&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2017-03-03T13:20:59.0434427+01:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsDomain&gt;false&lt;/RoleIsDomain&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:15.1175779+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>11</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1025</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'Live ID users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;12&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;Live ID users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSLiveIDUsers&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;Live ID users&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;635ea8f2-8fdb-4212-9e1a-659cf2296c9b&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2017-03-03T13:20:59.0636196+01:00&lt;/RoleLastModified&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:15.1495784+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>12</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1026</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'OpenID users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;13&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;OpenID users&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;cmsopenidusers&lt;/RoleName&gt;
+  &lt;RoleDescription&gt;OpenID authentication role&lt;/RoleDescription&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;51e7e160-3402-4eb4-bdf4-ddf6a68219e5&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2017-03-03T13:20:59.0796195+01:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsDomain&gt;false&lt;/RoleIsDomain&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:15.181581+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>13</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1027</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'CMS Readers'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;14&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;CMS Readers&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;CMSReaders&lt;/RoleName&gt;
+  &lt;RoleDescription /&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;13c0a5fa-f5e1-409d-afe6-dce1cd14bb94&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:08.9506307+02:00&lt;/RoleLastModified&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:15.2175788+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>14</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1028</TaskID>
+      <TaskSiteID>1</TaskSiteID>
+      <TaskTitle>Delete Role 'Marketing Manager'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Role&gt;
+  &lt;RoleID&gt;16&lt;/RoleID&gt;
+  &lt;RoleDisplayName&gt;Marketing Manager&lt;/RoleDisplayName&gt;
+  &lt;RoleName&gt;MarketingManager&lt;/RoleName&gt;
+  &lt;RoleDescription /&gt;
+  &lt;SiteID&gt;1&lt;/SiteID&gt;
+  &lt;RoleGUID&gt;8f24cb38-a987-41a6-adbd-9210eebf008e&lt;/RoleGUID&gt;
+  &lt;RoleLastModified&gt;2020-03-29T08:40:09.1389218+02:00&lt;/RoleLastModified&gt;
+  &lt;RoleIsDomain&gt;false&lt;/RoleIsDomain&gt;
+&lt;/CMS_Role&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;1&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;acfdd116-5bc8-406f-93f4-281dec98d80c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:41:15.2495795+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.role</TaskObjectType>
+      <TaskObjectID>16</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_role>

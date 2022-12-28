@@ -1,0 +1,17 @@
+﻿<cms_culture version="13.0">
+  <NewDataSet>
+    <cms_culture>
+      <CultureID>50</CultureID>
+      <CultureName>English - United States</CultureName>
+      <CultureCode>en-US</CultureCode>
+      <CultureShortName>English</CultureShortName>
+      <CultureGUID>4c98fdfa-841b-431e-9bc8-9fc80800ee45</CultureGUID>
+      <CultureLastModified>2020-10-05T18:58:37.5335411+02:00</CultureLastModified>
+      <CultureIsUICulture>true</CultureIsUICulture>
+    </cms_culture>
+    <cms_siteculture>
+      <SiteID>1</SiteID>
+      <CultureID>50</CultureID>
+    </cms_siteculture>
+  </NewDataSet>
+</cms_culture>

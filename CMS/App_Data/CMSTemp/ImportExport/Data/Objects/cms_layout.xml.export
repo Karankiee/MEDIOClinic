@@ -1,0 +1,533 @@
+﻿<cms_layout version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>3821</TaskID>
+      <TaskTitle>Delete Page layout 'Simple'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;1&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.Simple&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Simple&lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Simple layout with one web part zone.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt; &lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;f840250c-f7d3-4b87-b01b-e839b365fab5&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;701bb385-0d11-4b17-9820-df7cafc3a0a2&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4342024+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.5625767+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3822</TaskID>
+      <TaskTitle>Delete Page layout 'Two columns '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;13&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.TwoColumnsCSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Two columns &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Two column layout using CSS&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+  &amp;lt;div style="width: 50%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 50%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;7e252f44-87cd-4666-a764-6ce6c00c32c9&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;550a79a7-95ba-453b-801f-683892a2b365&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.5372009+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.6239686+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>13</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3823</TaskID>
+      <TaskTitle>Delete Page layout 'Two columns - 20/80 '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;14&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.TwoColumns20_80CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Two columns - 20/80 &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Two columns in ratio 20%/80% using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div class="twoColumnsLeft innerContent"&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 80%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;148313e2-3326-4b4f-8298-e6f27436bab9&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;7ab5c1f8-3ec3-452f-85cc-c33dc2b712eb&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4902042+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.6469902+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>14</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3824</TaskID>
+      <TaskTitle>Delete Page layout 'Two columns - 30/70 '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;15&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.TwoColumns30_70CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Two columns - 30/70 &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Two columns in ratio 30%/70% using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+  &amp;lt;div style="width: 30%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 70%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;abc7ec67-9a19-4066-8b08-534d28ad4f76&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;1e6331ed-3091-4bf2-adc0-e27e8f5489be&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.5021982+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.6739837+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>15</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3825</TaskID>
+      <TaskTitle>Delete Page layout 'Two columns - 70/30 '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;16&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.TwoColumns70_30CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Two columns - 70/30 &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Two columns in ratio 70%/30% using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+  &amp;lt;div style="width: 70%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 30%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;3531c164-b5f3-49f8-b415-b6b989214f10&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;68916806-2b60-43ae-ac8a-b0b741cf9e6e&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.5152157+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.695982+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>16</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3826</TaskID>
+      <TaskTitle>Delete Page layout 'Two columns - 80/20 '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;17&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.TwoColumns80_20CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Two columns - 80/20 &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Two columns in ratio 80%/20% using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+  &amp;lt;div style="width: 80%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 20%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;7ac15597-aaf6-4032-83f5-b0bf7ecc918d&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;80d21b69-dfd0-4648-9571-36f2dbf1500e&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.5261986+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.7169952+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>17</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3827</TaskID>
+      <TaskTitle>Delete Page layout 'Three columns '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;19&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.ThreeColumnsCSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Three columns &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Three columns with web part zones using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+  &amp;lt;div style="width: 33%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 34%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt; 
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 33%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;79a43523-8427-42df-94d6-f4be2523000b&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;a96ae4bf-f02b-4b2f-ac84-f49cf2c83a1e&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.476199+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.7370218+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>19</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3828</TaskID>
+      <TaskTitle>Delete Page layout 'Grid 2x2 cells'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;20&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.Grid2CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Grid 2x2 cells&lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Grid 2x2 of web part zones using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+  &amp;lt;div style="width: 50%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 50%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;div style="width: 50%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 50%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both;"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneF" runat="server" /&amp;gt;    
+&amp;lt;/div&amp;gt;
+&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;ad1603b0-e021-45f9-8d2c-d21e88bf8947&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;3400c02b-4681-47a4-af16-43c67a9b4013&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4131971+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.7629828+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>20</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3829</TaskID>
+      <TaskTitle>Delete Page layout 'Grid 3x2 cells'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;21&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.Grid3CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Grid 3x2 cells&lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Grid 3x2 of web part zones using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+  &amp;lt;div style="width: 33%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 34%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 33%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;div style="width: 33%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 34%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneF" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 33%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneG" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;  
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneH" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;9e4a13da-6d5b-4ef0-bc71-9d233903e1f0&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;775aae79-222c-4e6d-838f-93a0262bdb78&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4241991+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.7859838+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>21</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3830</TaskID>
+      <TaskTitle>Delete Page layout 'Full page'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;42&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.FullPageCSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Full page&lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Full page layout with one full width column using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="width: 100%;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;29f44010-9cae-4e4a-beec-5b04a1a69daa&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;15ab078b-bdd6-4913-9255-0c6c59be7a65&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4031986+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.8089863+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>42</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3831</TaskID>
+      <TaskTitle>Delete Page layout 'Three columns - 25/50/25 '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;43&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.ThreeColumns25_50_25CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Three columns - 25/50/25 &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Three columns in ratio 25%/50%/25% using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;div style="width: 25%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 50%; float: left;"&amp;gt;
+    &amp;lt;div class="Content"&amp;gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;&amp;lt;/div&amp;gt;    
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 25%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;8fe87264-77d9-4823-aae2-2029fb77d38a&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;8fcf2126-e2c2-40cf-b0a7-6694526cc076&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4551972+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.8349886+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>43</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3832</TaskID>
+      <TaskTitle>Delete Page layout 'Three columns - 20/60/20 '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;44&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.ThreeColumns20_60_20CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Three columns - 20/60/20 &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Three columns in ratio 20%/60%/20% using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 60%; float: left;"&amp;gt;
+    &amp;lt;div class="Content"&amp;gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;&amp;lt;/div&amp;gt;  
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;6a2025f6-6806-48b2-8e33-029884740848&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;112dddcd-8f96-48bb-9e50-eceada4fe3a5&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4441965+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.8589849+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>44</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3833</TaskID>
+      <TaskTitle>Delete Page layout 'Three columns - 33/33/33 '</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;45&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.ThreeColumns33_33_33CSS&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Three columns - 33/33/33 &lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Three columns with web part zones using CSS.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;div style="width: 33%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 34%; float: left;"&amp;gt;
+    &amp;lt;div class="Content"&amp;gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;&amp;lt;/div&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 33%; float: right;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;eb1c06b2-4936-4b9d-b6b3-eeba17c2985c&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;686194bc-7f23-4a48-bfdd-e1161cfd64f1&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.4652036+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+  &lt;LayoutCSS /&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.8829978+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>45</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>3834</TaskID>
+      <TaskTitle>Delete Page layout 'Rows'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_Layout&gt;
+  &lt;LayoutID&gt;148&lt;/LayoutID&gt;
+  &lt;LayoutCodeName&gt;CMS.EightRows&lt;/LayoutCodeName&gt;
+  &lt;LayoutDisplayName&gt;Rows&lt;/LayoutDisplayName&gt;
+  &lt;LayoutDescription&gt;Eight rows with web part zones.&lt;/LayoutDescription&gt;
+  &lt;LayoutCode&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneF" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneG" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneH" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/LayoutCode&gt;
+  &lt;LayoutVersionGUID&gt;9d77b9bc-e317-4cb8-ac3e-306f4b446e78&lt;/LayoutVersionGUID&gt;
+  &lt;LayoutGUID&gt;aae1e059-e3a8-48b2-af84-ada3c63bb144&lt;/LayoutGUID&gt;
+  &lt;LayoutLastModified&gt;2020-09-10T13:39:47.3792026+02:00&lt;/LayoutLastModified&gt;
+  &lt;LayoutType&gt;ascx&lt;/LayoutType&gt;
+&lt;/CMS_Layout&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-09-10T14:38:35.9050283+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.layout</TaskObjectType>
+      <TaskObjectID>148</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_layout>

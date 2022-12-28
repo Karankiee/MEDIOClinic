@@ -1,0 +1,889 @@
+﻿<cms_searchindex version="13.0">
+  <NewDataSet>
+    <export_task>
+      <TaskID>299</TaskID>
+      <TaskTitle>Delete Search index 'Community site - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;1&lt;/IndexID&gt;
+  &lt;IndexName&gt;CommunitySite.Default&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Community site - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="1fc13606-eb2b-4f88-9f04-9ec966f7a43b" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Files/%" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="65fffb25-472c-4e87-998f-7e7a80c2315d" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Special-pages/%" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="bc1d1e7d-01f1-4177-a2ff-52d8f936f10d" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Groups/%" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="fd34a0a0-6770-4875-a605-2d0ddcfd30a1" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;4348d2d8-799c-4443-a8a4-873094d80a3a&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2018-11-27T17:03:37.433619+01:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:31+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:37.7422678+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>300</TaskID>
+      <TaskTitle>Delete Search index 'Community site - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;2&lt;/IndexID&gt;
+  &lt;IndexName&gt;CommunitySite.Forums&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Community site - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="" id="8d0d1ffd-7250-4016-b801-1682e67ccdab" sitename="CommunitySite" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;ae3c9811-e685-47a8-aef8-94e22bdbf702&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2017-03-03T13:19:34.714259+01:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:32+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:37.7792665+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>2</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>301</TaskID>
+      <TaskTitle>Delete Search index 'Community Site - Users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;3&lt;/IndexID&gt;
+  &lt;IndexName&gt;CommunitySite.Users&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Community Site - Users&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item id="11111111-1111-1111-1111-111111111111" UserAllSites="False" UserEnabled="True" UserHidden="False" UserInRoles="" UserNotInRoles="" WhereCondition="" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;d68cd8f0-7a8d-4a2e-ac76-fe9bcc10f489&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2017-03-03T13:19:34.7284403+01:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:32+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.user&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2018-11-27T17:03:37.795777+01:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>3</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1435</TaskID>
+      <TaskTitle>Delete Search index 'Corporate Site - Custom table'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;4&lt;/IndexID&gt;
+  &lt;IndexName&gt;CorporateSite.CustomTable&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Corporate Site - Custom table&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="customtable.SampleTable" DisplayName="Sample table" id="f0d588f7-a57a-496d-b6cd-cb7974549bc3" type="" WhereCondition="" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;e78e7b7a-37ce-42c0-a3b6-0586aed2e6e7&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2017-03-03T13:19:34.7434715+01:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:32+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.customtable&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.1169744+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>4</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1436</TaskID>
+      <TaskTitle>Delete Search index 'Corporate Site - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;5&lt;/IndexID&gt;
+  &lt;IndexName&gt;CorporateSite.Default&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Corporate Site - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;startswith&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="29804c5c-d6b1-492e-8f17-2cde61fb5134" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/SpecialPages/%" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="f96acd4d-3c5b-4ca9-a486-8fe8d6361b0e" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;d9e6bcd5-dc66-4509-9db8-cb3462f6d59e&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.6728387+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:43+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;100&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.1576043+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>5</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1437</TaskID>
+      <TaskTitle>Delete Search index 'Corporate Site - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;6&lt;/IndexID&gt;
+  &lt;IndexName&gt;CorporateSite.Forums&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Corporate Site - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="" id="b4fbdd5f-4fc6-409a-b184-c5d68a544348" sitename="CorporateSite" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;7528444f-e077-42d6-b0f1-03ddca9296d1&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2017-03-03T13:19:34.7693953+01:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:43+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.1794731+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>6</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1438</TaskID>
+      <TaskTitle>Delete Search index 'Corporate Site - Mobile'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;7&lt;/IndexID&gt;
+  &lt;IndexName&gt;CorporateSite.Mobile&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Corporate Site - Mobile&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="CMS.News" id="37335cfc-87c9-4ba0-aef6-83dbfa778d50" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/News/%" type="allowed" /&amp;gt;&amp;lt;item classnames="" id="3a12afb3-8b2d-4d96-bc65-3a7a5dbf6bea" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Mobile/%" type="allowed" /&amp;gt;&amp;lt;item classnames="" id="a1f21638-a3c0-46a3-857e-92f74ddcf655" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Mobile/News/{id}" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="eed3e72d-bd82-42ed-a379-a9e6620f1ec7" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Mobile/News/Detail" type="excluded" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;f8b83a54-2ed0-4c84-a011-83b1c3cab5c5&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.6960052+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:49+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.196731+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>7</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1439</TaskID>
+      <TaskTitle>Delete Search index 'Corporate Site - Users'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;8&lt;/IndexID&gt;
+  &lt;IndexName&gt;CorporateSite.Users&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Corporate Site - Users&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexGUID&gt;20a4305a-a7f6-4973-b936-2ccfc093f78b&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2017-03-03T13:19:34.7925675+01:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:49+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.user&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.2169763+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>8</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1440</TaskID>
+      <TaskTitle>Delete Search index 'Dancing Goat - Pages'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;9&lt;/IndexID&gt;
+  &lt;IndexName&gt;DancingGoat.Pages&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Dancing Goat - Pages&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;subset&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="DancingGoat.Article" id="041b5b68-9a57-4a5b-aae0-5f535d18c171" inclatt="False" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/Articles/%" type="allowed" /&amp;gt;&amp;lt;item classnames="DancingGoat.Brewer;DancingGoat.Coffee;DancingGoat.ElectricGrinder;DancingGoat.FilterPack;DancingGoat.ManualGrinder;DancingGoat.Ebook;DancingGoat.Membership;DancingGoat.Tableware" id="3a46b6c4-d6d9-4f78-9ef0-2359f1187914" inclatt="False" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/Store/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;75cd3630-ad20-4b07-ac8c-84c627702b7c&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:51.0800851+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:16+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.2413967+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>9</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1441</TaskID>
+      <TaskTitle>Delete Search index 'E-commerce Site - Products'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;21&lt;/IndexID&gt;
+  &lt;IndexName&gt;EcommerceSite.Products&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;E-commerce Site - Products&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;subset&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="CMSProduct.Book;CMSProduct.CellPhone;CMSProduct.Computer;CMSProduct.Cup;CMSProduct.Laptop;CMSProduct.MediaPlayer;CMSProduct.Pants;CMSProduct.Perfume;CMSProduct.Shoes;CMSProduct.Tablet;CMSProduct.Tshirt;CMSProduct.TV;CMSProduct.Watch;CMS.Product;CMS.Smartphone" id="a2c75281-9acf-46c2-9450-000ded9c7043" inclblogcomm="False" inclcats="False" inclforums="False" inclmessagecomm="False" path="/Products/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;f180361d-3d67-41f4-863c-5feb811007bf&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.8827875+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:22+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.2679645+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>21</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1442</TaskID>
+      <TaskTitle>Delete Search index 'E-commerce Site - Sections'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;22&lt;/IndexID&gt;
+  &lt;IndexName&gt;EcommerceSite.Sections&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;E-commerce Site - Sections&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;subset&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="CMS.MenuItem" id="575cbda3-152c-44a8-a542-c09145830e74" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Products/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;ec302ba8-c771-464a-bdb7-d2996f06e225&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.8967746+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:22+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexCustomAnalyzerAssemblyName /&gt;
+  &lt;IndexCustomAnalyzerClassName /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.2880607+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>22</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1443</TaskID>
+      <TaskTitle>Delete Search index 'Finance - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;15&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_department_208f051f-3174-4ee8-a4b2-224588a39c15&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Finance - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="416ecdfc-1c08-454e-9e79-82ebcac691d3" path="/Departments/Finance/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;bd0210d0-10bd-4344-9f20-d88ef689b18f&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.7900393+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:07:23+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.3085426+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>15</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1444</TaskID>
+      <TaskTitle>Delete Search index 'Finance - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;27&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_department_208f051f-3174-4ee8-a4b2-224588a39c15&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Finance - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_department_208f051f-3174-4ee8-a4b2-224588a39c15" id="627e03b8-8fbd-476c-8df2-7fe7903ae9bd" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;6c983159-4074-46a7-bf9c-1071945579ee&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.9749916+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:49+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.3273195+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>27</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1445</TaskID>
+      <TaskTitle>Delete Search index 'HR - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;17&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_department_62e320f8-480f-49f3-bfc3-4ffd603dd99e&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;HR - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="b91c8c42-e6a1-4214-a648-056c2f374e4b" path="/Departments/HR/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;2b8221c3-74b5-42bd-aec8-2bd048a6cf20&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.8192944+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:01+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.3490913+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>17</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1446</TaskID>
+      <TaskTitle>Delete Search index 'HR - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;29&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_department_62e320f8-480f-49f3-bfc3-4ffd603dd99e&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;HR - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_department_62e320f8-480f-49f3-bfc3-4ffd603dd99e" id="65d81438-5089-4b45-bccc-fa6339e60f59" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;b9fd2181-1a64-4219-8ae8-cc70daeb6024&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:51.0068007+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:37+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.3709022+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>29</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1447</TaskID>
+      <TaskTitle>Delete Search index 'Intranet Portal - General content'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;33&lt;/IndexID&gt;
+  &lt;IndexName&gt;IntranetPortal.GeneralContent&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Intranet Portal - General content&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="2a2ddcd1-d682-4370-a3f1-ded35bc21384" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/%" type="allowed" /&amp;gt;&amp;lt;item classnames="" id="8f05bac0-a5ec-48c1-a14e-189a66b09e63" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Workgroups/%" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="ac24998a-6224-4fb6-a086-484e206db01d" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Special-pages" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="be9a2ff0-2f3c-4f0d-a853-3be1c036c813" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Special-pages/%" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="bf51e8be-7cbe-4bea-adbf-5758da97948a" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Files" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="cf953f4e-8bd0-4c1b-9b3f-7e51eada865e" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Files/%" type="excluded" /&amp;gt;&amp;lt;item classnames="" id="f7113d8a-0613-404e-8f66-4c7771a80f47" inclblogcomm="False" inclforums="False" inclmessagecomm="False" path="/Departments/%" type="excluded" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;df244a92-19a3-41fd-a728-d7f11ece818e&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:51.0662328+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:44+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.3913847+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>33</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1448</TaskID>
+      <TaskTitle>Delete Search index 'Intranet Portal - General forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;34&lt;/IndexID&gt;
+  &lt;IndexName&gt;IntranetPortal.GeneralForums&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Intranet Portal - General forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="General;Intranet;TechnicalSupport" id="8329c1a4-d84d-499a-998d-f9196114888d" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;dd9aff9a-08ff-48e7-a2e1-d8fc4c80e5a9&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2017-03-03T13:19:35.0931506+01:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:07:23+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexStopWordsFile /&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.4102931+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>34</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1449</TaskID>
+      <TaskTitle>Delete Search index 'IT - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;16&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_department_505a2428-8a90-4537-a594-9f052f4f5ade&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;IT - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="4fb761cc-7c60-4d3c-a8c1-f3cf75c8fcb1" path="/Departments/IT/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;1dcfa67a-8eef-47a5-b280-61251e4eae0c&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.8062652+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:20+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.4282941+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>16</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1450</TaskID>
+      <TaskTitle>Delete Search index 'IT - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;28&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_department_505a2428-8a90-4537-a594-9f052f4f5ade&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;IT - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_department_505a2428-8a90-4537-a594-9f052f4f5ade" id="3bb78429-4b80-4ec1-9daa-003b0ce64e1a" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;1e1f5d4e-5555-453f-b7c2-0d2f87df92f8&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.9921972+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:49+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.4422942+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>28</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1451</TaskID>
+      <TaskTitle>Delete Search index 'Management - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;11&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_department_862655bd-1ba2-4885-8903-b31517e32924&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Management - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="86648a13-68d0-4f2c-a4c2-e23ce80445cd" path="/Departments/Management/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;021c54ad-5958-4631-9773-432a31cd8e2d&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.7248277+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:07+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.4603846+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>11</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1452</TaskID>
+      <TaskTitle>Delete Search index 'Management - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;23&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_department_862655bd-1ba2-4885-8903-b31517e32924&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Management - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_department_862655bd-1ba2-4885-8903-b31517e32924" id="74e1e2ba-b0ed-47b6-8732-2a8b25a521ad" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;214342e7-512c-4ed5-ad18-d9223e144016&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.913601+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:07:23+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.4816331+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>23</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1453</TaskID>
+      <TaskTitle>Delete Search index 'Marketing Strategy - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;20&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_group_b4f30797-a9ba-424a-8702-d4cade34a741&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Marketing Strategy - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="89b9ab10-011f-48cb-a2e1-2e69f802b34b" path="/Workgroups/Marketing_Strategy/%" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;2dc30d84-f685-40a4-a55f-1e588ff609c6&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.8649712+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:55+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.5063649+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>20</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1454</TaskID>
+      <TaskTitle>Delete Search index 'Marketing Strategy - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;32&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_group_b4f30797-a9ba-424a-8702-d4cade34a741&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Marketing Strategy - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_group_b4f30797-a9ba-424a-8702-d4cade34a741" id="87c46be5-8b8a-4e99-90a7-0525c7eac4a0" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;afde201f-e8c4-415b-8be9-874483955ff8&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:51.0491926+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:20+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.5276513+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>32</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1455</TaskID>
+      <TaskTitle>Delete Search index 'Microsoft Office Upgrade - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;19&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_group_2fdfd053-0dda-477f-9e6a-a7dd589ad0e6&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Microsoft Office Upgrade - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="efcb18af-8a2c-4a97-b7c5-3eefa4398037" path="/Workgroups/Microsoft_Office_Upgrade/%" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;fb5aeacb-caa5-4481-a17d-55f7628228a2&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.8499567+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:13+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.547554+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>19</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1456</TaskID>
+      <TaskTitle>Delete Search index 'Microsoft Office Upgrade - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;31&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_group_2fdfd053-0dda-477f-9e6a-a7dd589ad0e6&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Microsoft Office Upgrade - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_group_2fdfd053-0dda-477f-9e6a-a7dd589ad0e6" id="e86677f1-8b02-4529-9fb5-65e6cc35e240" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;b34b33cf-a0ee-4d97-b0a3-19a08d9ddcfb&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:51.0356744+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:05:49+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.5686113+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>31</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1457</TaskID>
+      <TaskTitle>Delete Search index 'PR &amp; Marketing - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;14&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_department_b5f1e074-e0a9-4111-985a-37eef5b573dd&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;PR &amp;amp; Marketing - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="b7aa4810-b694-4b11-aafd-782573e00021" path="/Departments/PR---Marketing/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;f72bc74c-a023-436e-aad2-b3a07ceffb60&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.7731268+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:26+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.5875212+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>14</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1458</TaskID>
+      <TaskTitle>Delete Search index 'PR &amp; Marketing - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;26&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_department_b5f1e074-e0a9-4111-985a-37eef5b573dd&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;PR &amp;amp; Marketing - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_department_b5f1e074-e0a9-4111-985a-37eef5b573dd" id="3e4d8bbe-344e-4087-95ce-92e3896f40cd" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;1e8ff078-7106-4408-8b0e-841b5f99d386&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.9579115+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:20+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.608706+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>26</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1459</TaskID>
+      <TaskTitle>Delete Search index 'Production - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;12&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_department_0cd160f7-5684-41da-8a70-ca7f744aed09&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Production - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="1518f785-053a-42f6-b406-204a58e9a71f" path="/Departments/Production/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;9957a372-d77a-4d39-8629-b568bec35496&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.7393814+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:37+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.6273795+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>12</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1460</TaskID>
+      <TaskTitle>Delete Search index 'Production - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;24&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_department_0cd160f7-5684-41da-8a70-ca7f744aed09&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Production - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_department_0cd160f7-5684-41da-8a70-ca7f744aed09" id="6da39291-248b-45b0-82ad-5a6343a133d3" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;81f90b4f-fdbc-4f5f-bb12-5210e6fdd3d4&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.9272817+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:07+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.6449224+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>24</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1461</TaskID>
+      <TaskTitle>Delete Search index 'Sales - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;13&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_department_01c6599c-aa64-4850-9609-be813d85d257&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Sales - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="298b5241-3b54-4fc1-bb45-ddc967842010" path="/Departments/Sales/%" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;cbc5a2a7-fbf2-4143-86ac-b47a1461d6be&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.7537194+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:32+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.6657261+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>13</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1462</TaskID>
+      <TaskTitle>Delete Search index 'Sales - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;25&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_department_01c6599c-aa64-4850-9609-be813d85d257&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Sales - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_department_01c6599c-aa64-4850-9609-be813d85d257" id="6695f5b6-bc93-4c40-973d-2dfcf8896bab" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;b3047291-a61b-4da8-9689-500619b8036c&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.9424848+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:07+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.6898606+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>25</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1463</TaskID>
+      <TaskTitle>Delete Search index 'Tradeshow in Las Vegas - Default'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;18&lt;/IndexID&gt;
+  &lt;IndexName&gt;default_group_039217ba-ae16-4c2c-b39b-44802b0de9e9&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Tradeshow in Las Vegas - Default&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item classnames="" id="1838f0df-1253-40a8-90fe-51e0ea3c4fab" path="/Workgroups/Tradeshow_in_Las_Vegas/%" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;6e1968c1-8c6d-4311-9d24-eb61c81730a6&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:50.8341451+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:07:29+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;cms.document&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.7123321+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>18</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>1464</TaskID>
+      <TaskTitle>Delete Search index 'Tradeshow in Las Vegas - Forums'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_SearchIndex&gt;
+  &lt;IndexID&gt;30&lt;/IndexID&gt;
+  &lt;IndexName&gt;forums_group_039217ba-ae16-4c2c-b39b-44802b0de9e9&lt;/IndexName&gt;
+  &lt;IndexDisplayName&gt;Tradeshow in Las Vegas - Forums&lt;/IndexDisplayName&gt;
+  &lt;IndexAnalyzerType&gt;standard&lt;/IndexAnalyzerType&gt;
+  &lt;IndexIsCommunityGroup&gt;false&lt;/IndexIsCommunityGroup&gt;
+  &lt;IndexSettings&gt;&amp;lt;index&amp;gt;&amp;lt;item ForumNames="*_group_039217ba-ae16-4c2c-b39b-44802b0de9e9" id="26ff7297-b4b8-4121-8bad-4024e07de02e" sitename="IntranetPortal" type="allowed" /&amp;gt;&amp;lt;/index&amp;gt;&lt;/IndexSettings&gt;
+  &lt;IndexGUID&gt;243feaf5-6ba6-4c46-aab7-753e88f35c34&lt;/IndexGUID&gt;
+  &lt;IndexLastModified&gt;2020-03-29T08:44:51.0226641+02:00&lt;/IndexLastModified&gt;
+  &lt;IndexLastRebuildTime&gt;2017-01-10T21:06:20+01:00&lt;/IndexLastRebuildTime&gt;
+  &lt;IndexType&gt;forums.forum&lt;/IndexType&gt;
+  &lt;IndexBatchSize&gt;10000&lt;/IndexBatchSize&gt;
+  &lt;IndexIsOutdated&gt;true&lt;/IndexIsOutdated&gt;
+  &lt;IndexProvider&gt;Lucene&lt;/IndexProvider&gt;
+&lt;/CMS_SearchIndex&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2020-03-29T08:44:51.7303636+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.searchindex</TaskObjectType>
+      <TaskObjectID>30</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_searchindex>
