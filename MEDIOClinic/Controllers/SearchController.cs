@@ -34,7 +34,7 @@ namespace MEDIOClinic.Controllers
             }
 
             // Searches the specified index and gets the matching results
-            SearchParameters searchParameters = SearchParameters.PrepareForPages(searchText, searchIndexes, 1, PAGE_SIZE, MembershipContext.AuthenticatedUser, "en-us", true);
+            SearchParameters searchParameters = SearchParameters.PrepareForPages(searchText, searchIndexes, 1, PAGE_SIZE, MembershipContext.AuthenticatedUser);
             SearchResult searchResult = SearchHelper.Search(searchParameters);
 
             // Creates a model with the search result items
